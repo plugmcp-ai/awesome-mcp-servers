@@ -1,0 +1,48 @@
+name: Nominate a server
+description: Suggest an MCP server for the curated PlugMCP shelf
+title: "Nominate: "
+labels: ["nomination"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Server name
+      placeholder: Context7
+    validations:
+      required: true
+  - type: input
+    id: plugmcp
+    attributes:
+      label: PlugMCP URL (or search query)
+      description: Prefer a listing link. If missing, submit at https://plugmcp.ai/mcp/submit first.
+      placeholder: https://plugmcp.ai/mcp?q=context7
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: Publisher repository
+      placeholder: https://github.com/owner/repo
+  - type: dropdown
+    id: shelf
+    attributes:
+      label: Shelf
+      options:
+        - official-core
+        - browser
+        - databases
+        - design
+        - developer-tools
+        - security
+        - mobile
+        - cloud-ops
+        - skills
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this belongs on the curated shelf
+      description: One or two sentences. Prefer official or widely used servers.
+    validations:
+      required: true

@@ -1,0 +1,60 @@
+{
+  "updated": "2026-10-27",
+  "source": "https://github.com/plugmcp-ai/awesome-mcp-servers",
+  "directory": "https://plugmcp.ai/skills",
+  "skills": [
+    {
+      "id": "install-mcp-from-plugmcp",
+      "name": "Install an MCP server from PlugMCP",
+      "kind": "first-party",
+      "path": "skills/install-mcp-from-plugmcp/SKILL.md",
+      "url": "https://plugmcp.ai/mcp"
+    },
+    {
+      "id": "host-on-plugmcp",
+      "name": "Host a server on PlugMCP",
+      "kind": "first-party",
+      "path": "skills/host-on-plugmcp/SKILL.md",
+      "url": "https://plugmcp.ai/host"
+    },
+    {
+      "id": "submit-mcp-server",
+      "name": "Submit an MCP server to PlugMCP",
+      "kind": "first-party",
+      "path": "skills/submit-mcp-server/SKILL.md",
+      "url": "https://plugmcp.ai/mcp/submit"
+    },
+    {
+      "id": "anthropics-skills",
+      "name": "anthropics/skills",
+      "kind": "pointer",
+      "path": null,
+      "url": "https://github.com/anthropics/skills",
+      "blurb": "official Agent Skills examples"
+    },
+    {
+      "id": "addyosmani-agent-skills",
+      "name": "addyosmani/agent-skills",
+      "kind": "pointer",
+      "path": null,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "production engineering skills"
+    },
+    {
+      "id": "agentskills-spec",
+      "name": "agentskills/agentskills",
+      "kind": "pointer",
+      "path": null,
+      "url": "https://github.com/agentskills/agentskills",
+      "blurb": "skill specification and docs"
+    },
+    {
+      "id": "drawio-skill",
+      "name": "drawio-skill",
+      "kind": "pointer",
+      "path": null,
+      "url": "https://github.com/Agents365-ai/drawio-skill",
+      "blurb": "architecture diagrams from code and APIs"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "updated": "2026-10-27",
+  "source": "https://github.com/plugmcp-ai/awesome-mcp-servers",
+  "directory": "https://plugmcp.ai/mcp",
+  "servers": [
+    {
+      "name": "GitHub MCP Server",
+      "shelf": "official-core",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=github-mcp-server",
+      "github_url": "https://github.com/github/github-mcp-server",
+      "blurb": "official GitHub tools for agents"
+    },
+    {
+      "name": "Chrome DevTools MCP",
+      "shelf": "official-core",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=chrome-devtools-mcp",
+      "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "blurb": "DevTools for coding agents"
+    },
+    {
+      "name": "Playwright MCP",
+      "shelf": "official-core",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=playwright-mcp",
+      "github_url": "https://github.com/microsoft/playwright-mcp",
+      "blurb": "browser automation from Microsoft"
+    },
+    {
+      "name": "AWS MCP",
+      "shelf": "official-core",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=awslabs+mcp",
+      "github_url": "https://github.com/awslabs/mcp",
+      "blurb": "open source AWS MCP servers"
+    },
+    {
+      "name": "MCP Inspector",
+      "shelf": "official-core",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=inspector",
+      "github_url": "https://github.com/modelcontextprotocol/inspector",
+      "blurb": "visual testing for MCP servers"
+    },
+    {
+      "name": "FastMCP",
+      "shelf": "official-core",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=fastmcp",
+      "github_url": "https://github.com/PrefectHQ/fastmcp",
+      "blurb": "build MCP servers in Python"
+    },
+    {
+      "name": "MCP for beginners",
+      "shelf": "official-core",
+      "plugmcp_url": null,
+      "github_url": "https://github.com/microsoft/mcp-for-beginners",
+      "blurb": "curriculum for the protocol"
+    },
+    {
+      "name": "Firecrawl MCP",
+      "shelf": "browser",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=firecrawl",
+      "github_url": "https://github.com/firecrawl/firecrawl-mcp-server",
+      "blurb": "search, scrape, crawl for agents"
+    },
+    {
+      "name": "Browser MCP",
+      "shelf": "browser",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=browsermcp",
+      "github_url": "https://github.com/BrowserMCP/mcp",
+      "blurb": "control the browser you already signed into"
+    },
+    {
+      "name": "mcp-chrome",
+      "shelf": "browser",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=mcp-chrome",
+      "github_url": "https://github.com/hangwin/mcp-chrome",
+      "blurb": "Chrome extension MCP"
+    },
+    {
+      "name": "browser-tools-mcp",
+      "shelf": "browser",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=browser-tools",
+      "github_url": "https://github.com/AgentDeskAI/browser-tools-mcp",
+      "blurb": "console and network from the IDE"
+    },
+    {
+      "name": "Scrapling",
+      "shelf": "browser",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=scrapling",
+      "github_url": "https://github.com/D4Vinci/Scrapling",
+      "blurb": "stealth scrape and crawl"
+    },
+    {
+      "name": "Apify MCP",
+      "shelf": "browser",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=apify",
+      "github_url": "https://github.com/apify/apify-mcp-server",
+      "blurb": "ready-made scrapers as tools"
+    },
+    {
+      "name": "SeleniumBase",
+      "shelf": "browser",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=seleniumbase",
+      "github_url": "https://github.com/seleniumbase/SeleniumBase",
+      "blurb": "stealth browser automation with MCP"
+    },
+    {
+      "name": "MCP Toolbox for Databases",
+      "shelf": "databases",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=mcp-toolbox",
+      "github_url": "https://github.com/googleapis/mcp-toolbox",
+      "blurb": "Google open source DB MCP"
+    },
+    {
+      "name": "Supabase",
+      "shelf": "databases",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=supabase",
+      "github_url": null,
+      "blurb": "platform MCP for projects and SQL"
+    },
+    {
+      "name": "dbx",
+      "shelf": "databases",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=dbx",
+      "github_url": "https://github.com/t8y2/dbx",
+      "blurb": "100+ databases, built-in MCP"
+    },
+    {
+      "name": "Figma Context MCP",
+      "shelf": "design",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=figma-context",
+      "github_url": "https://github.com/GLips/Figma-Context-MCP",
+      "blurb": "layout context for coding agents"
+    },
+    {
+      "name": "Talk to Figma",
+      "shelf": "design",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=talk-to-figma",
+      "github_url": "https://github.com/grab/cursor-talk-to-figma-mcp",
+      "blurb": "read and edit Figma from the agent"
+    },
+    {
+      "name": "next-ai-draw-io",
+      "shelf": "design",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=draw-io",
+      "github_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "blurb": "diagrams over chat and MCP"
+    },
+    {
+      "name": "Context7",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=context7",
+      "github_url": "https://github.com/upstash/context7",
+      "blurb": "up-to-date library docs for agents"
+    },
+    {
+      "name": "Serena",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=serena",
+      "github_url": "https://github.com/oraios/serena",
+      "blurb": "semantic code retrieval and edit"
+    },
+    {
+      "name": "git-mcp",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=git-mcp",
+      "github_url": "https://github.com/idosal/git-mcp",
+      "blurb": "remote MCP for any GitHub project"
+    },
+    {
+      "name": "codebase-memory-mcp",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=codebase-memory",
+      "github_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "blurb": "local code graph for agents"
+    },
+    {
+      "name": "Desktop Commander",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=DesktopCommander",
+      "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "blurb": "terminal and files for Claude"
+    },
+    {
+      "name": "n8n-mcp",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=n8n-mcp",
+      "github_url": "https://github.com/czlonkowski/n8n-mcp",
+      "blurb": "build n8n workflows from the agent"
+    },
+    {
+      "name": "HexStrike AI",
+      "shelf": "security",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=hexstrike",
+      "github_url": "https://github.com/0x4m4/hexstrike-ai",
+      "blurb": "pentest tools as MCP"
+    },
+    {
+      "name": "IDA Pro MCP",
+      "shelf": "security",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=ida-pro-mcp",
+      "github_url": "https://github.com/mrexodia/ida-pro-mcp",
+      "blurb": "reverse engineering assistant"
+    },
+    {
+      "name": "GhidraMCP",
+      "shelf": "security",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=ghidra",
+      "github_url": "https://github.com/LaurieWired/GhidraMCP",
+      "blurb": "Ghidra over MCP"
+    },
+    {
+      "name": "mobile-mcp",
+      "shelf": "mobile",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=mobile-mcp",
+      "github_url": "https://github.com/mobile-next/mobile-mcp",
+      "blurb": "iOS and Android automation"
+    },
+    {
+      "name": "docker-android",
+      "shelf": "mobile",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=docker-android",
+      "github_url": "https://github.com/budtmo/docker-android",
+      "blurb": "Android in Docker with MCP"
+    },
+    {
+      "name": "Unity MCP",
+      "shelf": "mobile",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=unity-mcp",
+      "github_url": "https://github.com/CoplayDev/unity-mcp",
+      "blurb": "control the Unity editor"
+    },
+    {
+      "name": "Windows-MCP",
+      "shelf": "mobile",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=Windows-MCP",
+      "github_url": "https://github.com/CursorTouch/Windows-MCP",
+      "blurb": "computer use on Windows"
+    },
+    {
+      "name": "xerj",
+      "shelf": "cloud-ops",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=xerj",
+      "github_url": "https://github.com/xerj-org/xerj",
+      "blurb": "local-first search MCP for agents"
+    },
+    {
+      "name": "Nightingale",
+      "shelf": "cloud-ops",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=nightingale",
+      "github_url": "https://github.com/ccfos/nightingale",
+      "blurb": "alerting with a built-in MCP"
+    },
+    {
+      "name": "Exa",
+      "shelf": "cloud-ops",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=exa",
+      "github_url": null,
+      "blurb": "web search MCP for agents"
+    },
+    {
+      "name": "Tavily",
+      "shelf": "cloud-ops",
+      "plugmcp_url": "https://plugmcp.ai/mcp?q=tavily",
+      "github_url": null,
+      "blurb": "search and extract MCP"
+    }
+  ]
+}
