@@ -1,7 +1,20 @@
 # Design and product
 
-Design tools and diagram MCP servers. Full list index: [README](../README.md).
+Figma, diagrams, and design systems. Full list index: [README](../README.md).
 
-- [Figma Context MCP](https://plugmcp.ai/mcp?q=figma-context) · [repo](https://github.com/GLips/Figma-Context-MCP) — layout context for coding agents
-- [Talk to Figma](https://plugmcp.ai/mcp?q=talk-to-figma) · [repo](https://github.com/grab/cursor-talk-to-figma-mcp) — read and edit Figma from the agent
-- [next-ai-draw-io](https://plugmcp.ai/mcp?q=draw-io) · [repo](https://github.com/DayuanJiang/next-ai-draw-io) — diagrams over chat and MCP
+- [Figma MCP Bridge](https://plugmcp.ai/mcp/gethopp-figma-mcp-bridge) · [repo](https://github.com/gethopp/figma-mcp-bridge) — Figma Plugin & MCP server to bypass API limits. · Cursor, Claude, VS Code
+- [Claude Talk To Figma](https://plugmcp.ai/mcp/arinspunk-claude-talk-to-figma-mcp) · [repo](https://github.com/arinspunk/claude-talk-to-figma-mcp) — Get document information, current selection, styles. Scan text, audit components, export assets. Shapes, text, frames with full style. · Cursor, Claude, VS Code
+- [Editor](https://plugmcp.ai/mcp/pascalorg-editor) · [repo](https://github.com/pascalorg/editor) — Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI. · Cursor, Claude, VS Code
+- [Cursor Talk To Figma](https://plugmcp.ai/mcp/grab-cursor-talk-to-figma-mcp) · [repo](https://github.com/grab/cursor-talk-to-figma-mcp) — TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code, Codex) and Figma, allowing Agentic AI to communicate with Figma for. · Cursor, Claude, VS Code
+- [Davinci Resolve](https://plugmcp.ai/mcp/samuelgursky-davinci-resolve-mcp) · [repo](https://github.com/samuelgursky/davinci-resolve-mcp) — MCP server integration for DaVinci Resolve Studio. · Cursor, Claude, VS Code
+- [Appllama Skills](https://plugmcp.ai/mcp/appllama-appllama-skills) · [repo](https://github.com/Appllama/appllama-skills) — A builder, not just a researcher. Agent skills that turn top-grossing app patterns into native-quality mobile. · Cursor, Claude, VS Code
+- [Silex](https://plugmcp.ai/mcp/silexlabs-silex) · [repo](https://github.com/silexlabs/Silex) — Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet. · Cursor, Claude, VS Code
+- [Thesvg](https://plugmcp.ai/mcp/glincker-thesvg) · [repo](https://github.com/glincker/thesvg) — The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) as official SVG. Search, copy, ship via npm, CDN, CLI. · Cursor, Claude, VS Code
+- [Doory](https://plugmcp.ai/mcp/shaongitbd-doory) · [repo](https://github.com/shaongitbd/doory) — Open source canva alternative. · Cursor, Claude, VS Code
+- [MeiGen AI Design](https://plugmcp.ai/mcp/jau123-meigen-ai-design-mcp) · [repo](https://github.com/jau123/MeiGen-AI-Design-MCP) — Discover inspiration and create images and videos with the latest AI models. Works with ChatGPT, Claude, Cursor, and other MCP. · Cursor, Claude, VS Code
+- [Solidworks Automation Skill](https://plugmcp.ai/mcp/wzyn20051216-solidworks-automation-skill) · [repo](https://github.com/wzyn20051216/solidworks-automation-skill) — Reliable AI Skill + MCP toolkit for agent-driven desktop CAD automation. · Cursor, Claude, VS Code
+- [Lightswind UI Library](https://plugmcp.ai/mcp/codewithmuhilan-lightswind-ui-library) · [repo](https://github.com/codewithMUHILAN/Lightswind-UI-Library) — The AI-native CLI-first React component library. 160+ animated, accessible, production-ready components with MCP Server support for Cursor. · Cursor, Claude, VS Code
+- [Figwright](https://plugmcp.ai/mcp/awdr74100-figwright) · [repo](https://github.com/awdr74100/figwright) — Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the canvas. Works with Claude Code, Cursor. · Cursor, Claude, VS Code
+- [Easyeda Agent](https://plugmcp.ai/mcp/zhoushoujianwork-easyeda-agent) · [repo](https://github.com/zhoushoujianwork/easyeda-agent) — 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 |. · Cursor, Claude, VS Code
+- [Photoshop](https://plugmcp.ai/mcp/alisaitteke-photoshop-mcp-github) · [repo](https://github.com/alisaitteke/photoshop-mcp) — MCP for Adobe Photoshop. 118 tools. Control from Cursor, Claude or custom. · Cursor, Claude, VS Code
+- [Vibe](https://plugmcp.ai/mcp/mondaycom-vibe) · [repo](https://github.com/mondaycom/vibe) — Vibe Design System - Official monday.com UI resources for application development in. · Cursor, Claude, VS Code
