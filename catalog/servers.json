@@ -967,7 +967,7 @@
       "install": null
     },
     {
-      "name": "MCP For Blender",
+      "name": "Blender",
       "slug": "ahujasid-mcp-for-blender",
       "shelf": "cloud-ops",
       "plugmcp_url": "https://plugmcp.ai/mcp/ahujasid-mcp-for-blender",
@@ -1422,7 +1422,7 @@
       "install": null
     },
     {
-      "name": "Inspector",
+      "name": "MCP Inspector",
       "slug": "modelcontextprotocol-inspector",
       "shelf": "cloud-ops",
       "plugmcp_url": "https://plugmcp.ai/mcp/modelcontextprotocol-inspector",
@@ -1526,7 +1526,7 @@
       "install": null
     },
     {
-      "name": "Mobile",
+      "name": "Mobile MCP",
       "slug": "mobile-next-mobile-mcp",
       "shelf": "browser",
       "plugmcp_url": "https://plugmcp.ai/mcp/mobile-next-mobile-mcp",
@@ -1552,7 +1552,7 @@
       "install": null
     },
     {
-      "name": "Awslabs",
+      "name": "AWS MCP",
       "slug": "awslabs-mcp",
       "shelf": "cloud-ops",
       "plugmcp_url": "https://plugmcp.ai/mcp/awslabs-mcp",
@@ -3541,7 +3541,7 @@
       "install": null
     },
     {
-      "name": "Inspector",
+      "name": "MCP Inspector",
       "slug": "mcpjam-inspector",
       "shelf": "cloud-ops",
       "plugmcp_url": "https://plugmcp.ai/mcp/mcpjam-inspector",

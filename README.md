@@ -41,7 +41,7 @@ Servers people actually search for. Each row links to its PlugMCP page (install,
   `uvx serena-agent`
 - [Figma Context](https://plugmcp.ai/mcp/io.github.glips-figma-context-mcp) · [repo](https://github.com/GLips/Figma-Context-MCP) — Give your coding agent access to your Figma data. Implement designs in any framework in. · official, local, Cursor, Claude, VS Code
   `npx -y figma-developer-mcp`
-- [MCP For Blender](https://plugmcp.ai/mcp/ahujasid-mcp-for-blender) · [repo](https://github.com/ahujasid/mcp-for-blender) — Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender. · Cursor, Claude, VS Code
+- [Blender](https://plugmcp.ai/mcp/ahujasid-mcp-for-blender) · [repo](https://github.com/ahujasid/mcp-for-blender) — Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender. · Cursor, Claude, VS Code
 - [n8n](https://plugmcp.ai/mcp/czlonkowski-n8n-mcp) · [repo](https://github.com/czlonkowski/n8n-mcp) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for. · local, Cursor, Claude, VS Code
   `npx -y n8n-mcp`
 - [Slack](https://plugmcp.ai/mcp/korotovsky-slack-mcp-server) · [repo](https://github.com/korotovsky/slack-mcp-server) — The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch. · local, Cursor, Claude, VS Code
@@ -50,7 +50,7 @@ Servers people actually search for. Each row links to its PlugMCP page (install,
 - [Brave Search](https://plugmcp.ai/mcp/io.github.brave-brave-search-mcp-server) · [repo](https://github.com/brave/brave-search-mcp-server) — Brave Search MCP Server: web results, images, videos, rich results, AI summaries, and. · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/brave/mcp`
 - [Browser MCP](https://plugmcp.ai/mcp/browsermcp-mcp) · [repo](https://github.com/BrowserMCP/mcp) — Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your. · Cursor, Claude, VS Code
-- [Inspector](https://plugmcp.ai/mcp/modelcontextprotocol-inspector) · [repo](https://github.com/modelcontextprotocol/inspector) — Visual testing tool for MCP servers. · Cursor, Claude, VS Code
+- [MCP Inspector](https://plugmcp.ai/mcp/modelcontextprotocol-inspector) · [repo](https://github.com/modelcontextprotocol/inspector) — Visual testing tool for MCP servers. · Cursor, Claude, VS Code
 - [FastMCP](https://plugmcp.ai/mcp/prefecthq-fastmcp) · [repo](https://github.com/PrefectHQ/fastmcp) — The fast, Pythonic way to build MCP servers and clients. · Cursor, Claude, VS Code
 - [MCP Toolbox For Databases](https://plugmcp.ai/mcp/io.github.googleapis-genai-toolbox) · [repo](https://github.com/googleapis/genai-toolbox) — MCP Toolbox for Databases enables your agent to connect to your. · official, local, Cursor, Claude, VS Code
   `docker run -i --rm us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:0.31.0`
@@ -64,9 +64,9 @@ Servers people actually search for. Each row links to its PlugMCP page (install,
   `remote https://mcp.apify.com/`
 - [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and. · official, local, Cursor, Claude, VS Code
   `npx -y notion-mcp-server`
-- [Mobile](https://plugmcp.ai/mcp/mobile-next-mobile-mcp) · [repo](https://github.com/mobile-next/mobile-mcp) — Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real. · local, Cursor, Claude, VS Code
+- [Mobile MCP](https://plugmcp.ai/mcp/mobile-next-mobile-mcp) · [repo](https://github.com/mobile-next/mobile-mcp) — Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real. · local, Cursor, Claude, VS Code
   `npx -y @mobilenext/mobile-mcp`
-- [Awslabs](https://plugmcp.ai/mcp/awslabs-mcp) · [repo](https://github.com/awslabs/mcp) — Open source MCP Servers for AWS. · Cursor, Claude, VS Code
+- [AWS MCP](https://plugmcp.ai/mcp/awslabs-mcp) · [repo](https://github.com/awslabs/mcp) — Open source MCP Servers for AWS. · Cursor, Claude, VS Code
 
 ## Jump to
 
@@ -112,7 +112,7 @@ Machine catalog: [catalog/servers.json](catalog/servers.json) · [catalog/skills
 - [Nanobot](https://plugmcp.ai/mcp/hkuds-nanobot) · [repo](https://github.com/HKUDS/nanobot) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows. · Cursor, Claude, VS Code
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Playwright MCP server. · local, Cursor, Claude, VS Code
 - [Next Ai Draw Io](https://plugmcp.ai/mcp/dayuanjiang-next-ai-draw-io) · [repo](https://github.com/DayuanJiang/next-ai-draw-io) — Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS. · Cursor, Claude, VS Code
-- [MCP For Blender](https://plugmcp.ai/mcp/ahujasid-mcp-for-blender) · [repo](https://github.com/ahujasid/mcp-for-blender) — Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender. · Cursor, Claude, VS Code
+- [Blender](https://plugmcp.ai/mcp/ahujasid-mcp-for-blender) · [repo](https://github.com/ahujasid/mcp-for-blender) — Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender. · Cursor, Claude, VS Code
 - [FastMCP](https://plugmcp.ai/mcp/prefecthq-fastmcp) · [repo](https://github.com/PrefectHQ/fastmcp) — The fast, Pythonic way to build MCP servers and clients. · Cursor, Claude, VS Code
 - [Dbx](https://plugmcp.ai/mcp/t8y2-dbx) · [repo](https://github.com/t8y2/dbx) — 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL. · Cursor, Claude, VS Code
 - [MCP Toolbox](https://plugmcp.ai/mcp/googleapis-mcp-toolbox) · [repo](https://github.com/googleapis/mcp-toolbox) — MCP Toolbox for Databases is an open source MCP server for databases. · Cursor, Claude, VS Code
