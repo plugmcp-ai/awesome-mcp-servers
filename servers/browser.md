@@ -2,8 +2,8 @@
 
 Browser control, scraping, and web automation. Full list index: [README](../README.md).
 
-- [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl-mcp-server) · [repo](https://github.com/firecrawl/firecrawl-mcp-server) — Search the web and get full page content. Search an index built for coding agents: GitHub issues, merged pull requests, READMEs, and docs. · remote, Cursor, Claude, VS Code
-- [UI TARS Desktop](https://plugmcp.ai/mcp/bytedance-ui-tars-desktop) · [repo](https://github.com/bytedance/UI-TARS-desktop) — One-Click Out-of-the-box CLI - Supports both headful and headless . Hybrid Browser Agent - Control browsers using , , or a hybrid strategy. · Cursor, Claude
+- [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl-mcp-server) · [repo](https://github.com/firecrawl/firecrawl-mcp-server) — Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and. · remote, Cursor, Claude, VS Code
+- [UI TARS Desktop](https://plugmcp.ai/mcp/bytedance-ui-tars-desktop) · [repo](https://github.com/bytedance/UI-TARS-desktop) — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent. · Cursor, Claude
 - [Invisible Playwright](https://plugmcp.ai/mcp/feder-cr-invisible_playwright_mcp) · [repo](https://github.com/feder-cr/invisible_playwright_mcp) — Other AI browser agents get captchas. This one is invisible to anti-bots. · Cursor, Claude, VS Code
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Playwright MCP server. · local, Cursor, Claude, VS Code
 - [Douyin TikTok Download API](https://plugmcp.ai/mcp/evil0ctal-douyin_tiktok_download_api) · [repo](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) — 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and. · Cursor, Claude, VS Code
