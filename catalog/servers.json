@@ -5346,6 +5346,19 @@
       "stars": 0,
       "quality": 28,
       "install": "remote https://mcp.ekwo.ai/mcp"
+    },
+    {
+      "name": "Context7",
+      "slug": "context7",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp/context7",
+      "github_url": "https://github.com/upstash/context7",
+      "blurb": "Up-to-date code docs for LLMs and AI code editors.",
+      "official": false,
+      "remote": true,
+      "stars": 0,
+      "quality": 0,
+      "install": null
     }
   ]
 }
