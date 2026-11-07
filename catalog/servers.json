@@ -5346,6 +5346,19 @@
       "stars": 0,
       "quality": 28,
       "install": "remote https://mcp.ekwo.ai/mcp"
+    },
+    {
+      "name": "Resend",
+      "slug": "resend-mcp",
+      "shelf": "cloud-ops",
+      "plugmcp_url": "https://plugmcp.ai/mcp/resend-mcp",
+      "github_url": "https://github.com/resend/resend-mcp",
+      "blurb": "Send email through Resend from MCP clients.",
+      "official": false,
+      "remote": true,
+      "stars": 0,
+      "quality": 0,
+      "install": null
     }
   ]
 }
