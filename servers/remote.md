@@ -10,6 +10,8 @@ Hosted endpoints you connect over HTTP — no local process. Full list index: [R
   `remote https://worldmonitor.app/mcp`
 - [Reactive Resume](https://plugmcp.ai/mcp/io.github.amruthpillai-reactive-resume) · [repo](https://github.com/reactive-resume/reactive-resume) — Free open-source resume builder with remote MCP tools for resumes and job. · official, remote, Cursor, Claude, VS Code
   `remote https://rxresu.me/mcp`
+- [NeverApply](https://plugmcp.ai/mcp/co.neverapply-neverapply) · [repo](https://github.com/kasovy/neverapply-mcp) — Hosted MCP job-search agent: match jobs, tailor resumes, and apply with approval. · remote, Cursor, Claude, VS Code
+  `remote https://neverapply.co/mcp`
 - [Openstatus](https://plugmcp.ai/mcp/dev.openstatus-mcp) · [repo](https://github.com/openstatusHQ/openstatus) — Manage monitors, status pages, incidents and maintenances in your openstatus. · official, remote, Cursor, Claude, VS Code
   `remote https://api.openstatus.dev/mcp`
 - [Strata](https://plugmcp.ai/mcp/ai.klavis-strata) · [repo](https://github.com/Klavis-AI/klavis) — MCP server for progressive tool usage at any scale (see. · official, remote, Cursor, Claude, VS Code
