@@ -10975,6 +10975,19 @@
       "stars": 0,
       "quality": 0,
       "install": "docker run -i --rm us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:0.31.0"
+    },
+    {
+      "name": "Validate Bot Test",
+      "slug": "validate-bot-test-missing",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://example.com/not-plugmcp",
+      "github_url": "https://github.com/plugmcp-ai/validate-bot-test-missing",
+      "blurb": "Temporary PR used to exercise the validate-pr workflow.",
+      "official": false,
+      "remote": false,
+      "stars": 0,
+      "quality": 0,
+      "install": null
     }
   ]
 }
