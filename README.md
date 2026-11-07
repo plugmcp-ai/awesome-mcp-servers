@@ -1,72 +1,73 @@
 # Awesome MCP servers
 
 <p align="center">
-  <a href="https://plugmcp.ai"><img src="logo.png" alt="PlugMCP" width="120" /></a>
+  <img src="logo.png" alt="PlugMCP" width="96" />
 </p>
 
 <p align="center">
   <strong>Best MCP servers for Cursor, Claude, and VS Code</strong><br />
-  Ranked from <a href="https://plugmcp.ai/mcp">PlugMCP</a> · official and remote called out · skills included
+  Ranked from PlugMCP · official and remote called out · skills included
+</p>
+
+<p align="center">
+  <a href="https://github.com/plugmcp-ai/awesome-mcp-servers/stargazers"><img src="https://img.shields.io/github/stars/plugmcp-ai/awesome-mcp-servers?style=flat" alt="GitHub stars" /></a>
+  <a href="https://plugmcp.ai/mcp"><img src="https://img.shields.io/badge/directory-plugmcp.ai-111111" alt="PlugMCP directory" /></a>
+  <a href="https://plugmcp.ai/mcp/submit"><img src="https://img.shields.io/badge/submit-server-0a7" alt="Submit a server" /></a>
+  <img src="https://img.shields.io/badge/updated-2026-11-07-informational" alt="Updated 2026-11-07" />
 </p>
 
 <p align="center">
   <a href="https://plugmcp.ai/mcp">Directory</a> ·
   <a href="https://plugmcp.ai/skills">Skills</a> ·
-  <a href="https://github.com/plugmcp-ai/awesome-mcp-servers/stargazers">GitHub stars</a>
+  <a href="https://plugmcp.ai/mcp/submit">Submit</a> ·
+  <a href="CONTRIBUTING.md">Contribute</a>
 </p>
 
-Ranked MCP servers you can install in Cursor, Claude, and VS Code, checked against the PlugMCP directory. This repo keeps the usable shelf (~279 servers in markdown, 844 in the machine catalog, 400 skills). Search the full index of 70,000+ at [plugmcp.ai/mcp](https://plugmcp.ai/mcp).
+Ranked MCP servers you can install in Cursor, Claude, and VS Code, checked against the PlugMCP directory. This repo keeps the usable shelf (~84 servers in markdown, 411 in the machine catalog, 400 skills). Search the full index at [plugmcp.ai/mcp](https://plugmcp.ai/mcp).
 
-Updated 2026-10-28.
+Updated 2026-11-07. Submit on PlugMCP first, then open a catalog PR — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Start here
 
 Servers people actually search for. Each row links to its PlugMCP page (install, tools, host option) and the publisher repo.
 
-- [GitHub](https://plugmcp.ai/mcp/github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server. · remote, Cursor, Claude, VS Code
-  `remote https://api.githubcopilot.com/mcp/`
-- [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Playwright MCP server. · local, Cursor, Claude, VS Code
-  `npx -y @playwright/mcp`
-- [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.chromedevtools-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — MCP server for Chrome DevTools. · official, local, Cursor, Claude, VS Code
-  `npx -y chrome-devtools-mcp`
-- [Context7](https://plugmcp.ai/mcp/upstash-context7) · [repo](https://github.com/upstash/context7) — Context7 Platform -- Up-to-date docs for AI agents. · remote, Cursor, Claude, VS Code
-  `remote https://mcp.context7.com/mcp`
-- [Supabase](https://plugmcp.ai/mcp/com.supabase-mcp) · [repo](https://github.com/supabase/mcp) — MCP server for interacting with the Supabase platform. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.supabase.com/mcp`
-- [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl-mcp-server) · [repo](https://github.com/firecrawl/firecrawl-mcp-server) — Official Firecrawl MCP server, the context API for AI agents: search, scrape, and interact with the web, plus parse, crawl, map, Agent and. · remote, Cursor, Claude, VS Code
-  `remote https://mcp.firecrawl.dev/v2/mcp`
-- [Exa](https://plugmcp.ai/mcp/ai.exa-exa) · [repo](https://github.com/exa-labs/exa-mcp-server) — Connect AI agents to Exa for web search, content fetching, and multi-step. · official, remote, Cursor, Claude, VS Code
+- [Context7](https://plugmcp.ai/mcp/upstash-context7) · [repo](https://github.com/upstash/context7) — CLI + Skills — installs a skill that guides your agent to fetch docs using ctx7 CLI commands (no MCP required). MCP — registers a Context7. · Cursor, Claude, VS Code
+- [World Monitor](https://plugmcp.ai/mcp/app.worldmonitor-mcp) · [repo](https://github.com/koala73/worldmonitor) — Live markets, conflicts, country risk, chokepoints, energy, and China decision signals. 93 tools. · official, remote, Cursor, Claude, VS Code
+  `remote https://worldmonitor.app/mcp`
+- [Scrapling MCP Server](https://plugmcp.ai/mcp/io.github.d4vinci-scrapling) · [repo](https://github.com/D4Vinci/Scrapling) — Effortless Web Scraping for the Modern Web Selection methods &middot; Fetchers &middot; Spiders &middot; Proxy Rotation &middot; CLI. · official, local, Cursor, Claude, VS Code
+  `uvx scrapling==0.5.1`
+- [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.chromedevtools-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude, VS Code
+  `npx -y chrome-devtools-mcp@1.12.0`
+- [Codebase Memory](https://plugmcp.ai/mcp/io.github.deusdata-codebase-memory-mcp) · [repo](https://github.com/DeusData/codebase-memory-mcp) — 162 languages: vendored tree-sitter grammars compiled into the binary. No separate parser installation.. About 120× fewer tokens in the. · official, local, Cursor, Claude, VS Code
+  `npx -y codebase-memory-mcp@0.12.1`
+- [Reactive Resume](https://plugmcp.ai/mcp/io.github.amruthpillai-reactive-resume) · [repo](https://github.com/reactive-resume/reactive-resume) — > [!IMPORTANT] > Repository moved: Reactive Resume now lives at on GitHub. > Docker Hub stays at amruthpillai/reactive-resume. GHCR images. · official, remote, Cursor, Claude, VS Code
+  `remote https://rxresu.me/mcp`
+- [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl-mcp-server) · [repo](https://github.com/firecrawl/firecrawl-mcp-server) — Search the web and get full page content. Search an index built for coding agents: GitHub issues, merged pull requests, READMEs, and docs.. · Cursor, Claude, VS Code
+- [Exa](https://plugmcp.ai/mcp/ai.exa-exa) · [repo](https://github.com/exa-labs/exa-mcp-server) — Exa MCP Server Connect AI agents to Exa for web search, content fetching, and multi-step research. Documentation · NPM Package · Get your. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.exa.ai/mcp`
-- [Serena](https://plugmcp.ai/mcp/oraios-serena) · [repo](https://github.com/oraios/serena) — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your. · local, Cursor, Claude
-  `uvx serena-agent`
-- [Figma Context](https://plugmcp.ai/mcp/io.github.glips-figma-context-mcp) · [repo](https://github.com/GLips/Figma-Context-MCP) — Give your coding agent access to your Figma data. Implement designs in any framework in. · official, local, Cursor, Claude, VS Code
-  `npx -y figma-developer-mcp`
-- [Blender](https://plugmcp.ai/mcp/ahujasid-mcp-for-blender) · [repo](https://github.com/ahujasid/mcp-for-blender) — Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender. · Cursor, Claude, VS Code
-- [n8n](https://plugmcp.ai/mcp/czlonkowski-n8n-mcp) · [repo](https://github.com/czlonkowski/n8n-mcp) — A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for. · local, Cursor, Claude, VS Code
-  `npx -y n8n-mcp`
-- [Slack](https://plugmcp.ai/mcp/korotovsky-slack-mcp-server) · [repo](https://github.com/korotovsky/slack-mcp-server) — The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch. · local, Cursor, Claude, VS Code
-  `npx -y slack-mcp-server`
-- [Linear](https://plugmcp.ai/mcp/jerhadf-linear-mcp-server) · [repo](https://github.com/jerhadf/linear-mcp-server) — A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with. · Cursor, Claude, VS Code
-- [Brave Search](https://plugmcp.ai/mcp/io.github.brave-brave-search-mcp-server) · [repo](https://github.com/brave/brave-search-mcp-server) — Brave Search MCP Server: web results, images, videos, rich results, AI summaries, and. · official, remote, Cursor, Claude, VS Code
-  `remote https://server.smithery.ai/brave/mcp`
-- [Browser MCP](https://plugmcp.ai/mcp/browsermcp-mcp) · [repo](https://github.com/BrowserMCP/mcp) — Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your. · Cursor, Claude, VS Code
-- [MCP Inspector](https://plugmcp.ai/mcp/modelcontextprotocol-inspector) · [repo](https://github.com/modelcontextprotocol/inspector) — Visual testing tool for MCP servers. · Cursor, Claude, VS Code
-- [FastMCP](https://plugmcp.ai/mcp/prefecthq-fastmcp) · [repo](https://github.com/PrefectHQ/fastmcp) — The fast, Pythonic way to build MCP servers and clients. · Cursor, Claude, VS Code
-- [MCP Toolbox For Databases](https://plugmcp.ai/mcp/io.github.googleapis-genai-toolbox) · [repo](https://github.com/googleapis/genai-toolbox) — MCP Toolbox for Databases enables your agent to connect to your. · official, local, Cursor, Claude, VS Code
-  `docker run -i --rm us-central1-docker.pkg.dev/database-toolbox/toolbox/toolbox:0.31.0`
-- [Tavily](https://plugmcp.ai/mcp/tavily-ai-tavily-mcp) · [repo](https://github.com/tavily-ai/tavily-mcp) — Production ready MCP server with real-time search, extract, map &. · local, Cursor, Claude, VS Code
-  `npx -y tavily-mcp`
-- [Scrapling MCP Server](https://plugmcp.ai/mcp/io.github.d4vinci-scrapling) · [repo](https://github.com/D4Vinci/Scrapling) — Web scraping with stealth HTTP, real browsers, and Cloudflare bypass. CSS selectors. · official, local, Cursor, Claude, VS Code
-  `uvx scrapling`
-- [Codebase Memory](https://plugmcp.ai/mcp/io.github.deusdata-codebase-memory-mcp) · [repo](https://github.com/DeusData/codebase-memory-mcp) — Codebase knowledge graph for AI agents — 162 languages, sub-ms queries, 99% fewer. · official, local, Cursor, Claude, VS Code
-  `npx -y codebase-memory-mcp`
-- [Apify](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — Extract data from any website with thousands of scrapers, crawlers, and automations on Apify. · official, remote, Cursor, Claude, VS Code
+- [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents. · official, local, Cursor, Claude, VS Code
+  `npx -y notion-mcp-server@3.3.0`
+- [Github](https://plugmcp.ai/mcp/github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · Cursor, Claude, VS Code
+- [Github](https://plugmcp.ai/mcp/io.github.dave-london-github) · [repo](https://github.com/Dave-London/Pare) — Pare Reliable, structured CLI output for AI agents — no more parsing fragile terminal text. Pare provides servers that wrap common. · official, local, Cursor, Claude, VS Code
+  `npx -y @paretools/github@0.7.1`
+- [GitHub](https://plugmcp.ai/mcp/io.github.aifity-omnigit-mcp) · [repo](https://github.com/aifity/omnigit-mcp) — Connect AI assistants to GitHub - manage repos, issues, PRs, workflows, and git operations. · official, local, Cursor, Claude, VS Code
+  `docker run -i --rm ghcr.io/aifity/omnigit-mcp:0.6.0`
+- [Apify](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.apify.com/`
-- [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and. · official, local, Cursor, Claude, VS Code
-  `npx -y notion-mcp-server`
-- [Mobile MCP](https://plugmcp.ai/mcp/mobile-next-mobile-mcp) · [repo](https://github.com/mobile-next/mobile-mcp) — Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real. · local, Cursor, Claude, VS Code
-  `npx -y @mobilenext/mobile-mcp`
-- [AWS MCP](https://plugmcp.ai/mcp/awslabs-mcp) · [repo](https://github.com/awslabs/mcp) — Open source MCP Servers for AWS. · Cursor, Claude, VS Code
+- [RenCosta2025 Context7fork](https://plugmcp.ai/mcp/ai.smithery-rencosta2025-context7fork) · [repo](https://github.com/renCosta2025/context7fork) — 1⃣ Write your prompt naturally. 2⃣ Tell the LLM to use context7. 3⃣ Get working code answers · official, remote, Cursor, Claude, VS Code
+  `remote https://server.smithery.ai/@renCosta2025/context7fork/mcp`
+- [Exa](https://plugmcp.ai/mcp/exa-labs-exa-mcp-server) · [repo](https://github.com/exa-labs/exa-mcp-server) — Exa MCP Server Connect AI agents to Exa for web search, content fetching, and multi-step research. Documentation · NPM Package · Get your. · Cursor, Claude, VS Code
+- [Gemini Cli](https://plugmcp.ai/mcp/google-gemini-gemini-cli) · [repo](https://github.com/google-gemini/gemini-cli) — > [!NOTE] > > Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity > CLI on June 18th, 2026. To learn more, see our >. · Cursor, Claude
+- [Scrapling](https://plugmcp.ai/mcp/d4vinci-scrapling) · [repo](https://github.com/D4Vinci/Scrapling) — Effortless Web Scraping for the Modern Web Selection methods &middot; Fetchers &middot; Spiders &middot; Proxy Rotation &middot; CLI. · Cursor, Claude
+- [TrendRadar](https://plugmcp.ai/mcp/sansan0-trendradar) · [repo](https://github.com/sansan0/TrendRadar) — ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +. · Cursor, Claude
+- [Chrome Devtools](https://plugmcp.ai/mcp/chromedevtools-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · Cursor, Claude
+- [Codebase Memory](https://plugmcp.ai/mcp/deusdata-codebase-memory-mcp) · [repo](https://github.com/DeusData/codebase-memory-mcp) — 162 languages: vendored tree-sitter grammars compiled into the binary. No separate parser installation.. About 120× fewer tokens in the. · Cursor, Claude
+- [Figma MCP Server](https://plugmcp.ai/mcp/com.figma.mcp-mcp) · [repo](https://github.com/figma/mcp-server-guide) — Generate code from selected frames. Extract design context. Code smarter with Code Connect · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.figma.com/mcp`
+- [Slack](https://plugmcp.ai/mcp/korotovsky-slack-mcp-server) · [repo](https://github.com/korotovsky/slack-mcp-server) — The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic. · Cursor, Claude, VS Code
+- [N8n](https://plugmcp.ai/mcp/n8n-io-n8n) · [repo](https://github.com/n8n-io/n8n) — AI-Native Automation Platform: Build and operationalize AI workflows and multi-step agents using your own data, models, and tools. Model. · Cursor, Claude
+- [Invisible Playwright](https://plugmcp.ai/mcp/feder-cr-invisible_playwright_mcp) · [repo](https://github.com/feder-cr/invisible_playwright_mcp) — Other AI browser agents get captchas. This one is invisible to anti-bots. --- · Cursor, Claude, VS Code
+- [Figma MCP Bridge](https://plugmcp.ai/mcp/gethopp-figma-mcp-bridge) · [repo](https://github.com/gethopp/figma-mcp-bridge) — Figma Plugin & MCP server to bypass API limits · Cursor, Claude, VS Code
 
 ## Jump to
 
@@ -76,11 +77,11 @@ Servers people actually search for. Each row links to its PlugMCP page (install,
 - [Remote MCP servers](servers/remote.md)
 - [Browser and web](servers/browser.md)
 - [Databases](servers/databases.md)
-- [GitHub and developer tools](servers/developer-tools.md)
-- [Search and docs](servers/cloud-ops.md)
 - [Design and product](servers/design.md)
+- [Developer tools](servers/developer-tools.md)
 - [Security](servers/security.md)
 - [Mobile and devices](servers/mobile.md)
+- [Cloud, ops, and search](servers/cloud-ops.md)
 - [Agent skills](skills/README.md)
 - [New this week](#new-this-week)
 
@@ -93,34 +94,37 @@ Servers people actually search for. Each row links to its PlugMCP page (install,
 | Databases | [servers/databases.md](servers/databases.md) |
 | Design and product | [servers/design.md](servers/design.md) |
 | Developer tools | [servers/developer-tools.md](servers/developer-tools.md) |
-| Security and reverse engineering | [servers/security.md](servers/security.md) |
+| Security | [servers/security.md](servers/security.md) |
 | Mobile and devices | [servers/mobile.md](servers/mobile.md) |
 | Cloud, ops, and search | [servers/cloud-ops.md](servers/cloud-ops.md) |
-| Cursor picks | [servers/cursor.md](servers/cursor.md) |
-| Claude picks | [servers/claude.md](servers/claude.md) |
-| Official | [servers/official.md](servers/official.md) |
-| Remote | [servers/remote.md](servers/remote.md) |
+| MCP servers for Cursor | [servers/cursor.md](servers/cursor.md) |
+| MCP servers for Claude | [servers/claude.md](servers/claude.md) |
+| Official MCP servers | [servers/official.md](servers/official.md) |
+| Remote MCP servers | [servers/remote.md](servers/remote.md) |
 | Agent skills | [skills/README.md](skills/README.md) |
 
 Machine catalog: [catalog/servers.json](catalog/servers.json) · [catalog/skills.json](catalog/skills.json)
 
 ## New this week
 
-- [Rea](https://plugmcp.ai/mcp/morluto-rea) · [repo](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native. · Cursor, Claude, VS Code
-- [Headroom](https://plugmcp.ai/mcp/headroomlabs-ai-headroom) · [repo](https://github.com/headroomlabs-ai/headroom) — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for. · Cursor, Claude, VS Code
-- [Private Gpt](https://plugmcp.ai/mcp/zylon-ai-private-gpt) · [repo](https://github.com/zylon-ai/private-gpt) — Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any. · Cursor, Claude, VS Code
-- [Nanobot](https://plugmcp.ai/mcp/hkuds-nanobot) · [repo](https://github.com/HKUDS/nanobot) — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows. · Cursor, Claude, VS Code
-- [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Playwright MCP server. · local, Cursor, Claude, VS Code
-- [Next Ai Draw Io](https://plugmcp.ai/mcp/dayuanjiang-next-ai-draw-io) · [repo](https://github.com/DayuanJiang/next-ai-draw-io) — Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS. · Cursor, Claude, VS Code
-- [Blender](https://plugmcp.ai/mcp/ahujasid-mcp-for-blender) · [repo](https://github.com/ahujasid/mcp-for-blender) — Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender. · Cursor, Claude, VS Code
-- [FastMCP](https://plugmcp.ai/mcp/prefecthq-fastmcp) · [repo](https://github.com/PrefectHQ/fastmcp) — The fast, Pythonic way to build MCP servers and clients. · Cursor, Claude, VS Code
-- [Dbx](https://plugmcp.ai/mcp/t8y2-dbx) · [repo](https://github.com/t8y2/dbx) — 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL. · Cursor, Claude, VS Code
-- [MCP Toolbox](https://plugmcp.ai/mcp/googleapis-mcp-toolbox) · [repo](https://github.com/googleapis/mcp-toolbox) — MCP Toolbox for Databases is an open source MCP server for databases. · Cursor, Claude, VS Code
-- [Xerj](https://plugmcp.ai/mcp/xerj-org-xerj) · [repo](https://github.com/xerj-org/xerj) — Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text. · Cursor, Claude, VS Code
-- [Unity](https://plugmcp.ai/mcp/coplaydev-unity-mcp) · [repo](https://github.com/CoplayDev/unity-mcp) — Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts. · Cursor, Claude, VS Code
-- [Casdoor](https://plugmcp.ai/mcp/casdoor-casdoor) · [repo](https://github.com/casdoor/casdoor) — An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw. · Cursor, Claude, VS Code
-- [SeleniumBase](https://plugmcp.ai/mcp/seleniumbase-seleniumbase) · [repo](https://github.com/seleniumbase/SeleniumBase) — Python APIs for Web Automation, Testing, and Scraping. CDP Mode launches a stealth browser that bypasses bot-detection/CAPTCHAs. Adds. · Cursor, Claude, VS Code
-- [MCP Chrome](https://plugmcp.ai/mcp/hangwin-mcp-chrome) · [repo](https://github.com/hangwin/mcp-chrome) — Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI. · Cursor, Claude, VS Code
+- [Memory](https://plugmcp.ai/mcp/modelcontextprotocol-server-memory) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) — A local knowledge graph the agent can remember things in across chats. · local, Cursor, Claude, VS Code
+  `npx -y @modelcontextprotocol/server-memory`
+- [Filesystem](https://plugmcp.ai/mcp/modelcontextprotocol-server-filesystem) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) — Read, write and search local files in the directories you allow. · local, Cursor, Claude, VS Code
+  `npx -y @modelcontextprotocol/server-filesystem`
+- [Sequential Thinking](https://plugmcp.ai/mcp/modelcontextprotocol-server-sequential-thinking) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) — Structured, revisable step-by-step reasoning for agents. · local, Cursor, Claude, VS Code
+  `npx -y @modelcontextprotocol/server-sequential-thinking`
+- [Git](https://plugmcp.ai/mcp/modelcontextprotocol-server-git) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/git) — Status, diffs, commits and branches in local Git repositories. · local, Cursor, Claude, VS Code
+  `uvx mcp-server-git`
+- [Time](https://plugmcp.ai/mcp/modelcontextprotocol-server-time) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/time) — Current time and timezone conversion for agents. · local, Cursor, Claude, VS Code
+  `uvx mcp-server-time`
+- [Fetch](https://plugmcp.ai/mcp/modelcontextprotocol-server-fetch) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) — Fetch a URL and read it as markdown. · local, Cursor, Claude, VS Code
+  `uvx mcp-server-fetch`
+- [Everything](https://plugmcp.ai/mcp/modelcontextprotocol-server-everything) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) — A test server that uses every MCP feature, for checking an MCP client. · local, Cursor, Claude, VS Code
+  `npx -y @modelcontextprotocol/server-everything`
+- [Excalidraw](https://plugmcp.ai/mcp/excalidraw-excalidraw-mcp) · [repo](https://github.com/excalidraw/excalidraw-mcp) — Official Excalidraw MCP App. Your agent draws hand-drawn diagrams live in the chat, and you can edit them full screen. No account needed. · remote, Claude, VS Code
+  `remote https://mcp.excalidraw.com/mcp`
+- [Scrapling Data](https://plugmcp.ai/mcp/scrapling-data) · [repo](https://github.com/bnth09productions-maker/scrapling-x402-mcp) — Pay-per-call crypto market data, wallet risk checks, hack tracking and tokenized stock/perps data for AI agents. USDC via x402, no account. · remote, Cursor, Claude, VS Code
+  `remote https://scraplingdata.xyz/mcp`
 
 ## Browse on PlugMCP
 
@@ -145,10 +149,11 @@ Machine catalog: [catalog/servers.json](catalog/servers.json) · [catalog/skills
 - Shelves are capped and sorted by quality, then stars — not a dump of the full directory.
 - We skip star-farm mirrors and empty forks. Prefer the official or clearly maintained server.
 - We do not vendor third-party MCP server source here.
+- Community additions: [Submit](https://plugmcp.ai/mcp/submit) so the listing is live, then open a PR that adds the object to `catalog/servers.json`. A daily job refreshes curated shelves; catalog entries that still exist on PlugMCP are kept.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Open a PR that adds one server or skill under the right shelf. Nominate a server in [Discussions](https://github.com/plugmcp-ai/awesome-mcp-servers/discussions) if you are not ready to open a PR.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 

@@ -17,7 +17,7 @@ The user found an MCP server that is missing from https://plugmcp.ai/mcp or want
 4. After it appears in the directory, optionally open a PR on https://github.com/plugmcp-ai/awesome-mcp-servers:
    - Add one line under the right `servers/*.md` shelf.
    - Update `catalog/servers.json` with the same entry.
-   - Follow [CONTRIBUTING.md](../../CONTRIBUTING.md).
+   - Follow https://github.com/plugmcp-ai/awesome-mcp-servers/blob/main/CONTRIBUTING.md.
 
 ## Links
 

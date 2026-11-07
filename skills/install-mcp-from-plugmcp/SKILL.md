@@ -16,9 +16,11 @@ The user wants to add an MCP server to their agent and does not already have a p
 3. Open the listing page. Note transport (remote vs local) and whether a host option exists.
 4. Install:
    - **Cursor / Claude / VS Code:** use the listing **Add to** buttons, or copy the publisher snippet from the page.
-   - **Remote URL:** paste the endpoint into the agent’s MCP connector settings.
+   - **Remote URL:** paste the endpoint into the agent's MCP connector settings.
    - **Local / stdio:** follow the publisher command on the listing (usually `npx` or `uvx`).
-5. Confirm the agent lists the new tools. If install fails, check the listing’s docs link and the publisher repo.
+5. Confirm the agent lists the new tools. If install fails, check the listing's docs link and the publisher repo.
+
+An agent with the PlugMCP directory MCP connected can do steps 1 to 4 itself with `search_servers` and `get_install`.
 
 ## Links
 
