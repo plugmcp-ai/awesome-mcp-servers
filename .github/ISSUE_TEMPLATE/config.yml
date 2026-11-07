@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Submit an MCP server
+    url: https://plugmcp.ai/mcp/submit
+    about: Listings must be live on PlugMCP before a catalog PR.
+  - name: Browse the full directory
+    url: https://plugmcp.ai/mcp
+    about: Search every listed MCP server on plugmcp.ai.
+  - name: Nominate in Discussions
+    url: https://github.com/plugmcp-ai/awesome-mcp-servers/discussions
+    about: Suggest a server without opening a PR.

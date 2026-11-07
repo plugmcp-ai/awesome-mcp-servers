@@ -1,8 +1,12 @@
 name: Nominate a server
 description: Suggest an MCP server for the curated PlugMCP shelf
 title: "Nominate: "
-labels: ["nomination"]
+labels: ["nomination", "contribution"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Strong path: [submit on PlugMCP](https://plugmcp.ai/mcp/submit) first so `/mcp/{slug}` is live, then open a catalog PR. Use this form only to nominate without a PR.
   - type: input
     id: name
     attributes:
@@ -13,16 +17,25 @@ body:
   - type: input
     id: plugmcp
     attributes:
-      label: PlugMCP URL (or search query)
-      description: Prefer a listing link. If missing, submit at https://plugmcp.ai/mcp/submit first.
-      placeholder: https://plugmcp.ai/mcp?q=context7
+      label: PlugMCP listing URL
+      description: Prefer https://plugmcp.ai/mcp/{slug}. If missing, submit at https://plugmcp.ai/mcp/submit first.
+      placeholder: https://plugmcp.ai/mcp/your-slug
     validations:
       required: true
+  - type: checkboxes
+    id: live
+    attributes:
+      label: Listing status
+      options:
+        - label: Listing is live on PlugMCP
+          required: true
   - type: input
     id: github
     attributes:
       label: Publisher repository
       placeholder: https://github.com/owner/repo
+    validations:
+      required: true
   - type: dropdown
     id: shelf
     attributes:

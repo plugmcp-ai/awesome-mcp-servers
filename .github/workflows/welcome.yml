@@ -1,0 +1,49 @@
+name: Welcome merged PR
+
+on:
+  pull_request_target:
+    types: [closed]
+
+permissions:
+  pull-requests: write
+  issues: write
+
+jobs:
+  welcome:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Thank the contributor
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const marker = '<!-- plugmcp-welcome -->';
+            const { owner, repo } = context.repo;
+            const pr = context.payload.pull_request;
+            const { data: comments } = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number: pr.number,
+              per_page: 100,
+            });
+            if (comments.some((c) => c.body && c.body.includes(marker))) return;
+
+            const slugMatch = (pr.body || '').match(/plugmcp\.ai\/mcp\/([a-z0-9-]+)/i)
+              || (pr.title || '').match(/mcp\/([a-z0-9-]+)/i);
+            const listing = slugMatch
+              ? `https://plugmcp.ai/mcp/${slugMatch[1]}`
+              : 'https://plugmcp.ai/mcp';
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: pr.number,
+              body: `${marker}
+Thanks for contributing to the PlugMCP shelf.
+
+- Listing: ${listing}
+- Curated markdown shelves refresh daily from PlugMCP; your catalog entry stays as long as the listing exists.
+- Star the repo and share it if this helped: https://github.com/${owner}/${repo}
+- Nominate more servers in [Discussions](https://github.com/${owner}/${repo}/discussions) or submit at https://plugmcp.ai/mcp/submit
+`,
+            });
