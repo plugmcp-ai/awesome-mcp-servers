@@ -6,8 +6,6 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://worldmonitor.app/mcp`
 - [Reactive Resume](https://plugmcp.ai/mcp/io.github.amruthpillai-reactive-resume) · [repo](https://github.com/reactive-resume/reactive-resume) — > [!IMPORTANT] > Repository moved: Reactive Resume now lives at on GitHub. > Docker Hub stays at amruthpillai/reactive-resume. GHCR images. · official, remote, Cursor, Claude, VS Code
   `remote https://rxresu.me/mcp`
-- [NeverApply](https://plugmcp.ai/mcp/co.neverapply-neverapply) · [repo](https://github.com/kasovy/neverapply-mcp) — Hosted MCP job-search agent: match jobs, tailor resumes, and apply with approval. · remote, Cursor, Claude, VS Code
-  `remote https://neverapply.co/mcp`
 - [Exa](https://plugmcp.ai/mcp/ai.exa-exa) · [repo](https://github.com/exa-labs/exa-mcp-server) — Exa MCP Server Connect AI agents to Exa for web search, content fetching, and multi-step research. Documentation · NPM Package · Get your. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.exa.ai/mcp`
 - [Apify](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
