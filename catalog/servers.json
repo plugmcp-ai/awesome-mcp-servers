@@ -86,7 +86,7 @@
       "name": "NeverApply",
       "slug": "co.neverapply-neverapply",
       "shelf": "developer-tools",
-      "plugmcp_url": "https://plugmcp.ai/mcp/co.neverapply-neverapply",
+      "plugmcp_url": "https://plugmcp.ai/mcp/neverapply",
       "github_url": "https://github.com/kasovy/neverapply-mcp",
       "blurb": "Hosted MCP job-search agent: match jobs, tailor resumes, and apply with approval.",
       "official": false,
