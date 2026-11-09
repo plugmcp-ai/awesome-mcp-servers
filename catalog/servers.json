@@ -2,7 +2,7 @@
   "updated": "2026-11-09",
   "source": "https://github.com/plugmcp-ai/awesome-mcp-servers",
   "directory": "https://plugmcp.ai/mcp",
-  "count": 884,
+  "count": 885,
   "servers": [
     {
       "name": "Context7",
@@ -81,6 +81,19 @@
       "stars": 45508,
       "quality": 48,
       "install": "remote https://rxresu.me/mcp"
+    },
+    {
+      "name": "NeverApply",
+      "slug": "co.neverapply-neverapply",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp/neverapply",
+      "github_url": "https://github.com/kasovy/neverapply-mcp",
+      "blurb": "Hosted MCP job-search agent: match jobs, tailor resumes, and apply with approval.",
+      "official": false,
+      "remote": true,
+      "stars": 0,
+      "quality": 0,
+      "install": "remote https://neverapply.co/mcp"
     },
     {
       "name": "Filesystem",
