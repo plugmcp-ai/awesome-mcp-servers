@@ -2,7 +2,7 @@
   "updated": "2026-11-09",
   "source": "https://github.com/plugmcp-ai/awesome-mcp-servers",
   "directory": "https://plugmcp.ai/mcp",
-  "count": 884,
+  "count": 885,
   "servers": [
     {
       "name": "Context7",
@@ -11495,6 +11495,19 @@
       "stars": 42,
       "quality": 28,
       "install": "remote https://mcp.ekwo.ai/mcp"
+    },
+    {
+      "name": "Call Me",
+      "slug": "com.serdaroztetik-call-me",
+      "shelf": "mobile",
+      "plugmcp_url": "https://plugmcp.ai/mcp/com.serdaroztetik-call-me",
+      "github_url": "https://github.com/radres/call-me",
+      "blurb": "Your AI agent rings your iPhone or Android phone, reads its question aloud and gets your spoken answer back as text.",
+      "official": false,
+      "remote": true,
+      "stars": 0,
+      "quality": 0,
+      "install": "remote https://callmemcp.com/mcp"
     }
   ]
 }
