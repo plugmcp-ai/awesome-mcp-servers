@@ -18,6 +18,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://mcp.figma.com/mcp`
 - [Firecrawl MCP Server](https://plugmcp.ai/mcp/io.github.firecrawl-firecrawl-mcp-server) · [repo](https://github.com/firecrawl/firecrawl-mcp-server.git) — Search the web, optionally with full page content for each result. Search indexes for developer sources (GitHub issues, merged pull. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.firecrawl.dev/v2/mcp`
+- [AI Game Developer: MCP For Unity, Unreal And Godot](https://plugmcp.ai/mcp/io.github.ivanmurzak-unity-mcp) · [repo](https://github.com/IvanMurzak/Unity-MCP) — AI Game Developer — Unity SKILLS, MCP | | Unity MCP is an AI-powered game development assistant for Editor & Runtime. Connect Claude,. · official, remote, Cursor, Claude, VS Code
+  `remote https://ai-game.dev/mcp`
 - [Openstatus](https://plugmcp.ai/mcp/dev.openstatus-mcp) · [repo](https://github.com/openstatusHQ/openstatus) — openstatus The open-source status page, incident response and uptime monitoring platform. Learn more » Documentation · Website · Discord · official, remote, Cursor, Claude, VS Code
   `remote https://api.openstatus.dev/mcp`
 - [Strata](https://plugmcp.ai/mcp/ai.klavis-strata) · [repo](https://github.com/Klavis-AI/klavis) — MCP server for progressive tool usage at any scale (see https://klavis.ai) · official, remote, Cursor, Claude, VS Code
@@ -26,18 +28,20 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://financetoolkit.jeroenbouma.com/mcp`
 - [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.tradingmcp.ai/mcp`
-- [Next AI Draw.io](https://plugmcp.ai/mcp/io.github.dayuanjiang-next-ai-drawio) · [repo](https://github.com/DayuanJiang/next-ai-draw-io) — Architecture diagrams, flowcharts, sequence diagrams and more from one sentence, with built-in AWS, Azure, GCP and Kubernetes icon. · official, remote, Cursor, Claude, VS Code
-  `remote https://next-ai-drawio.jiang.jp/en/mcp`
+- [Excalidraw](https://plugmcp.ai/mcp/excalidraw-excalidraw-mcp) · [repo](https://github.com/excalidraw/excalidraw-mcp) — Official Excalidraw MCP App. Your agent draws hand-drawn diagrams live in the chat, and you can edit them full screen. No account needed.. · remote, Cursor, Claude, VS Code
+  `remote https://mcp.excalidraw.com/mcp`
 - [Headroom](https://plugmcp.ai/mcp/headroomlabs-ai-headroom) · [repo](https://github.com/headroomlabs-ai/headroom) — Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the. · remote, Cursor, Claude, VS Code
   `remote https://docs.headroomlabs.ai/docs/mcp`
-- [Apify](https://plugmcp.ai/mcp/apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · remote, Cursor, Claude, VS Code
-  `remote https://mcp.apify.com`
 - [Folklore Clinical Variant Interpretation MCP](https://plugmcp.ai/mcp/io.github.helena-bioinformatics-folklore) · [repo](https://github.com/helena-bioinformatics/folklore-mcp) — Germline ACMG/AMP classification, genes, disease associations, literature, and API-key case analysis. · official, remote, Cursor, Claude, VS Code
   `remote https://api.helena.bio/folklore/v1/mcp`
 - [Pascal 3D Editor](https://plugmcp.ai/mcp/app.pascal-editor) · [repo](https://github.com/pascalorg/editor) — Create, inspect, validate, and save editable 3D building scenes with Pascal's MCP server. # Pascal Editor — open-source 3D architecture. · official, remote, Cursor, Claude, VS Code
   `remote https://editor.pascal.app/api/mcp`
 - [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl-mcp-server-mcpso) · [repo](https://github.com/firecrawl/firecrawl-mcp-server) — Search the web, optionally with full page content for each result. Search indexes for developer sources (GitHub issues, merged pull. · remote, Cursor, Claude, VS Code
   `remote https://mcp.firecrawl.dev/v2/mcp`
+- [Vexa](https://plugmcp.ai/mcp/ai.vexa-vexa) · [repo](https://github.com/Vexa-ai/vexa) — Meeting bot and transcripts for Google Meet, Teams and Zoom. Live or after, speakers labelled. <div align="center"> <img. · official, remote, Cursor, Claude, VS Code
+  `remote https://api.cloud.vexa.ai/mcp`
+- [Luminati Io Brightdata](https://plugmcp.ai/mcp/ai.smithery-luminati-io-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp-sse) — One MCP for the Web. Easily search, crawl, navigate, and extract websites without getting blocked.… · official, remote, Cursor, Claude, VS Code
+  `remote https://server.smithery.ai/@luminati-io/brightdata-mcp/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [DesktopCommanderMCP](https://plugmcp.ai/mcp/wonderwhy-er-desktopcommandermcp) · [repo](https://github.com/wonderwhy-er/DesktopCommanderMCP) — Remote AI Control - Use Desktop Commander from ChatGPT, Claude web, and other AI services via. File Preview UI - Visual file previews in. · remote, Cursor, Claude, VS Code
@@ -50,8 +54,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://py.sdk.modelcontextprotocol.io/api/mcp/`
 - [Upshift](https://plugmcp.ai/mcp/com.upshiftsites-mcp) · [repo](https://github.com/samerdwykat-cmyk/upshift-mcp) — Audit a site's structured data and llms.txt, match a trade to a template, and quote real prices. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.upshiftsites.com/mcp`
-- [Xiaohongshu](https://plugmcp.ai/mcp/xpzouying-xiaohongshu-mcp) · [repo](https://github.com/xpzouying/xiaohongshu-mcp) — MCP for xiaohongshu.com # xiaohongshu-mcp <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> [![All. · remote, Cursor, Claude, VS Code
-  `remote http://host.docker.internal:18060/mcp](http://host.docker.internal:18060/mcp`
+- [Textbee SMS](https://plugmcp.ai/mcp/io.github.textbee-mcp) · [repo](https://github.com/textbee/textbee-mcp) — Send and read SMS through your own Android phone via textbee.dev, the open-source SMS gateway. # @textbee/mcp [![npm. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.textbee.dev/mcp`
 - [Fastapi](https://plugmcp.ai/mcp/tadata-org-fastapi_mcp) · [repo](https://github.com/tadata-org/fastapi_mcp) — Built by Tadata FastAPI-MCP Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! · remote, Cursor, Claude, VS Code
   `remote https://app.base.url/mcp`
 - [MCP Toolbox](https://plugmcp.ai/mcp/googleapis-mcp-toolbox) · [repo](https://github.com/googleapis/mcp-toolbox) — Out-of-the-Box Database Access: Prebuilt generic tools for instant data exploration (e.g., list_tables, execute_sql) directly from your. · remote, Cursor, Claude, VS Code
@@ -64,21 +68,17 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://connector.get-ryze.ai/mcp`
 - [Awesome MCP ZH](https://plugmcp.ai/mcp/yzfly-awesome-mcp-zh) · [repo](https://github.com/yzfly/Awesome-MCP-ZH) — MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients # Awesome-MCP-ZH. · remote, Cursor, Claude, VS Code
   `remote https://better-design.com/api/mcp`
-- [Dashboard Icons](https://plugmcp.ai/mcp/homarr-labs-dashboard-icons) · [repo](https://github.com/homarr-labs/dashboard-icons) — Comprehensive Collection: 3,400+ icons for all popular services and tools. Consistent Style: Uniform visual language across different. · remote, Cursor, Claude, VS Code
-  `remote https://dashboardicons.com/api/mcp`
+- [Google Ads Meta Ads](https://plugmcp.ai/mcp/irinabuht12-oss-google-ads-meta-ads-mcp) · [repo](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) — Compare Google Ads vs Meta Ads campaign performance side by side. Correlate ad spend with GA4 conversion data. Unified ROAS analysis. · remote, Cursor, Claude, VS Code
+  `remote https://connector.get-ryze.ai/mcp`
+- [Flint Chart](https://plugmcp.ai/mcp/microsoft-flint-chart) · [repo](https://github.com/microsoft/flint-chart) — Flint: A Visualization Language for the AI Era Please visit: | | | Flint is a visualization intermediate language that lets AI agents turn. · remote, Cursor, Claude, VS Code
+  `remote https://flint.data-formulator.ai/mcp`
 - [Magic](https://plugmcp.ai/mcp/21st-dev-magic-mcp) · [repo](https://github.com/21st-dev/magic-mcp) — It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish. · remote, Cursor, Claude, VS Code
   `remote https://21st.dev/mcp`
 - [MCP Agent](https://plugmcp.ai/mcp/lastmile-ai-mcp-agent) · [repo](https://github.com/lastmile-ai/mcp-agent) — Build effective agents with Model Context Protocol using simple, composable patterns. Examples | Building Effective Agents | MCP · remote, Cursor, Claude, VS Code
   `remote https://docs.mcp-agent.com/mcp`
 - [Git](https://plugmcp.ai/mcp/idosal-git-mcp) · [repo](https://github.com/idosal/git-mcp) — No More Hallucinations: With GitMCP, your AI assistant can provide accurate and relevant answers to your questions.. Zero Setup: GitMCP. · remote, Cursor, Claude, VS Code
   `remote https://docs.anthropic.com/en/docs/agents-and-tools/mcp`
-- [Claude Code Ultimate Guide](https://plugmcp.ai/mcp/florianbruniaux-claude-code-ultimate-guide) · [repo](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) — The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+. · remote, Cursor, Claude, VS Code
-  `remote https://cc.bruniaux.com/mcp/`
-- [Magic](https://plugmcp.ai/mcp/21st-dev-magic-mcp-mcpso) · [repo](https://github.com/21st-dev/magic-mcp) — It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish. · remote, Cursor, Claude, VS Code
-  `remote https://21st.dev/mcp`
-- [Monday.com](https://plugmcp.ai/mcp/com.monday-monday.com) · [repo](https://github.com/mondaycom/mcp) — MCP server for monday.com integration. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.monday.com/mcp`
-- [Excalidraw](https://plugmcp.ai/mcp/excalidraw-excalidraw-mcp) · [repo](https://github.com/excalidraw/excalidraw-mcp) — Official Excalidraw MCP App. Your agent draws hand-drawn diagrams live in the chat, and you can edit them full screen. No account needed. · remote, Claude, VS Code
-  `remote https://mcp.excalidraw.com/mcp`
-- [Lium Docs](https://plugmcp.ai/mcp/io.github.datura-ai-lium-docs) · [repo](https://github.com/Datura-ai/lium-skill) — Search and read the Lium GPU rental docs: pods, CLI, SDK, REST API and agent guides. · official, remote, Cursor, Claude, VS Code
-  `remote https://docs.lium.io/mcp`
+- [MCP Proxy](https://plugmcp.ai/mcp/sparfenyuk-mcp-proxy) · [repo](https://github.com/sparfenyuk/mcp-proxy) — A bridge between Streamable HTTP and stdio MCP transports # mcp-proxy ![GitHub. · remote, Cursor, Claude, VS Code
+  `remote http://example.io/sse`
+- [Korean Law](https://plugmcp.ai/mcp/chrisryugj-korean-law-mcp) · [repo](https://github.com/chrisryugj/korean-law-mcp) — 법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedents, and ordinances, and verify. · remote, Cursor, Claude, VS Code
+  `remote https://mcp.gomdori.app/law?oc=본인키`
