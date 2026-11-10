@@ -3,6 +3,8 @@
 Strong picks for Cursor. Full list index: [README](../README.md).
 
 - [Context7](https://plugmcp.ai/mcp/upstash-context7) · [repo](https://github.com/upstash/context7) — CLI + Skills — installs a skill that guides your agent to fetch docs using ctx7 CLI commands (no MCP required). MCP — registers a Context7. · Cursor, Claude, VS Code
+- [Context7](https://plugmcp.ai/mcp/io.github.upstash-context7) · [repo](https://github.com/upstash/context7) — CLI + Skills — installs a skill that guides your agent to fetch docs using ctx7 CLI commands (no MCP required). MCP — registers a Context7. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.context7.com/mcp`
 - [Scrapling MCP Server](https://plugmcp.ai/mcp/io.github.d4vinci-scrapling) · [repo](https://github.com/D4Vinci/Scrapling) — Effortless Web Scraping for the Modern Web Selection methods &middot; Fetchers &middot; Spiders &middot; Proxy Rotation &middot; CLI. · official, local, Cursor, Claude, VS Code
   `uvx scrapling==0.5.1`
 - [World Monitor](https://plugmcp.ai/mcp/app.worldmonitor-mcp) · [repo](https://github.com/koala73/worldmonitor) — Live markets, conflicts, country risk, chokepoints, energy, and China decision signals. 93 tools. · official, remote, Cursor, Claude, VS Code
@@ -13,10 +15,12 @@ Strong picks for Cursor. Full list index: [README](../README.md).
   `npx -y codebase-memory-mcp@0.12.1`
 - [Reactive Resume](https://plugmcp.ai/mcp/io.github.amruthpillai-reactive-resume) · [repo](https://github.com/reactive-resume/reactive-resume) — > [!IMPORTANT] > Repository moved: Reactive Resume now lives at on GitHub. > Docker Hub stays at amruthpillai/reactive-resume. GHCR images. · official, remote, Cursor, Claude, VS Code
   `remote https://rxresu.me/mcp`
-- [Filesystem](https://plugmcp.ai/mcp/modelcontextprotocol-server-filesystem) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) — The reference filesystem server from the Model Context Protocol project. It reads and writes text and media files, edits files with diffs,. · local, Cursor, Claude
-  `npx -y @modelcontextprotocol/server-filesystem`
+- [GitHub](https://plugmcp.ai/mcp/io.github.github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — Connect AI assistants to GitHub - manage repos, issues, PRs, and workflows through natural language. [![Go Report. · official, remote, Cursor, Claude, VS Code
+  `remote https://api.githubcopilot.com/mcp/`
 - [Git](https://plugmcp.ai/mcp/modelcontextprotocol-server-git) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/git) — The reference Git server from the Model Context Protocol project. It works on local repositories: it shows status, staged and unstaged. · local, Cursor, Claude
   `uvx mcp-server-git`
+- [Filesystem](https://plugmcp.ai/mcp/modelcontextprotocol-server-filesystem) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) — The reference filesystem server from the Model Context Protocol project. It reads and writes text and media files, edits files with diffs,. · local, Cursor, Claude
+  `npx -y @modelcontextprotocol/server-filesystem`
 - [Memory](https://plugmcp.ai/mcp/modelcontextprotocol-server-memory) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) — The reference memory server from the Model Context Protocol project. It keeps a knowledge graph in a local file: entities with. · local, Cursor, Claude
   `npx -y @modelcontextprotocol/server-memory`
 - [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl-mcp-server) · [repo](https://github.com/firecrawl/firecrawl-mcp-server) — Search the web and get full page content. Search an index built for coding agents: GitHub issues, merged pull requests, READMEs, and docs.. · Cursor, Claude, VS Code
@@ -30,9 +34,9 @@ Strong picks for Cursor. Full list index: [README](../README.md).
   `remote https://mcp.exa.ai/mcp`
 - [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.secforge-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude
   `npx -y @secforge/chrome-devtools-mcp@1.10.1004`
+- [Github](https://plugmcp.ai/mcp/github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · Cursor, Claude, VS Code
 - [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents. · official, local, Cursor, Claude, VS Code
   `npx -y notion-mcp-server@3.3.1`
-- [Github](https://plugmcp.ai/mcp/github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · Cursor, Claude, VS Code
 - [Everything](https://plugmcp.ai/mcp/modelcontextprotocol-server-everything) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) — The reference test server from the Model Context Protocol project. It implements every part of the protocol, including tools, resources,. · local, Cursor, Claude
   `npx -y @modelcontextprotocol/server-everything`
 - [Apify MCP Server](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
@@ -60,7 +64,5 @@ Strong picks for Cursor. Full list index: [README](../README.md).
   `remote https://mcp.firecrawl.dev/v2/mcp`
 - [Editor](https://plugmcp.ai/mcp/pascalorg-editor) · [repo](https://github.com/pascalorg/editor) — Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI. # Pascal Editor An open-source,. · Cursor, Claude, VS Code
 - [N8n](https://plugmcp.ai/mcp/n8n-io-n8n) · [repo](https://github.com/n8n-io/n8n) — AI-Native Automation Platform: Build and operationalize AI workflows and multi-step agents using your own data, models, and tools. Model. · Cursor, Claude
-- [Invisible Playwright](https://plugmcp.ai/mcp/feder-cr-invisible_playwright_mcp) · [repo](https://github.com/feder-cr/invisible_playwright_mcp) — Other AI browser agents get captchas. This one is invisible to anti-bots. --- · Cursor, Claude, VS Code
 - [Figma MCP Bridge](https://plugmcp.ai/mcp/gethopp-figma-mcp-bridge) · [repo](https://github.com/gethopp/figma-mcp-bridge) — Figma Plugin & MCP server to bypass API limits · Cursor, Claude, VS Code
-- [Claude Talk To Figma](https://plugmcp.ai/mcp/arinspunk-claude-talk-to-figma-mcp) · [repo](https://github.com/arinspunk/claude-talk-to-figma-mcp) — Get document information, current selection, styles. Scan text, audit components, export assets. Shapes, text, frames with full style. · Cursor, Claude, VS Code
-- [Reactive Resume](https://plugmcp.ai/mcp/reactive-resume-reactive-resume) · [repo](https://github.com/reactive-resume/reactive-resume) — > [!IMPORTANT] > Repository moved: Reactive Resume now lives at on GitHub. > Docker Hub stays at amruthpillai/reactive-resume. GHCR images. · Cursor, Claude
+- [Invisible Playwright](https://plugmcp.ai/mcp/feder-cr-invisible_playwright_mcp) · [repo](https://github.com/feder-cr/invisible_playwright_mcp) — Other AI browser agents get captchas. This one is invisible to anti-bots. --- · Cursor, Claude, VS Code

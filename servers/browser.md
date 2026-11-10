@@ -31,6 +31,8 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [Js Reverse](https://plugmcp.ai/mcp/zhizhuodemao-js-reverse-mcp) · [repo](https://github.com/zhizhuodemao/js-reverse-mcp) — AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。 # JS Reverse MCP [English](README_en.md) |. · local, Cursor, Claude
   `npx -y js-reverse-mcp@4.0.5`
 - [Webclaw](https://plugmcp.ai/mcp/0xmassi-webclaw) · [repo](https://github.com/0xMassi/webclaw) — English | 简体中文 webclaw Turn websites into clean markdown, JSON, and LLM-ready context. CLI, MCP server, REST API, and SDKs for AI agents. · Cursor, Claude
+- [Jshookmcp](https://plugmcp.ai/mcp/vmoranv-jshookmcp) · [repo](https://github.com/vmoranv/jshookmcp) — Session recovery. Streamable HTTP transport restores activated domains, browser attach state, and coverage state after reconnects;. · local, Cursor, Claude
+  `npx -y @jshookmcp/jshook@0.4.3`
 - [Bb Browser](https://plugmcp.ai/mcp/epiral-bb-browser) · [repo](https://github.com/epiral/bb-browser) — Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state. <div align="center"> # bb-browser ###. · local, Cursor, Claude
   `npx -y bb-browser@0.14.2`
 - [MCP Playwright](https://plugmcp.ai/mcp/executeautomation-mcp-playwright) · [repo](https://github.com/executeautomation/mcp-playwright) — Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 <div. · local, Cursor, Claude
@@ -39,7 +41,6 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [Browser Tools](https://plugmcp.ai/mcp/agentdeskai-browser-tools-mcp-mcpso) · [repo](https://github.com/AgentDeskAI/browser-tools-mcp) — Monitor browser logs directly from Cursor and other MCP compatible IDEs. # BrowserTools MCP **If you are still on 1.x, upgrade.** 1.x is. · Cursor, Claude
 - [MCP Playwright](https://plugmcp.ai/mcp/executeautomation-mcp-playwright-mcpso) · [repo](https://github.com/executeautomation/mcp-playwright) — Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 <div. · local, Cursor, Claude
   `npx -y @executeautomation/playwright-mcp-server@1.0.12`
-- [Brightdata](https://plugmcp.ai/mcp/brightdata-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp) — Bright Data MCP Web search, page scraping, structured data extraction, and browser automation for AI agents and LLMs over the Model. · remote, Cursor, Claude, VS Code
-  `remote https://mcp.brightdata.com/mcp?token=YOUR_API_TOKEN`
+- [Brightdata](https://plugmcp.ai/mcp/brightdata-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp) — Bright Data MCP Web search, page scraping, structured data extraction, and browser automation for AI agents and LLMs over the Model. · Cursor, Claude, VS Code
 - [PlugMCP Browser](https://plugmcp.ai/mcp/plugmcp-browser) · [repo](https://github.com/demo55oo/usher) — WebMCP tools in the tab you are already logged into. Local stdio MCP plus a Chrome extension. · local, Cursor, Claude
   `npx -y usher`

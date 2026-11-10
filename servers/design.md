@@ -28,10 +28,11 @@ Figma, assets, and design systems. Full list index: [README](../README.md).
   `npx -y cursor-talk-to-figma-mcp@0.3.5`
 - [MCP Excalidraw](https://plugmcp.ai/mcp/yctimlin-mcp_excalidraw) · [repo](https://github.com/yctimlin/mcp_excalidraw) — MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with. · local, Cursor, Claude
   `npx -y mcp-excalidraw-server@2.1.2`
+- [Doory](https://plugmcp.ai/mcp/shaongitbd-doory) · [repo](https://github.com/shaongitbd/doory) — Open source canva alternative <a href="https://github.com/shaongitbd/doory"><img src=".github/readme/banner.webp" alt="Doory: the. · Cursor, Claude
 - [MCP Excalidraw](https://plugmcp.ai/mcp/yctimlin-mcp_excalidraw-mcpso) · [repo](https://github.com/yctimlin/mcp_excalidraw) — MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with. · local, Cursor, Claude
   `npx -y mcp-excalidraw-server@2.1.2`
 - [Arc Kit](https://plugmcp.ai/mcp/tractorjuice-arc-kit) · [repo](https://github.com/tractorjuice/arc-kit) — The Enterprise Architecture Governance Harness — strategy, architecture, delivery, and assurance using AI coding assistants # ArcKit: The. · Cursor, Claude
-- [MCP Proxy](https://plugmcp.ai/mcp/sparfenyuk-mcp-proxy) · [repo](https://github.com/sparfenyuk/mcp-proxy) — A bridge between Streamable HTTP and stdio MCP transports # mcp-proxy ![GitHub. · remote, Cursor, Claude, VS Code
-  `remote http://example.io/sse`
+- [MeiGen AI Design](https://plugmcp.ai/mcp/jau123-meigen-ai-design-mcp) · [repo](https://github.com/jau123/MeiGen-AI-Design-MCP) — MeiGen AI Design MCP Discover inspiration. Create images and videos with the latest AI models. Open-source MCP tools for ChatGPT, Claude,. · remote, Cursor, Claude, VS Code
+  `remote https://www.meigen.ai/api/mcp`
 - [Appllama Skills](https://plugmcp.ai/mcp/appllama-appllama-skills) · [repo](https://github.com/Appllama/appllama-skills) — A builder, not just a researcher. Agent skills that make AI agents genuinely good at building mobile apps — studied against the. · remote, Cursor, Claude, VS Code
   `remote https://appllama.io/mcp`
