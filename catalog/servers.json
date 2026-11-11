@@ -2,7 +2,7 @@
   "updated": "2026-11-10",
   "source": "https://github.com/plugmcp-ai/awesome-mcp-servers",
   "directory": "https://plugmcp.ai/mcp",
-  "count": 900,
+  "count": 901,
   "servers": [
     {
       "name": "Context7",
@@ -16,6 +16,19 @@
       "stars": 64444,
       "quality": 38,
       "install": null
+    },
+    {
+      "name": "Enhanciar",
+      "slug": "enhanciar",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp/enhanciar",
+      "github_url": "https://github.com/enhanciar/enhanciar-mcp",
+      "blurb": "Company brain: answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve.",
+      "official": true,
+      "remote": true,
+      "stars": 0,
+      "quality": 0,
+      "install": "remote https://enhanciar.in/mcp"
     },
     {
       "name": "Context7",
