@@ -21,7 +21,7 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
 - [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.secforge-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude
   `npx -y @secforge/chrome-devtools-mcp@1.10.1004`
 - [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents. · official, local, Cursor, Claude, VS Code
-  `npx -y notion-mcp-server@3.3.1`
+  `npx -y notion-mcp-server@3.4.0`
 - [Apify MCP Server](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.apify.com/`
 - [Github](https://plugmcp.ai/mcp/io.github.dave-london-github) · [repo](https://github.com/Dave-London/Pare) — Pare Reliable, structured CLI output for AI agents — no more parsing fragile terminal text. Pare provides servers that wrap common. · official, local, Cursor, Claude, VS Code
@@ -43,7 +43,7 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
 - [Serena MCP: The IDE For Your Agent](https://plugmcp.ai/mcp/io.github.oraios-serena) · [repo](https://github.com/oraios/serena) — The IDE for Your Coding Agent Serena provides essential semantic code retrieval, editing, refactoring and debugging tools that are akin to. · official, local, Cursor, Claude
   `uvx serena-agent==1.5.3`
 - [Zotero MCP](https://plugmcp.ai/mcp/io.github.54yyyu-zotero-mcp) · [repo](https://github.com/54yyyu/zotero-mcp) — Zotero MCP: Chat with your Research Library in Claude, ChatGPT, and more Your Zotero library, in every AI agent. Search, read, cite and. · official, local, Cursor, Claude, VS Code
-  `uvx zotero-mcp-server==0.15.2`
+  `uvx zotero-mcp-server==0.17.0`
 - [Strata](https://plugmcp.ai/mcp/ai.klavis-strata) · [repo](https://github.com/Klavis-AI/klavis) — MCP server for progressive tool usage at any scale (see https://klavis.ai) · official, remote, Cursor, Claude, VS Code
   `remote https://strata.klavis.ai/mcp/`
 - [Finance Toolkit](https://plugmcp.ai/mcp/io.github.jerbouma-financetoolkit) · [repo](https://github.com/JerBouma/FinanceToolkit) — While browsing a variety of websites, I repeatedly observed significant fluctuations in the same financial metric among different sources.. · official, remote, Cursor, Claude, VS Code
@@ -56,6 +56,8 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
   `npx -y @antv/mcp-server-chart@0.9.0-beta.1`
 - [FunASR](https://plugmcp.ai/mcp/io.github.modelscope-funasr-mcp) · [repo](https://github.com/modelscope/FunASR) — ( |English| | ) Industrial speech recognition toolkit for offline, streaming, and edge deployment. ASR · VAD · punctuation · speaker. · official, local, Cursor, Claude
   `docker run -i --rm ghcr.io/modelscope/funasr-mcp:0.1.2`
+- [Pg Aiguide](https://plugmcp.ai/mcp/io.github.timescale-pg-aiguide) · [repo](https://github.com/timescale/pg-aiguide) — missing constraints and indexes. unaware of modern PG features. inconsistent with real-world best practices · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.tigerdata.com/docs`
 - [Hyperresearch Answers](https://plugmcp.ai/mcp/ai.hyperresearch-answers) · [repo](https://github.com/jordan-gibbs/hyperresearch-answers) — One question, one checked answer: quote-verified answers from the web and ~45 structured sources. # Hyperresearch Answers (MCP) <img. · official, remote, Cursor, Claude, VS Code
   `remote https://answers.hyperresearch.ai/mcp`
 - [Llmwiki](https://plugmcp.ai/mcp/io.github.atomicstrata-llmwiki) · [repo](https://github.com/atomicstrata/llm-wiki-compiler) — Compile documents into a cited knowledge wiki. Retrieve evidence, query, and review via local MCP. # llmwiki. · official, local, Cursor, Claude
@@ -66,8 +68,6 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
   `uvx openosint==2.38.0`
 - [Wigolo](https://plugmcp.ai/mcp/io.github.knockoutez-wigolo) · [repo](https://github.com/KnockOutEZ/wigolo) — Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI ·. · official, local, Cursor, Claude, VS Code
   `npx -y wigolo@0.2.1`
-- [Pg Aiguide](https://plugmcp.ai/mcp/io.github.timescale-pg-aiguide) · [repo](https://github.com/timescale/pg-aiguide) — missing constraints and indexes. unaware of modern PG features. inconsistent with real-world best practices · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.tigerdata.com/docs`
 - [XERJ](https://plugmcp.ai/mcp/io.github.xerj-org-xerj) · [repo](https://github.com/xerj-org/xerj) — XERJ | | | | | | The search engine for AI, now with XERJ Query-1: a model that turns your question into a small program over facts you. · official, local, Cursor, Claude
   `mcpb https://github.com/xerj-org/xerj/releases/download/mcpb-v1.0.0-rc.99/xerj-mcp-1.0.0-rc.99.mcpb@1.0.0-rc.99`
 - [Folklore Clinical Variant Interpretation MCP](https://plugmcp.ai/mcp/io.github.helena-bioinformatics-folklore) · [repo](https://github.com/helena-bioinformatics/folklore-mcp) — Germline ACMG/AMP classification, genes, disease associations, literature, and API-key case analysis. · official, remote, Cursor, Claude, VS Code
@@ -81,4 +81,4 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
 - [Ui.Vision MCP](https://plugmcp.ai/mcp/io.github.a9t9-uivision-mcp) · [repo](https://github.com/A9T9/RPA) — MCP server for browser and desktop automation: OCR, image recognition, real mouse and keyboard input # Ui.Vision - Browser and Desktop. · official, remote, Cursor, Claude, VS Code
   `remote https://ui.vision/mcp`
 - [Excel MCP Server](https://plugmcp.ai/mcp/io.github.haris-musa-excel-mcp-server) · [repo](https://github.com/haris-musa/excel-mcp-server) — Create Excel charts with AI: column, bar, line, area, pie, doughnut, radar, scatter and. The Excel 2016 chart types: waterfall, histogram,. · official, local, Cursor, Claude
-  `uvx excel-mcp-server==2.2.9`
+  `uvx excel-mcp-server==2.3.0`

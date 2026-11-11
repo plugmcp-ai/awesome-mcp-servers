@@ -16,8 +16,8 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
   `remote https://mcp.firecrawl.dev/v2/mcp`
 - [Douyin TikTok Download API](https://plugmcp.ai/mcp/evil0ctal-douyin_tiktok_download_api) · [repo](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) — Douyin_TikTok_Download_API | A self-hosted data API for and . One docker compose up, an identity pool that maintains itself, and a REST. · Cursor, Claude
 - [MCP Chrome](https://plugmcp.ai/mcp/hangwin-mcp-chrome) · [repo](https://github.com/hangwin/mcp-chrome) — A New Visual Editor for Claude Code & Codex, for more detail here:. Chatbot/Model Agnostic: Let any LLM or chatbot client or agent you. · Cursor, Claude
-- [Cua](https://plugmcp.ai/mcp/trycua-cua) · [repo](https://github.com/trycua/cua) — Combine your existing computers into one supercomputer. Cua Spaces: your computers, shared by your team and its agents. This repository. · Cursor, Claude
 - [Obscura](https://plugmcp.ai/mcp/h4ckf0r0day-obscura) · [repo](https://github.com/h4ckf0r0day/obscura) — Obscura The open-source headless browser for AI agents and web scraping. Lightweight, stealthy, and built in Rust. Native rendering is. · Cursor, Claude
+- [Cua](https://plugmcp.ai/mcp/trycua-cua) · [repo](https://github.com/trycua/cua) — Combine your existing computers into one supercomputer. Cua Spaces: your computers, shared by your team and its agents. This repository. · Cursor, Claude
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [Windows](https://plugmcp.ai/mcp/cursortouch-windows-mcp) · [repo](https://github.com/CursorTouch/Windows-MCP) — Windows-MCP Windows-MCP is a lightweight, open-source project that enables seamless integration between AI agents and the Windows. · Cursor, Claude
@@ -31,8 +31,7 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [Js Reverse](https://plugmcp.ai/mcp/zhizhuodemao-js-reverse-mcp) · [repo](https://github.com/zhizhuodemao/js-reverse-mcp) — AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。 # JS Reverse MCP [English](README_en.md) |. · local, Cursor, Claude
   `npx -y js-reverse-mcp@4.0.5`
 - [Webclaw](https://plugmcp.ai/mcp/0xmassi-webclaw) · [repo](https://github.com/0xMassi/webclaw) — English | 简体中文 webclaw Turn websites into clean markdown, JSON, and LLM-ready context. CLI, MCP server, REST API, and SDKs for AI agents. · Cursor, Claude
-- [Jshookmcp](https://plugmcp.ai/mcp/vmoranv-jshookmcp) · [repo](https://github.com/vmoranv/jshookmcp) — Session recovery. Streamable HTTP transport restores activated domains, browser attach state, and coverage state after reconnects;. · local, Cursor, Claude
-  `npx -y @jshookmcp/jshook@0.4.3`
+- [Jshookmcp](https://plugmcp.ai/mcp/vmoranv-jshookmcp) · [repo](https://github.com/vmoranv/jshookmcp) — Session recovery. Streamable HTTP transport restores activated domains, browser attach state, and coverage state after reconnects;. · Cursor, Claude
 - [Bb Browser](https://plugmcp.ai/mcp/epiral-bb-browser) · [repo](https://github.com/epiral/bb-browser) — Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state. <div align="center"> # bb-browser ###. · local, Cursor, Claude
   `npx -y bb-browser@0.14.2`
 - [MCP Playwright](https://plugmcp.ai/mcp/executeautomation-mcp-playwright) · [repo](https://github.com/executeautomation/mcp-playwright) — Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 <div. · local, Cursor, Claude
