@@ -9,7 +9,7 @@ Published by the product they connect to. Full list index: [README](../README.md
 - [World Monitor](https://plugmcp.ai/mcp/app.worldmonitor-mcp) · [repo](https://github.com/koala73/worldmonitor) — Live markets, conflicts, country risk, chokepoints, energy, and China decision signals. 93 tools. · official, remote, Cursor, Claude, VS Code
   `remote https://worldmonitor.app/mcp`
 - [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.chromedevtools-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude, VS Code
-  `npx -y chrome-devtools-mcp@1.12.0`
+  `npx -y chrome-devtools-mcp@1.13.0`
 - [Codebase Memory](https://plugmcp.ai/mcp/io.github.deusdata-codebase-memory-mcp) · [repo](https://github.com/DeusData/codebase-memory-mcp) — 162 languages: vendored tree-sitter grammars compiled into the binary. No separate parser installation.. About 120× fewer tokens in the. · official, local, Cursor, Claude, VS Code
   `npx -y codebase-memory-mcp@0.12.1`
 - [Reactive Resume](https://plugmcp.ai/mcp/io.github.amruthpillai-reactive-resume) · [repo](https://github.com/reactive-resume/reactive-resume) — > [!IMPORTANT] > Repository moved: Reactive Resume now lives at on GitHub. > Docker Hub stays at amruthpillai/reactive-resume. GHCR images. · official, remote, Cursor, Claude, VS Code
@@ -52,6 +52,8 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://mcp.tradingmcp.ai/mcp`
 - [Next AI Draw.io](https://plugmcp.ai/mcp/io.github.dayuanjiang-next-ai-drawio) · [repo](https://github.com/DayuanJiang/next-ai-draw-io) — Architecture diagrams, flowcharts, sequence diagrams and more from one sentence, with built-in AWS, Azure, GCP and Kubernetes icon. · official, local, Cursor, Claude, VS Code
   `npx -y @next-ai-drawio/mcp-server@0.4.13`
+- [Voicemode](https://plugmcp.ai/mcp/dev.voicemode-voicemode) · [repo](https://github.com/mbailey/voicemode) — Natural conversations - speak naturally, hear responses immediately. Works offline - optional local voice services (Whisper STT, Kokoro. · official, local, Cursor, Claude
+  `uvx voice-mode==9.0.2`
 - [MCP Server Chart](https://plugmcp.ai/mcp/io.github.antvis-mcp-server-chart) · [repo](https://github.com/antvis/mcp-server-chart) — A Model Context Protocol server for generating charts using AntV. · official, local, Cursor, Claude, VS Code
   `npx -y @antv/mcp-server-chart@0.9.0-beta.1`
 - [FunASR](https://plugmcp.ai/mcp/io.github.modelscope-funasr-mcp) · [repo](https://github.com/modelscope/FunASR) — ( |English| | ) Industrial speech recognition toolkit for offline, streaming, and edge deployment. ASR · VAD · punctuation · speaker. · official, local, Cursor, Claude
@@ -62,10 +64,10 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://answers.hyperresearch.ai/mcp`
 - [Llmwiki](https://plugmcp.ai/mcp/io.github.atomicstrata-llmwiki) · [repo](https://github.com/atomicstrata/llm-wiki-compiler) — Compile documents into a cited knowledge wiki. Retrieve evidence, query, and review via local MCP. # llmwiki. · official, local, Cursor, Claude
   `npx -y llm-wiki-compiler@1.5.0`
-- [OpenOSINT](https://plugmcp.ai/mcp/io.github.sonotommy-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
-  `uvx openosint==2.15.2`
 - [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
   `uvx openosint==2.38.0`
+- [OpenOSINT](https://plugmcp.ai/mcp/io.github.sonotommy-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
+  `uvx openosint==2.15.2`
 - [Wigolo](https://plugmcp.ai/mcp/io.github.knockoutez-wigolo) · [repo](https://github.com/KnockOutEZ/wigolo) — Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI ·. · official, local, Cursor, Claude, VS Code
   `npx -y wigolo@0.2.1`
 - [XERJ](https://plugmcp.ai/mcp/io.github.xerj-org-xerj) · [repo](https://github.com/xerj-org/xerj) — XERJ | | | | | | The search engine for AI, now with XERJ Query-1: a model that turns your question into a small program over facts you. · official, local, Cursor, Claude
@@ -80,5 +82,3 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://server.smithery.ai/@luminati-io/brightdata-mcp/mcp`
 - [Ui.Vision MCP](https://plugmcp.ai/mcp/io.github.a9t9-uivision-mcp) · [repo](https://github.com/A9T9/RPA) — MCP server for browser and desktop automation: OCR, image recognition, real mouse and keyboard input # Ui.Vision - Browser and Desktop. · official, remote, Cursor, Claude, VS Code
   `remote https://ui.vision/mcp`
-- [Excel MCP Server](https://plugmcp.ai/mcp/io.github.haris-musa-excel-mcp-server) · [repo](https://github.com/haris-musa/excel-mcp-server) — Create Excel charts with AI: column, bar, line, area, pie, doughnut, radar, scatter and. The Excel 2016 chart types: waterfall, histogram,. · official, local, Cursor, Claude
-  `uvx excel-mcp-server==2.3.0`
