@@ -52,6 +52,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://server.smithery.ai/@luminati-io/brightdata-mcp/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
+- [MCP Cli](https://plugmcp.ai/mcp/philschmid-mcp-cli) · [repo](https://github.com/philschmid/mcp-cli) — Lightweight - Minimal dependencies, fast startup. Single Binary - Compile to standalone executable via bun build --compile. Shell-Friendly. · remote, Cursor, Claude, VS Code
+  `remote https://mcp.deepwiki.com/mcp`
 - [DesktopCommanderMCP](https://plugmcp.ai/mcp/wonderwhy-er-desktopcommandermcp) · [repo](https://github.com/wonderwhy-er/DesktopCommanderMCP) — Remote AI Control - Use Desktop Commander from ChatGPT, Claude web, and other AI services via. File Preview UI - Visual file previews in. · remote, Cursor, Claude, VS Code
   `remote https://mcp.desktopcommander.app`
 - [Ui.Vision MCP](https://plugmcp.ai/mcp/io.github.a9t9-uivision-mcp) · [repo](https://github.com/A9T9/RPA) — MCP server for browser and desktop automation: OCR, image recognition, real mouse and keyboard input # Ui.Vision - Browser and Desktop. · official, remote, Cursor, Claude, VS Code
@@ -70,6 +72,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://antigravity.google/docs/mcp`
 - [Comunicate.eu](https://plugmcp.ai/mcp/eu.comunicate-publishing) · [repo](https://github.com/adrianncraciun-cmd/public-mcp) — Publish press releases and advertorials on 3,800+ news sites: catalogue, prices, budget plans. · official, remote, Cursor, Claude, VS Code
   `remote https://app.comunicate.eu/mcp`
+- [MATLAB MCP Server](https://plugmcp.ai/mcp/io.github.matlab-matlab-mcp-server) · [repo](https://github.com/matlab/matlab-mcp-server) — Connect AI coding agents to MATLAB. Run code, tests, and analysis via MCP. # MATLAB MCP Server <p align="center"> English • <a. · official, remote, Cursor, Claude, VS Code
+  `remote https://docs.claude.com/en/docs/claude-code/mcp#option-3%3A-add-a-local-stdio-server`
 - [Open Seo MCP Skills](https://plugmcp.ai/mcp/ryze-ai-adgent-open-seo-mcp-skills) · [repo](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) — Your rankings come from your actual Google Search Console — real positions, real clicks, not estimates. Your traffic comes from your. · remote, Cursor, Claude, VS Code
   `remote https://connector.get-ryze.ai/mcp`
 - [Anysearch](https://plugmcp.ai/mcp/anysearch-ai-anysearch-mcp-server) · [repo](https://github.com/anysearch-ai/anysearch-mcp-server) — General Web Search — open-ended natural language queries. Vertical Domain Search — structured queries across finance, academic, security,. · remote, Cursor, Claude, VS Code
@@ -78,7 +82,3 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://better-design.com/api/mcp`
 - [MCP Agent](https://plugmcp.ai/mcp/lastmile-ai-mcp-agent) · [repo](https://github.com/lastmile-ai/mcp-agent) — Build effective agents with Model Context Protocol using simple, composable patterns. Examples | Building Effective Agents | MCP · remote, Cursor, Claude, VS Code
   `remote https://docs.mcp-agent.com/mcp`
-- [Korean Law](https://plugmcp.ai/mcp/chrisryugj-korean-law-mcp) · [repo](https://github.com/chrisryugj/korean-law-mcp) — 법제처 국가법령정보를 LLM에서 바로 조회하는 MCP 서버. 법령·판례·조례 검색과 인용 검증 | MCP server for Korean law — search statutes, precedents, and ordinances, and verify. · remote, Cursor, Claude, VS Code
-  `remote https://mcp.gomdori.app/law?oc=본인키`
-- [Google Ads Meta Ads](https://plugmcp.ai/mcp/irinabuht12-oss-google-ads-meta-ads-mcp) · [repo](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp) — Compare Google Ads vs Meta Ads campaign performance side by side. Correlate ad spend with GA4 conversion data. Unified ROAS analysis. · remote, Cursor, Claude, VS Code
-  `remote https://connector.get-ryze.ai/mcp`

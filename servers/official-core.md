@@ -72,6 +72,8 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
   `npx -y wigolo@0.2.1`
 - [XERJ](https://plugmcp.ai/mcp/io.github.xerj-org-xerj) · [repo](https://github.com/xerj-org/xerj) — XERJ | | | | | | The search engine for AI, now with XERJ Query-1: a model that turns your question into a small program over facts you. · official, local, Cursor, Claude
   `mcpb https://github.com/xerj-org/xerj/releases/download/mcpb-v1.0.0-rc.99/xerj-mcp-1.0.0-rc.99.mcpb@1.0.0-rc.99`
+- [Monitor](https://plugmcp.ai/mcp/io.github.betterdb-inc-monitor) · [repo](https://github.com/BetterDB-inc/monitor) — BetterDB MCP server - Valkey and Redis observability for Claude Code and other MCP clients # BetterDB Monitor [![Docker. · official, local, Cursor, Claude
+  `npx -y @betterdb/mcp@1.6.0`
 - [Folklore Clinical Variant Interpretation MCP](https://plugmcp.ai/mcp/io.github.helena-bioinformatics-folklore) · [repo](https://github.com/helena-bioinformatics/folklore-mcp) — Germline ACMG/AMP classification, genes, disease associations, literature, and API-key case analysis. · official, remote, Cursor, Claude, VS Code
   `remote https://api.helena.bio/folklore/v1/mcp`
 - [Pascal 3D Editor](https://plugmcp.ai/mcp/app.pascal-editor) · [repo](https://github.com/pascalorg/editor) — Create, inspect, validate, and save editable 3D building scenes with Pascal's MCP server. # Pascal Editor — open-source 3D architecture. · official, remote, Cursor, Claude, VS Code
@@ -80,5 +82,3 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
   `remote https://api.cloud.vexa.ai/mcp`
 - [Luminati Io Brightdata](https://plugmcp.ai/mcp/ai.smithery-luminati-io-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp-sse) — One MCP for the Web. Easily search, crawl, navigate, and extract websites without getting blocked.… · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@luminati-io/brightdata-mcp/mcp`
-- [Ui.Vision MCP](https://plugmcp.ai/mcp/io.github.a9t9-uivision-mcp) · [repo](https://github.com/A9T9/RPA) — MCP server for browser and desktop automation: OCR, image recognition, real mouse and keyboard input # Ui.Vision - Browser and Desktop. · official, remote, Cursor, Claude, VS Code
-  `remote https://ui.vision/mcp`
