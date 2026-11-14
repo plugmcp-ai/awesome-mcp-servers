@@ -42,8 +42,10 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://api.openstatus.dev/mcp`
 - [Serena MCP: The IDE For Your Agent](https://plugmcp.ai/mcp/io.github.oraios-serena) · [repo](https://github.com/oraios/serena) — The IDE for Your Coding Agent Serena provides essential semantic code retrieval, editing, refactoring and debugging tools that are akin to. · official, local, Cursor, Claude
   `uvx serena-agent==1.5.3`
+- [AgentRQ](https://plugmcp.ai/mcp/io.github.agentrq-agentrq) · [repo](https://github.com/agentrq/agentrq) — Multi-Workspace Management: List, create, and update workspaces.. Global Task View: Fetch tasks from all workspaces in a single call. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.agentrq.com/mcp`
 - [Zotero MCP](https://plugmcp.ai/mcp/io.github.54yyyu-zotero-mcp) · [repo](https://github.com/54yyyu/zotero-mcp) — Zotero MCP: Chat with your Research Library in Claude, ChatGPT, and more Your Zotero library, in every AI agent. Search, read, cite and. · official, local, Cursor, Claude, VS Code
-  `uvx zotero-mcp-server==0.17.0`
+  `uvx zotero-mcp-server==0.17.1`
 - [Strata](https://plugmcp.ai/mcp/ai.klavis-strata) · [repo](https://github.com/Klavis-AI/klavis) — MCP server for progressive tool usage at any scale (see https://klavis.ai) · official, remote, Cursor, Claude, VS Code
   `remote https://strata.klavis.ai/mcp/`
 - [Finance Toolkit](https://plugmcp.ai/mcp/io.github.jerbouma-financetoolkit) · [repo](https://github.com/JerBouma/FinanceToolkit) — While browsing a variety of websites, I repeatedly observed significant fluctuations in the same financial metric among different sources.. · official, remote, Cursor, Claude, VS Code
@@ -51,7 +53,7 @@ Published by the product they connect to. Full list index: [README](../README.md
 - [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.tradingmcp.ai/mcp`
 - [Next AI Draw.io](https://plugmcp.ai/mcp/io.github.dayuanjiang-next-ai-drawio) · [repo](https://github.com/DayuanJiang/next-ai-draw-io) — Architecture diagrams, flowcharts, sequence diagrams and more from one sentence, with built-in AWS, Azure, GCP and Kubernetes icon. · official, local, Cursor, Claude, VS Code
-  `npx -y @next-ai-drawio/mcp-server@0.4.13`
+  `npx -y @next-ai-drawio/mcp-server@0.4.14`
 - [Voicemode](https://plugmcp.ai/mcp/dev.voicemode-voicemode) · [repo](https://github.com/mbailey/voicemode) — Natural conversations - speak naturally, hear responses immediately. Works offline - optional local voice services (Whisper STT, Kokoro. · official, local, Cursor, Claude
   `uvx voice-mode==9.0.2`
 - [MCP Server Chart](https://plugmcp.ai/mcp/io.github.antvis-mcp-server-chart) · [repo](https://github.com/antvis/mcp-server-chart) — A Model Context Protocol server for generating charts using AntV. · official, local, Cursor, Claude, VS Code
@@ -64,12 +66,14 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://answers.hyperresearch.ai/mcp`
 - [Llmwiki](https://plugmcp.ai/mcp/io.github.atomicstrata-llmwiki) · [repo](https://github.com/atomicstrata/llm-wiki-compiler) — Compile documents into a cited knowledge wiki. Retrieve evidence, query, and review via local MCP. # llmwiki. · official, local, Cursor, Claude
   `npx -y llm-wiki-compiler@1.5.0`
-- [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
-  `uvx openosint==2.38.0`
 - [OpenOSINT](https://plugmcp.ai/mcp/io.github.sonotommy-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
   `uvx openosint==2.15.2`
+- [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
+  `uvx openosint==2.38.0`
 - [Wigolo](https://plugmcp.ai/mcp/io.github.knockoutez-wigolo) · [repo](https://github.com/KnockOutEZ/wigolo) — Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI ·. · official, local, Cursor, Claude, VS Code
   `npx -y wigolo@0.2.1`
+- [Grandet](https://plugmcp.ai/mcp/io.github.hanzohanzhe-grandet) · [repo](https://github.com/hanzohanzhe/Grandet) — Cheapest API for any model across official, inference and relay providers; find free credits # Grandet: find the cheapest API for any. · official, remote, Cursor, Claude, VS Code
+  `remote https://grandet.ai/mcp`
 - [XERJ](https://plugmcp.ai/mcp/io.github.xerj-org-xerj) · [repo](https://github.com/xerj-org/xerj) — XERJ | | | | | | The search engine for AI, now with XERJ Query-1: a model that turns your question into a small program over facts you. · official, local, Cursor, Claude
   `mcpb https://github.com/xerj-org/xerj/releases/download/mcpb-v1.0.0-rc.99/xerj-mcp-1.0.0-rc.99.mcpb@1.0.0-rc.99`
 - [Monitor](https://plugmcp.ai/mcp/io.github.betterdb-inc-monitor) · [repo](https://github.com/BetterDB-inc/monitor) — BetterDB MCP server - Valkey and Redis observability for Claude Code and other MCP clients # BetterDB Monitor [![Docker. · official, local, Cursor, Claude
@@ -78,7 +82,3 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://api.helena.bio/folklore/v1/mcp`
 - [Pascal 3D Editor](https://plugmcp.ai/mcp/app.pascal-editor) · [repo](https://github.com/pascalorg/editor) — Create, inspect, validate, and save editable 3D building scenes with Pascal's MCP server. # Pascal Editor — open-source 3D architecture. · official, remote, Cursor, Claude, VS Code
   `remote https://editor.pascal.app/api/mcp`
-- [Vexa](https://plugmcp.ai/mcp/ai.vexa-vexa) · [repo](https://github.com/Vexa-ai/vexa) — Meeting bot and transcripts for Google Meet, Teams and Zoom. Live or after, speakers labelled. <div align="center"> <img. · official, remote, Cursor, Claude, VS Code
-  `remote https://api.cloud.vexa.ai/mcp`
-- [Luminati Io Brightdata](https://plugmcp.ai/mcp/ai.smithery-luminati-io-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp-sse) — One MCP for the Web. Easily search, crawl, navigate, and extract websites without getting blocked.… · official, remote, Cursor, Claude, VS Code
-  `remote https://server.smithery.ai/@luminati-io/brightdata-mcp/mcp`

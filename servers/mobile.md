@@ -11,6 +11,8 @@ iOS, Android, and device farms. Full list index: [README](../README.md).
 - [Jadx Ai](https://plugmcp.ai/mcp/zinja-coder-jadx-ai-mcp-mcpso) · [repo](https://github.com/zinja-coder/jadx-ai-mcp) — Plugin for JADX to integrate MCP server <div align="center"> # JADX-AI-MCP (Part of Zin MCP Suite) ⚡ Fully automated MCP server + JADX. · Cursor, Claude
 - [Agent Device](https://plugmcp.ai/mcp/callstack-agent-device) · [repo](https://github.com/callstack/agent-device) — Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web,. · local, Cursor, Claude
   `npx -y agent-device@0.21.37-dev`
+- [Pinky](https://plugmcp.ai/mcp/diygod-pinky) · [repo](https://github.com/DIYgod/pinky) — Pinky Let AI use your iPhone or Android phone, with you in the loop: any agent from macOS, Windows or Linux, or Pinky itself, right on the. · Cursor, Claude
+- [Simutil](https://plugmcp.ai/mcp/dungngminh-simutil) · [repo](https://github.com/dungngminh/simutil) — SimUtil Everyday utilities for Android emulators, iOS simulators and real devices Launch, stream, control, record, test and clean up, from. · Cursor, Claude
 - [Mobile](https://plugmcp.ai/mcp/mobile-next-mobile-mcp) · [repo](https://github.com/mobile-next/mobile-mcp) — One API, every target: the same tools work across iOS and Android — simulators, emulators, and real devices.. No platform expertise. · Cursor, Claude, VS Code
 - [Ios Simulator](https://plugmcp.ai/mcp/joshuayoes-ios-simulator-mcp) · [repo](https://github.com/joshuayoes/ios-simulator-mcp) — MCP server for interacting with the iOS simulator # iOS Simulator MCP Server [![Install MCP. · local, Cursor, Claude
   `npx -y ios-simulator-mcp@2.2.0`
