@@ -9986,7 +9986,7 @@
       "remote": true,
       "stars": 3,
       "quality": 0,
-      "install": "remote https://dchub.cloud/mcp/registry"
+      "install": "remote https://dchub.cloud/mcp"
     },
     {
       "name": "BlockVectra Docs: Robinhood Chain & EVM",
