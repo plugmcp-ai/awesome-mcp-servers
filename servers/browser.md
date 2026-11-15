@@ -40,6 +40,12 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [Reticle](https://plugmcp.ai/mcp/reticlehq-reticle) · [repo](https://github.com/reticlehq/reticle) — Your AI agent says "done." Reticle finds out if that is true. It drives your real, running app and reads what happened. Then it returns a. · Cursor, Claude
 - [MCP Playwright](https://plugmcp.ai/mcp/executeautomation-mcp-playwright-mcpso) · [repo](https://github.com/executeautomation/mcp-playwright) — Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 <div. · local, Cursor, Claude
   `npx -y @executeautomation/playwright-mcp-server@1.0.12`
+- [Fetcher](https://plugmcp.ai/mcp/jae-jae-fetcher-mcp) · [repo](https://github.com/jae-jae/fetcher-mcp) — fetch_url - Retrieve web page content from a specified URL. fetch_urls - Batch retrieve web page content from multiple URLs in parallel.. · local, Cursor, Claude
+  `npx -y fetcher-mcp@0.4.1`
+- [Awesome MCP Servers](https://plugmcp.ai/mcp/yuzehao2023-awesome-mcp-servers) · [repo](https://github.com/YuzeHao2023/Awesome-MCP-Servers) — A curated list of Model Context Protocol (MCP) servers ![](asserts/logo1.png) # Awesome MCP Servers. · remote, Cursor, Claude, VS Code
+  `remote https://www.reddit.com/r/mcp`
+- [Fetcher](https://plugmcp.ai/mcp/jae-jae-fetcher-mcp-mcpso) · [repo](https://github.com/jae-jae/fetcher-mcp) — fetch_url - Retrieve web page content from a specified URL. fetch_urls - Batch retrieve web page content from multiple URLs in parallel.. · local, Cursor, Claude
+  `npx -y fetcher-mcp@0.4.1`
 - [Brightdata](https://plugmcp.ai/mcp/brightdata-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp) — Bright Data MCP Web search, page scraping, structured data extraction, and browser automation for AI agents and LLMs over the Model. · Cursor, Claude, VS Code
 - [PlugMCP Browser](https://plugmcp.ai/mcp/plugmcp-browser) · [repo](https://github.com/demo55oo/usher) — WebMCP tools in the tab you are already logged into. Local stdio MCP plus a Chrome extension. · local, Cursor, Claude
   `npx -y usher`

@@ -13,7 +13,7 @@
   <a href="https://github.com/plugmcp-ai/awesome-mcp-servers/stargazers"><img src="https://img.shields.io/github/stars/plugmcp-ai/awesome-mcp-servers?style=flat" alt="GitHub stars" /></a>
   <a href="https://plugmcp.ai/mcp"><img src="https://img.shields.io/badge/directory-plugmcp.ai-111111" alt="PlugMCP directory" /></a>
   <a href="https://plugmcp.ai/mcp/submit"><img src="https://img.shields.io/badge/submit-server-0a7" alt="Submit a server" /></a>
-  <img src="https://img.shields.io/badge/updated-2026-11-14-informational" alt="Updated 2026-11-14" />
+  <img src="https://img.shields.io/badge/updated-2026-11-15-informational" alt="Updated 2026-11-15" />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
   <a href="CONTRIBUTING.md">Contribute</a>
 </p>
 
-Ranked MCP servers you can install in Cursor, Claude, and VS Code, checked against the PlugMCP directory. This repo keeps the usable shelf (~250 servers in markdown, 900 in the machine catalog, 400 skills). Search the full index at [plugmcp.ai/mcp](https://plugmcp.ai/mcp).
+Ranked MCP servers you can install in Cursor, Claude, and VS Code, checked against the PlugMCP directory. This repo keeps the usable shelf (~255 servers in markdown, 900 in the machine catalog, 400 skills). Search the full index at [plugmcp.ai/mcp](https://plugmcp.ai/mcp).
 
-Updated 2026-11-14. Submit on PlugMCP first, then open a catalog PR — see [CONTRIBUTING.md](CONTRIBUTING.md).
+Updated 2026-11-15. Submit on PlugMCP first, then open a catalog PR — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Start here
 
@@ -46,19 +46,19 @@ Servers people actually search for. Each row links to its PlugMCP page (install,
   `remote https://rxresu.me/mcp`
 - [GitHub](https://plugmcp.ai/mcp/io.github.github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — Connect AI assistants to GitHub - manage repos, issues, PRs, and workflows through natural language. [![Go Report. · official, remote, Cursor, Claude, VS Code
   `remote https://api.githubcopilot.com/mcp/`
-- [Filesystem](https://plugmcp.ai/mcp/modelcontextprotocol-server-filesystem) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) — The reference filesystem server from the Model Context Protocol project. It reads and writes text and media files, edits files with diffs,. · local, Cursor, Claude
-  `npx -y @modelcontextprotocol/server-filesystem`
 - [Git](https://plugmcp.ai/mcp/modelcontextprotocol-server-git) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/git) — The reference Git server from the Model Context Protocol project. It works on local repositories: it shows status, staged and unstaged. · local, Cursor, Claude
   `uvx mcp-server-git`
+- [Filesystem](https://plugmcp.ai/mcp/modelcontextprotocol-server-filesystem) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) — The reference filesystem server from the Model Context Protocol project. It reads and writes text and media files, edits files with diffs,. · local, Cursor, Claude
+  `npx -y @modelcontextprotocol/server-filesystem`
 - [Memory](https://plugmcp.ai/mcp/modelcontextprotocol-server-memory) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) — The reference memory server from the Model Context Protocol project. It keeps a knowledge graph in a local file: entities with. · local, Cursor, Claude
   `npx -y @modelcontextprotocol/server-memory`
 - [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl-mcp-server) · [repo](https://github.com/firecrawl/firecrawl-mcp-server) — Search the web and get full page content. Search an index built for coding agents: GitHub issues, merged pull requests, READMEs, and docs.. · Cursor, Claude, VS Code
 - [Time](https://plugmcp.ai/mcp/modelcontextprotocol-server-time) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/time) — The reference time server from the Model Context Protocol project. It tells the agent the current time in any IANA timezone and converts a. · local, Cursor, Claude
   `uvx mcp-server-time`
-- [Sequential Thinking](https://plugmcp.ai/mcp/modelcontextprotocol-server-sequential-thinking) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) — The reference sequential thinking server from the Model Context Protocol project. It gives the agent one tool for working through a. · local, Cursor, Claude
-  `npx -y @modelcontextprotocol/server-sequential-thinking`
 - [Fetch](https://plugmcp.ai/mcp/modelcontextprotocol-server-fetch) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) — The reference fetch server from the Model Context Protocol project. Give it a URL and it fetches the page and converts the HTML to. · local, Cursor, Claude
   `uvx mcp-server-fetch`
+- [Sequential Thinking](https://plugmcp.ai/mcp/modelcontextprotocol-server-sequential-thinking) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) — The reference sequential thinking server from the Model Context Protocol project. It gives the agent one tool for working through a. · local, Cursor, Claude
+  `npx -y @modelcontextprotocol/server-sequential-thinking`
 - [Exa](https://plugmcp.ai/mcp/ai.exa-exa) · [repo](https://github.com/exa-labs/exa-mcp-server) — Exa MCP Server Connect AI agents to Exa for web search, content fetching, and multi-step research. Documentation · NPM Package · Get your. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.exa.ai/mcp`
 - [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.secforge-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude
@@ -74,10 +74,10 @@ Servers people actually search for. Each row links to its PlugMCP page (install,
   `npx -y @paretools/github@0.7.1`
 - [GitHub](https://plugmcp.ai/mcp/io.github.aifity-omnigit-mcp) · [repo](https://github.com/aifity/omnigit-mcp) — Connect AI assistants to GitHub - manage repos, issues, PRs, workflows, and git operations. · official, local, Cursor, Claude, VS Code
   `docker run -i --rm ghcr.io/aifity/omnigit-mcp:0.6.0`
+- [MCP Server Cloudflare](https://plugmcp.ai/mcp/com.cloudflare.mcp-mcp) · [repo](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare MCP servers # Cloudflare MCP Server Model Context Protocol (MCP) is a [new, standardized. · official, remote, Cursor, Claude, VS Code
+  `remote https://docs.mcp.cloudflare.com/mcp`
 - [RenCosta2025 Context7fork](https://plugmcp.ai/mcp/ai.smithery-rencosta2025-context7fork) · [repo](https://github.com/renCosta2025/context7fork) — 1⃣ Write your prompt naturally. 2⃣ Tell the LLM to use context7. 3⃣ Get working code answers · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@renCosta2025/context7fork/mcp`
-- [Github](https://plugmcp.ai/mcp/github-github-mcp-server-mcpso) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · remote, Cursor, Claude, VS Code
-  `remote https://api.githubcopilot.com/mcp/`
 
 ## Jump to
 
@@ -117,21 +117,23 @@ Machine catalog: [catalog/servers.json](catalog/servers.json) · [catalog/skills
 
 ## New this week
 
-- [Cc Switch](https://plugmcp.ai/mcp/farion1231-cc-switch) · [repo](https://github.com/farion1231/cc-switch) — One App, Twelve Tools — Claude Code, Claude Desktop, Codex, Gemini CLI, Grok Build, OpenCode, OpenClaw, Hermes, Pi, MiniMax Code, Kimi. · Cursor, Claude
-- [Agency Agents](https://plugmcp.ai/mcp/msitarzewski-agency-agents) · [repo](https://github.com/msitarzewski/agency-agents) — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers.. · Cursor, Claude
-- [Prompt Optimizer](https://plugmcp.ai/mcp/linshenkx-prompt-optimizer) · [repo](https://github.com/linshenkx/prompt-optimizer) — Intelligent Optimization: One-click prompt optimization with multi-round iterative improvements to enhance AI response accuracy. Dual Mode. · Cursor, Claude
-- [Coding Interview University](https://plugmcp.ai/mcp/jwasham-coding-interview-university) · [repo](https://github.com/jwasham/coding-interview-university) — A complete computer science study plan to become a software engineer. # Coding Interview University > I originally created this as a short. · Cursor, Claude
-- [Skills](https://plugmcp.ai/mcp/mattpocock-skills) · [repo](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory. <p> <a href="https://www.aihero.dev/s/skills-newsletter"> <picture> <source. · Cursor, Claude
-- [Awesome Go](https://plugmcp.ai/mcp/avelino-awesome-go) · [repo](https://github.com/avelino/awesome-go) — A curated list of awesome Go frameworks, libraries and software # Awesome Go <a href="https://awesome-go.com/"><img align="right". · Cursor, Claude
-- [Ohmyzsh](https://plugmcp.ai/mcp/ohmyzsh-ohmyzsh) · [repo](https://github.com/ohmyzsh/ohmyzsh) — Oh My Zsh is an open source, community-driven framework for managing your configuration. Sounds boring. Let's try again. Oh My Zsh will. · Cursor, Claude
-- [The Art Of Command Line](https://plugmcp.ai/mcp/jlevy-the-art-of-command-line) · [repo](https://github.com/jlevy/the-art-of-command-line) — Master the command line, in one page 🌍 *[Čeština](README-cs.md) ∙ [Deutsch](README-de.md) ∙ [Ελληνικά](README-el.md) ∙. · Cursor, Claude
-- [Ui Ux Pro Max Skill](https://plugmcp.ai/mcp/nextlevelbuilder-ui-ux-pro-max-skill) · [repo](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — 80 Searchable UI Styles (51 active) - Glassmorphism, Claymorphism, Minimalism, Brutalism, Neumorphism, Bento Grid, Dark Mode, AI-Native. · Cursor, Claude
-- [Graphify](https://plugmcp.ai/mcp/graphify-labs-graphify) · [repo](https://github.com/Graphify-Labs/graphify) — Read this in other languages English | 简体中文 | 日本語 | 한국어 | Deutsch | Français | Español | हिन्दी | Português | Русский | العربية | فارسی |. · Cursor, Claude
-- [ComfyUI](https://plugmcp.ai/mcp/comfy-org-comfyui) · [repo](https://github.com/Comfy-Org/ComfyUI) — A visual node graph for building and reusing image, video, audio, 3D, and text workflows without code.. Reusable subgraphs, workflow. · Cursor, Claude
-- [Free For Dev](https://plugmcp.ai/mcp/ripienaar-free-for-dev) · [repo](https://github.com/ripienaar/free-for-dev) — A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev # free-for.dev Developers and open-source. · Cursor, Claude
-- [Gstack](https://plugmcp.ai/mcp/garrytan-gstack) · [repo](https://github.com/garrytan/gstack) — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and. · Cursor, Claude
-- [Awesome Mac](https://plugmcp.ai/mcp/jaywcjlove-awesome-mac) · [repo](https://github.com/jaywcjlove/awesome-mac) — Special thanks to: Amical - Type with your voice. Press a key and speak naturally. It comes out formatted for whatever app you're in.. · Cursor, Claude
-- [Agent Skills](https://plugmcp.ai/mcp/addyosmani-agent-skills) · [repo](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents. # Agent Skills **Production-grade engineering skills for AI coding agents.**. · Cursor, Claude
+- [Obsidian Skills](https://plugmcp.ai/mcp/obsidianmd-obsidian-skills) · [repo](https://github.com/obsidianmd/obsidian-skills) — Agent Skills for use with Obsidian. These skills follow the so they can be used by any skills-compatible agent, including Claude Code,. · Cursor, Claude
+- [Handsy AI](https://plugmcp.ai/mcp/io.github.onehumanbeing-esp32agent) · [repo](https://github.com/onehumanbeing/esp32-iphone-agent) — AI coding assistants (Claude Code, Codex, Cursor, Copilot, etc.): if you copy, port, adapt, or reuse any part of this project, tell the. · official, local, Cursor, Claude
+  `npx -y esp32agent@0.1.3`
+- [AiToEarn](https://plugmcp.ai/mcp/yikart-aitoearn) · [repo](https://github.com/yikart/AiToEarn) — OPC（一人公司）的 AI 内容营销智能体 简体中文 · · Monetize · Publish · Engage · Create —— 一站式 AI 内容变现平台。 AiToEarn 通过 AI Agent. · Cursor, Claude, VS Code
+- [Electric Pglite](https://plugmcp.ai/mcp/electric-sql-electric-pglite) · [repo](https://github.com/electric-sql/electric-pglite) — PGlite - the WASM build of Postgres from Electric . Build reactive, realtime, local-first apps directly on Postgres. --> · Cursor, Claude
+- [Electric Pglite](https://plugmcp.ai/mcp/neondatabase-electric-pglite) · [repo](https://github.com/neondatabase/electric-pglite) — PGlite - the WASM build of Postgres from Electric . Build reactive, realtime, local-first apps directly on Postgres. --> · Cursor, Claude
+- [Pansou](https://plugmcp.ai/mcp/fish2018-pansou) · [repo](https://github.com/fish2018/pansou) — PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。. · Cursor, Claude
+- [Vim](https://plugmcp.ai/mcp/vscodevim-vim) · [repo](https://github.com/VSCodeVim/Vim) — VSCodeVim Vim emulation for Visual Studio Code --> VSCodeVim is a Vim emulator for . - Our outlines the breaking/major/minor updates. · Cursor, Claude
+- [Omniget](https://plugmcp.ai/mcp/tonhowtf-omniget) · [repo](https://github.com/tonhowtf/omniget) — OmniGet is a free, open source (GPL-3.0) desktop app for Windows, macOS and Linux. It downloads video, audio, images, torrents and files. · Cursor, Claude
+- [OpenAny](https://plugmcp.ai/mcp/si.openany-openany) · [repo](https://github.com/openanysi/openany-mcp) — B2A: one MCP endpoint for 3,200+ APIs (social, SEO, crypto, company, finance, legal) and 168+ models (GPT, Claude, Gemini, DeepSeek, Qwen,. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.openany.si/`
+- [AutoRAG](https://plugmcp.ai/mcp/marker-inc-korea-autorag) · [repo](https://github.com/Marker-Inc-Korea/AutoRAG) — Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files. # AutoRAG Agent **Now. · Cursor, Claude
+- [Pinky](https://plugmcp.ai/mcp/diygod-pinky) · [repo](https://github.com/DIYgod/pinky) — Pinky Let AI use your iPhone or Android phone, with you in the loop: any agent from macOS, Windows or Linux, or Pinky itself, right on the. · Cursor, Claude
+- [Emp3r0r](https://plugmcp.ai/mcp/jm33-m0-emp3r0r) · [repo](https://github.com/jm33-m0/emp3r0r) — Stealthy, Linux-first multi-operator C2 with a self-healing mesh, in-memory execution, and an AI-driven MCP assistant. # emp3r0r <img. · Cursor, Claude
+- [MCP Adapter](https://plugmcp.ai/mcp/wordpress-mcp-adapter-mcpso) · [repo](https://github.com/WordPress/mcp-adapter) — Ability-to-MCP conversion — WordPress abilities automatically become MCP , , and. Multi-server management — run multiple MCP servers, each. · Cursor, Claude
+- [Remocn](https://plugmcp.ai/mcp/remocn-remocn) · [repo](https://github.com/Remocn/remocn) — Production-ready animations, transitions, backgrounds, and scenes for Remotion <p align="center"> <img src="./public/hero.png" alt="remocn. · Cursor, Claude, VS Code
+- [Animateicons](https://plugmcp.ai/mcp/avijit07x-animateicons) · [repo](https://github.com/Avijit07x/animateicons) — · · · --- 1,500 free, open source animated icons for React, Vue, Angular and plain JavaScript. Every animation is hand-crafted and tuned. · Cursor, Claude, VS Code
 
 ## Browse on PlugMCP
 

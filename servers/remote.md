@@ -14,6 +14,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://mcp.exa.ai/mcp`
 - [Apify MCP Server](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.apify.com/`
+- [MCP Server Cloudflare](https://plugmcp.ai/mcp/com.cloudflare.mcp-mcp) · [repo](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare MCP servers # Cloudflare MCP Server Model Context Protocol (MCP) is a [new, standardized. · official, remote, Cursor, Claude, VS Code
+  `remote https://docs.mcp.cloudflare.com/mcp`
 - [RenCosta2025 Context7fork](https://plugmcp.ai/mcp/ai.smithery-rencosta2025-context7fork) · [repo](https://github.com/renCosta2025/context7fork) — 1⃣ Write your prompt naturally. 2⃣ Tell the LLM to use context7. 3⃣ Get working code answers · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@renCosta2025/context7fork/mcp`
 - [Github](https://plugmcp.ai/mcp/github-github-mcp-server-mcpso) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · remote, Cursor, Claude, VS Code
@@ -50,12 +52,16 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://api.helena.bio/folklore/v1/mcp`
 - [Pascal 3D Editor](https://plugmcp.ai/mcp/app.pascal-editor) · [repo](https://github.com/pascalorg/editor) — Create, inspect, validate, and save editable 3D building scenes with Pascal's MCP server. # Pascal Editor — open-source 3D architecture. · official, remote, Cursor, Claude, VS Code
   `remote https://editor.pascal.app/api/mcp`
+- [CloudBase](https://plugmcp.ai/mcp/io.github.tencentcloudbase-cloudbase-mcp) · [repo](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) — Database: PostgreSQL and document DB, data models, CRUD, permissions and security rules. Compute: author, deploy, invoke, and debug cloud. · official, remote, Cursor, Claude, VS Code
+  `remote https://tcb-api.cloud.tencent.com/mcp/v1?env_id={env_id}`
 - [Vexa](https://plugmcp.ai/mcp/ai.vexa-vexa) · [repo](https://github.com/Vexa-ai/vexa) — Meeting bot and transcripts for Google Meet, Teams and Zoom. Live or after, speakers labelled. <div align="center"> <img. · official, remote, Cursor, Claude, VS Code
   `remote https://api.cloud.vexa.ai/mcp`
 - [Luminati Io Brightdata](https://plugmcp.ai/mcp/ai.smithery-luminati-io-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp-sse) — One MCP for the Web. Easily search, crawl, navigate, and extract websites without getting blocked.… · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@luminati-io/brightdata-mcp/mcp`
 - [Ref Tools Ref Tools](https://plugmcp.ai/mcp/ai.smithery-ref-tools-ref-tools-mcp) · [repo](https://github.com/ref-tools/ref-tools-mcp) — Provide your AI coding tools with token-efficient access to up-to-date technical documentation for… [![Documentation for your. · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@ref-tools/ref-tools-mcp/mcp`
+- [Atlassian Rovo MCP Server](https://plugmcp.ai/mcp/com.atlassian-atlassian-mcp-server) · [repo](https://github.com/atlassian/atlassian-mcp-server) — Atlassian MCP Server The official Model Context Protocol (MCP) server for Atlassian: a cloud-hosted bridge that gives your AI tools. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.atlassian.com/v2/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [MCP Cli](https://plugmcp.ai/mcp/philschmid-mcp-cli) · [repo](https://github.com/philschmid/mcp-cli) — Lightweight - Minimal dependencies, fast startup. Single Binary - Compile to standalone executable via bun build --compile. Shell-Friendly. · remote, Cursor, Claude, VS Code
@@ -72,13 +78,7 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://mcp.upshiftsites.com/mcp`
 - [Pm Claude Skills](https://plugmcp.ai/mcp/io.github.mohitagw15856-pm-claude-skills) · [repo](https://github.com/mohitagw15856/pm-claude-skills) — 1310 professional Agent Skills + workflow recipes — searchable & fetchable over MCP. <sub>**English** · [简体中文](README.zh-CN.md) ·. · official, remote, Cursor, Claude, VS Code
   `remote https://pm-skills-mcp.pm-claude-skills.workers.dev/mcp`
-- [OpenAny](https://plugmcp.ai/mcp/si.openany-openany) · [repo](https://github.com/openanysi/openany-mcp) — The open marketplace for agents: 3,200+ APIs and 168+ AI models, one key. Browse free; pay per call. · official, remote, Cursor, Claude, VS Code
+- [OpenAny](https://plugmcp.ai/mcp/si.openany-openany) · [repo](https://github.com/openanysi/openany-mcp) — B2A: one MCP endpoint for 3,200+ APIs (social, SEO, crypto, company, finance, legal) and 168+ models (GPT, Claude, Gemini, DeepSeek, Qwen,. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.openany.si/`
 - [Fastapi](https://plugmcp.ai/mcp/tadata-org-fastapi_mcp) · [repo](https://github.com/tadata-org/fastapi_mcp) — Built by Tadata FastAPI-MCP Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! · remote, Cursor, Claude, VS Code
   `remote https://app.base.url/mcp`
-- [MCP Toolbox](https://plugmcp.ai/mcp/googleapis-mcp-toolbox) · [repo](https://github.com/googleapis/mcp-toolbox) — Out-of-the-Box Database Access: Prebuilt generic tools for instant data exploration (e.g., list_tables, execute_sql) directly from your. · remote, Cursor, Claude, VS Code
-  `remote https://antigravity.google/docs/mcp`
-- [Comunicate.eu](https://plugmcp.ai/mcp/eu.comunicate-publishing) · [repo](https://github.com/adrianncraciun-cmd/public-mcp) — Publish press releases and advertorials on 3,800+ news sites: catalogue, prices, budget plans. · official, remote, Cursor, Claude, VS Code
-  `remote https://app.comunicate.eu/mcp`
-- [MATLAB MCP Server](https://plugmcp.ai/mcp/io.github.matlab-matlab-mcp-server) · [repo](https://github.com/matlab/matlab-mcp-server) — Connect AI coding agents to MATLAB. Run code, tests, and analysis via MCP. # MATLAB MCP Server <p align="center"> English • <a. · official, remote, Cursor, Claude, VS Code
-  `remote https://docs.claude.com/en/docs/claude-code/mcp#option-3%3A-add-a-local-stdio-server`

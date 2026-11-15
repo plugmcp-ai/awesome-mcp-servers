@@ -24,3 +24,6 @@ IAM, scanning, and secrets. Full list index: [README](../README.md).
 - [Awesome Reverse Engineered](https://plugmcp.ai/mcp/alexgaoth-awesome-reverse-engineered) · [repo](https://github.com/alexgaoth/awesome-reverse-engineered) — English · 简体中文 · Français · Español · Tiếng Việt · Português (BR) · Cursor, Claude
 - [Agentshield](https://plugmcp.ai/mcp/affaan-m-agentshield) · [repo](https://github.com/affaan-m/agentshield) — 12% of a major agent skill marketplace was malicious (341 of 2,857 community skills). A CVSS 8.8 CVE exposed 17,500+ internet-facing. · local, Cursor, Claude
   `npx -y ecc-agentshield@1.6.0`
+- [Ai Security Tool](https://plugmcp.ai/mcp/zerodayevil-ai-security-tool) · [repo](https://github.com/ZeroDayEvil/ai-security-tool) — AI Security Tool Cross-Platform AI-Native Terminal & Supply Chain Scanner Next-Gen AI Security Ecosystem, Multi-Protocol Terminal &. · Cursor, Claude
+- [MCP Scanner](https://plugmcp.ai/mcp/cisco-ai-defense-mcp-scanner) · [repo](https://github.com/cisco-ai-defense/mcp-scanner) — Multiple Modes: Run scanner as a stand-alone CLI tool or REST API server. Multi-Engine Security Analysis: Use all three scanning engines. · remote, Cursor, Claude, VS Code
+  `remote https://your-server.example/mcp`

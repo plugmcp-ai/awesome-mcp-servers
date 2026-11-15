@@ -28,6 +28,8 @@ Published by the product they connect to. Full list index: [README](../README.md
   `npx -y @paretools/github@0.7.1`
 - [GitHub](https://plugmcp.ai/mcp/io.github.aifity-omnigit-mcp) · [repo](https://github.com/aifity/omnigit-mcp) — Connect AI assistants to GitHub - manage repos, issues, PRs, workflows, and git operations. · official, local, Cursor, Claude, VS Code
   `docker run -i --rm ghcr.io/aifity/omnigit-mcp:0.6.0`
+- [MCP Server Cloudflare](https://plugmcp.ai/mcp/com.cloudflare.mcp-mcp) · [repo](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare MCP servers # Cloudflare MCP Server Model Context Protocol (MCP) is a [new, standardized. · official, remote, Cursor, Claude, VS Code
+  `remote https://docs.mcp.cloudflare.com/mcp`
 - [RenCosta2025 Context7fork](https://plugmcp.ai/mcp/ai.smithery-rencosta2025-context7fork) · [repo](https://github.com/renCosta2025/context7fork) — 1⃣ Write your prompt naturally. 2⃣ Tell the LLM to use context7. 3⃣ Get working code answers · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@renCosta2025/context7fork/mcp`
 - [Figma MCP Server](https://plugmcp.ai/mcp/com.figma.mcp-mcp) · [repo](https://github.com/figma/mcp-server-guide) — Generate code from selected frames. Extract design context. Code smarter with Code Connect · official, remote, Cursor, Claude, VS Code
@@ -53,7 +55,7 @@ Published by the product they connect to. Full list index: [README](../README.md
 - [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.tradingmcp.ai/mcp`
 - [Next AI Draw.io](https://plugmcp.ai/mcp/io.github.dayuanjiang-next-ai-drawio) · [repo](https://github.com/DayuanJiang/next-ai-draw-io) — Architecture diagrams, flowcharts, sequence diagrams and more from one sentence, with built-in AWS, Azure, GCP and Kubernetes icon. · official, local, Cursor, Claude, VS Code
-  `npx -y @next-ai-drawio/mcp-server@0.4.14`
+  `npx -y @next-ai-drawio/mcp-server@0.4.15`
 - [Voicemode](https://plugmcp.ai/mcp/dev.voicemode-voicemode) · [repo](https://github.com/mbailey/voicemode) — Natural conversations - speak naturally, hear responses immediately. Works offline - optional local voice services (Whisper STT, Kokoro. · official, local, Cursor, Claude
   `uvx voice-mode==9.0.2`
 - [MCP Server Chart](https://plugmcp.ai/mcp/io.github.antvis-mcp-server-chart) · [repo](https://github.com/antvis/mcp-server-chart) — A Model Context Protocol server for generating charts using AntV. · official, local, Cursor, Claude, VS Code
@@ -66,10 +68,10 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://answers.hyperresearch.ai/mcp`
 - [Llmwiki](https://plugmcp.ai/mcp/io.github.atomicstrata-llmwiki) · [repo](https://github.com/atomicstrata/llm-wiki-compiler) — Compile documents into a cited knowledge wiki. Retrieve evidence, query, and review via local MCP. # llmwiki. · official, local, Cursor, Claude
   `npx -y llm-wiki-compiler@1.5.0`
+- [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
+  `uvx openosint==2.38.1`
 - [OpenOSINT](https://plugmcp.ai/mcp/io.github.sonotommy-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
   `uvx openosint==2.15.2`
-- [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
-  `uvx openosint==2.38.0`
 - [Wigolo](https://plugmcp.ai/mcp/io.github.knockoutez-wigolo) · [repo](https://github.com/KnockOutEZ/wigolo) — Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI ·. · official, local, Cursor, Claude, VS Code
   `npx -y wigolo@0.2.1`
 - [Grandet](https://plugmcp.ai/mcp/io.github.hanzohanzhe-grandet) · [repo](https://github.com/hanzohanzhe/Grandet) — Cheapest API for any model across official, inference and relay providers; find free credits # Grandet: find the cheapest API for any. · official, remote, Cursor, Claude, VS Code
@@ -78,7 +80,5 @@ Published by the product they connect to. Full list index: [README](../README.md
   `mcpb https://github.com/xerj-org/xerj/releases/download/mcpb-v1.0.0-rc.99/xerj-mcp-1.0.0-rc.99.mcpb@1.0.0-rc.99`
 - [Monitor](https://plugmcp.ai/mcp/io.github.betterdb-inc-monitor) · [repo](https://github.com/BetterDB-inc/monitor) — BetterDB MCP server - Valkey and Redis observability for Claude Code and other MCP clients # BetterDB Monitor [![Docker. · official, local, Cursor, Claude
   `npx -y @betterdb/mcp@1.6.0`
-- [Folklore Clinical Variant Interpretation MCP](https://plugmcp.ai/mcp/io.github.helena-bioinformatics-folklore) · [repo](https://github.com/helena-bioinformatics/folklore-mcp) — Germline ACMG/AMP classification, genes, disease associations, literature, and API-key case analysis. · official, remote, Cursor, Claude, VS Code
-  `remote https://api.helena.bio/folklore/v1/mcp`
-- [Pascal 3D Editor](https://plugmcp.ai/mcp/app.pascal-editor) · [repo](https://github.com/pascalorg/editor) — Create, inspect, validate, and save editable 3D building scenes with Pascal's MCP server. # Pascal Editor — open-source 3D architecture. · official, remote, Cursor, Claude, VS Code
-  `remote https://editor.pascal.app/api/mcp`
+- [Mongodb](https://plugmcp.ai/mcp/io.github.mongodb-js-mongodb-mcp-server) · [repo](https://github.com/mongodb-js/mongodb-mcp-server) — MongoDB Model Context Protocol Server [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Server-0098FF?logo=data:image/svg. · official, local, Cursor, Claude
+  `npx -y mongodb-mcp-server@3.3.0`
