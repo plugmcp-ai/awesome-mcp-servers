@@ -28,6 +28,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://ai-game.dev/mcp`
 - [Openstatus](https://plugmcp.ai/mcp/dev.openstatus-mcp) · [repo](https://github.com/openstatusHQ/openstatus) — openstatus The open-source status page, incident response and uptime monitoring platform. Learn more » Documentation · Website · Discord · official, remote, Cursor, Claude, VS Code
   `remote https://api.openstatus.dev/mcp`
+- [Korean Law MCP](https://plugmcp.ai/mcp/io.github.chrisryugj-korean-law-mcp) · [repo](https://github.com/chrisryugj/korean-law-mcp) — Korean law: statutes, precedents, ordinances, treaties and citation verification (법제처 API). # Korean Law MCP **법제처 42개 API를 10개 도구로.**. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.gomdori.app/law`
 - [AgentRQ](https://plugmcp.ai/mcp/io.github.agentrq-agentrq) · [repo](https://github.com/agentrq/agentrq) — Multi-Workspace Management: List, create, and update workspaces.. Global Task View: Fetch tasks from all workspaces in a single call. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.agentrq.com/mcp`
 - [Strata](https://plugmcp.ai/mcp/ai.klavis-strata) · [repo](https://github.com/Klavis-AI/klavis) — MCP server for progressive tool usage at any scale (see https://klavis.ai) · official, remote, Cursor, Claude, VS Code
@@ -62,6 +64,10 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://server.smithery.ai/@ref-tools/ref-tools-mcp/mcp`
 - [Atlassian Rovo MCP Server](https://plugmcp.ai/mcp/com.atlassian-atlassian-mcp-server) · [repo](https://github.com/atlassian/atlassian-mcp-server) — Atlassian MCP Server The official Model Context Protocol (MCP) server for Atlassian: a cloud-hosted bridge that gives your AI tools. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.atlassian.com/v2/mcp`
+- [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp_server) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
+  `remote https://server.smithery.ai/@ChiR24/unreal_mcp_server/mcp`
+- [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
+  `remote https://server.smithery.ai/@ChiR24/unreal_mcp/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [MCP Cli](https://plugmcp.ai/mcp/philschmid-mcp-cli) · [repo](https://github.com/philschmid/mcp-cli) — Lightweight - Minimal dependencies, fast startup. Single Binary - Compile to standalone executable via bun build --compile. Shell-Friendly. · remote, Cursor, Claude, VS Code
@@ -76,9 +82,3 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://py.sdk.modelcontextprotocol.io/api/mcp/`
 - [Upshift](https://plugmcp.ai/mcp/com.upshiftsites-mcp) · [repo](https://github.com/samerdwykat-cmyk/upshift-mcp) — Audit a site's structured data and llms.txt, match a trade to a template, and quote real prices. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.upshiftsites.com/mcp`
-- [Pm Claude Skills](https://plugmcp.ai/mcp/io.github.mohitagw15856-pm-claude-skills) · [repo](https://github.com/mohitagw15856/pm-claude-skills) — 1310 professional Agent Skills + workflow recipes — searchable & fetchable over MCP. <sub>**English** · [简体中文](README.zh-CN.md) ·. · official, remote, Cursor, Claude, VS Code
-  `remote https://pm-skills-mcp.pm-claude-skills.workers.dev/mcp`
-- [OpenAny](https://plugmcp.ai/mcp/si.openany-openany) · [repo](https://github.com/openanysi/openany-mcp) — B2A: one MCP endpoint for 3,200+ APIs (social, SEO, crypto, company, finance, legal) and 168+ models (GPT, Claude, Gemini, DeepSeek, Qwen,. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.openany.si/`
-- [Fastapi](https://plugmcp.ai/mcp/tadata-org-fastapi_mcp) · [repo](https://github.com/tadata-org/fastapi_mcp) — Built by Tadata FastAPI-MCP Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! · remote, Cursor, Claude, VS Code
-  `remote https://app.base.url/mcp`

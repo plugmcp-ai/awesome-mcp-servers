@@ -42,12 +42,14 @@ Published by the product they connect to. Full list index: [README](../README.md
   `uvx mcp-server-for-oscal==0.4.0`
 - [Openstatus](https://plugmcp.ai/mcp/dev.openstatus-mcp) · [repo](https://github.com/openstatusHQ/openstatus) — openstatus The open-source status page, incident response and uptime monitoring platform. Learn more » Documentation · Website · Discord · official, remote, Cursor, Claude, VS Code
   `remote https://api.openstatus.dev/mcp`
+- [Korean Law MCP](https://plugmcp.ai/mcp/io.github.chrisryugj-korean-law-mcp) · [repo](https://github.com/chrisryugj/korean-law-mcp) — Korean law: statutes, precedents, ordinances, treaties and citation verification (법제처 API). # Korean Law MCP **법제처 42개 API를 10개 도구로.**. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.gomdori.app/law`
 - [Serena MCP: The IDE For Your Agent](https://plugmcp.ai/mcp/io.github.oraios-serena) · [repo](https://github.com/oraios/serena) — The IDE for Your Coding Agent Serena provides essential semantic code retrieval, editing, refactoring and debugging tools that are akin to. · official, local, Cursor, Claude
   `uvx serena-agent==1.5.3`
 - [AgentRQ](https://plugmcp.ai/mcp/io.github.agentrq-agentrq) · [repo](https://github.com/agentrq/agentrq) — Multi-Workspace Management: List, create, and update workspaces.. Global Task View: Fetch tasks from all workspaces in a single call. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.agentrq.com/mcp`
 - [Zotero MCP](https://plugmcp.ai/mcp/io.github.54yyyu-zotero-mcp) · [repo](https://github.com/54yyyu/zotero-mcp) — Zotero MCP: Chat with your Research Library in Claude, ChatGPT, and more Your Zotero library, in every AI agent. Search, read, cite and. · official, local, Cursor, Claude, VS Code
-  `uvx zotero-mcp-server==0.17.1`
+  `uvx zotero-mcp-server==0.17.2`
 - [Strata](https://plugmcp.ai/mcp/ai.klavis-strata) · [repo](https://github.com/Klavis-AI/klavis) — MCP server for progressive tool usage at any scale (see https://klavis.ai) · official, remote, Cursor, Claude, VS Code
   `remote https://strata.klavis.ai/mcp/`
 - [Finance Toolkit](https://plugmcp.ai/mcp/io.github.jerbouma-financetoolkit) · [repo](https://github.com/JerBouma/FinanceToolkit) — While browsing a variety of websites, I repeatedly observed significant fluctuations in the same financial metric among different sources.. · official, remote, Cursor, Claude, VS Code
@@ -68,17 +70,15 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://answers.hyperresearch.ai/mcp`
 - [Llmwiki](https://plugmcp.ai/mcp/io.github.atomicstrata-llmwiki) · [repo](https://github.com/atomicstrata/llm-wiki-compiler) — Compile documents into a cited knowledge wiki. Retrieve evidence, query, and review via local MCP. # llmwiki. · official, local, Cursor, Claude
   `npx -y llm-wiki-compiler@1.5.0`
-- [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
-  `uvx openosint==2.38.1`
 - [OpenOSINT](https://plugmcp.ai/mcp/io.github.sonotommy-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
   `uvx openosint==2.15.2`
+- [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
+  `uvx openosint==2.38.2`
 - [Wigolo](https://plugmcp.ai/mcp/io.github.knockoutez-wigolo) · [repo](https://github.com/KnockOutEZ/wigolo) — Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI ·. · official, local, Cursor, Claude, VS Code
   `npx -y wigolo@0.2.1`
+- [Unreal Engine](https://plugmcp.ai/mcp/io.github.chir24-unreal-engine-mcp) · [repo](https://github.com/ChiR24/Unreal_mcp.git) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, local, Cursor, Claude
+  `npx -y unreal-engine-mcp-server@0.6.1-beta-b`
 - [Grandet](https://plugmcp.ai/mcp/io.github.hanzohanzhe-grandet) · [repo](https://github.com/hanzohanzhe/Grandet) — Cheapest API for any model across official, inference and relay providers; find free credits # Grandet: find the cheapest API for any. · official, remote, Cursor, Claude, VS Code
   `remote https://grandet.ai/mcp`
 - [XERJ](https://plugmcp.ai/mcp/io.github.xerj-org-xerj) · [repo](https://github.com/xerj-org/xerj) — XERJ | | | | | | The search engine for AI, now with XERJ Query-1: a model that turns your question into a small program over facts you. · official, local, Cursor, Claude
   `mcpb https://github.com/xerj-org/xerj/releases/download/mcpb-v1.0.0-rc.99/xerj-mcp-1.0.0-rc.99.mcpb@1.0.0-rc.99`
-- [Monitor](https://plugmcp.ai/mcp/io.github.betterdb-inc-monitor) · [repo](https://github.com/BetterDB-inc/monitor) — BetterDB MCP server - Valkey and Redis observability for Claude Code and other MCP clients # BetterDB Monitor [![Docker. · official, local, Cursor, Claude
-  `npx -y @betterdb/mcp@1.6.0`
-- [Mongodb](https://plugmcp.ai/mcp/io.github.mongodb-js-mongodb-mcp-server) · [repo](https://github.com/mongodb-js/mongodb-mcp-server) — MongoDB Model Context Protocol Server [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Server-0098FF?logo=data:image/svg. · official, local, Cursor, Claude
-  `npx -y mongodb-mcp-server@3.3.0`

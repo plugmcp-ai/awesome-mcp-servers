@@ -47,5 +47,8 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [Fetcher](https://plugmcp.ai/mcp/jae-jae-fetcher-mcp-mcpso) · [repo](https://github.com/jae-jae/fetcher-mcp) — fetch_url - Retrieve web page content from a specified URL. fetch_urls - Batch retrieve web page content from multiple URLs in parallel.. · local, Cursor, Claude
   `npx -y fetcher-mcp@0.4.1`
 - [Brightdata](https://plugmcp.ai/mcp/brightdata-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp) — Bright Data MCP Web search, page scraping, structured data extraction, and browser automation for AI agents and LLMs over the Model. · Cursor, Claude, VS Code
+- [Web Agent Protocol](https://plugmcp.ai/mcp/ota-tech-ai-web-agent-protocol) · [repo](https://github.com/OTA-Tech-AI/web-agent-protocol) — 🌐Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support · Cursor, Claude, VS Code
+- [Mcpc](https://plugmcp.ai/mcp/apify-mcpc) · [repo](https://github.com/apify/mcpc) — The most compatible MCP CLI client. Supports: tools, resources, prompts, completions, async tasks, skills, stdio and streamable HTTP (MCP. · remote, Cursor, Claude, VS Code
+  `remote https://mcp.apify.com`
 - [PlugMCP Browser](https://plugmcp.ai/mcp/plugmcp-browser) · [repo](https://github.com/demo55oo/usher) — WebMCP tools in the tab you are already logged into. Local stdio MCP plus a Chrome extension. · local, Cursor, Claude
   `npx -y usher`

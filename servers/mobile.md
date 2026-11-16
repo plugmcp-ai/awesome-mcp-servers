@@ -3,7 +3,6 @@
 iOS, Android, and device farms. Full list index: [README](../README.md).
 
 - [Jadx Ai](https://plugmcp.ai/mcp/zinja-coder-jadx-ai-mcp) · [repo](https://github.com/zinja-coder/jadx-ai-mcp) — Plugin for JADX to integrate MCP server <div align="center"> # JADX-AI-MCP (Part of Zin MCP Suite) ⚡ Fully automated MCP server + JADX. · Cursor, Claude
-- [Lamda](https://plugmcp.ai/mcp/firerpa-lamda) · [repo](https://github.com/firerpa/lamda) — Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida,. · Cursor, Claude
 - [Artemis](https://plugmcp.ai/mcp/google-artemis) · [repo](https://github.com/google/artemis) — Let AI assistants and test suites use real phones like a human. English • 中文文档 • Workflow Showcase • Quick Start • MCP for IDEs •. · Cursor, Claude
 - [MobileBuildMCP](https://plugmcp.ai/mcp/getsentry-mobilebuildmcp) · [repo](https://github.com/getsentry/MobileBuildMCP) — A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. · Cursor, Claude
 - [Httprunner](https://plugmcp.ai/mcp/httprunner-httprunner) · [repo](https://github.com/httprunner/httprunner) — HttpRunner 是一款开源的 API/UI 测试框架，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。 # HttpRunner [![Github. · Cursor, Claude
