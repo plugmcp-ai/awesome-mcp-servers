@@ -70,10 +70,10 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
   `remote https://answers.hyperresearch.ai/mcp`
 - [Llmwiki](https://plugmcp.ai/mcp/io.github.atomicstrata-llmwiki) · [repo](https://github.com/atomicstrata/llm-wiki-compiler) — Compile documents into a cited knowledge wiki. Retrieve evidence, query, and review via local MCP. # llmwiki. · official, local, Cursor, Claude
   `npx -y llm-wiki-compiler@1.5.0`
-- [OpenOSINT](https://plugmcp.ai/mcp/io.github.sonotommy-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
-  `uvx openosint==2.15.2`
 - [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
   `uvx openosint==2.38.2`
+- [OpenOSINT](https://plugmcp.ai/mcp/io.github.sonotommy-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
+  `uvx openosint==2.15.2`
 - [Wigolo](https://plugmcp.ai/mcp/io.github.knockoutez-wigolo) · [repo](https://github.com/KnockOutEZ/wigolo) — Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI ·. · official, local, Cursor, Claude, VS Code
   `npx -y wigolo@0.2.1`
 - [Unreal Engine](https://plugmcp.ai/mcp/io.github.chir24-unreal-engine-mcp) · [repo](https://github.com/ChiR24/Unreal_mcp.git) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, local, Cursor, Claude

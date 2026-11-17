@@ -64,10 +64,10 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://server.smithery.ai/@ref-tools/ref-tools-mcp/mcp`
 - [Atlassian Rovo MCP Server](https://plugmcp.ai/mcp/com.atlassian-atlassian-mcp-server) · [repo](https://github.com/atlassian/atlassian-mcp-server) — Atlassian MCP Server The official Model Context Protocol (MCP) server for Atlassian: a cloud-hosted bridge that gives your AI tools. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.atlassian.com/v2/mcp`
-- [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp_server) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
-  `remote https://server.smithery.ai/@ChiR24/unreal_mcp_server/mcp`
 - [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@ChiR24/unreal_mcp/mcp`
+- [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp_server) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
+  `remote https://server.smithery.ai/@ChiR24/unreal_mcp_server/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [MCP Cli](https://plugmcp.ai/mcp/philschmid-mcp-cli) · [repo](https://github.com/philschmid/mcp-cli) — Lightweight - Minimal dependencies, fast startup. Single Binary - Compile to standalone executable via bun build --compile. Shell-Friendly. · remote, Cursor, Claude, VS Code
@@ -78,7 +78,7 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://ui.vision/mcp`
 - [OpenMetadata](https://plugmcp.ai/mcp/io.github.open-metadata-openmetadata-mcp) · [repo](https://github.com/open-metadata/OpenMetadata) — What does this metric mean and how is it calculated?. Which datasets power this dashboard?. Who owns this data product? · official, remote, Cursor, Claude, VS Code
   `remote https://{openmetadata_host}/mcp`
-- [Python Sdk](https://plugmcp.ai/mcp/modelcontextprotocol-python-sdk) · [repo](https://github.com/modelcontextprotocol/python-sdk) — The official Python SDK for Model Context Protocol servers and clients # MCP Python SDK <div align="center"> <strong>Python implementation. · remote, Cursor, Claude, VS Code
-  `remote https://py.sdk.modelcontextprotocol.io/api/mcp/`
 - [Upshift](https://plugmcp.ai/mcp/com.upshiftsites-mcp) · [repo](https://github.com/samerdwykat-cmyk/upshift-mcp) — Audit a site's structured data and llms.txt, match a trade to a template, and quote real prices. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.upshiftsites.com/mcp`
+- [Pm Claude Skills](https://plugmcp.ai/mcp/io.github.mohitagw15856-pm-claude-skills) · [repo](https://github.com/mohitagw15856/pm-claude-skills) — 1310 professional Agent Skills + workflow recipes — searchable & fetchable over MCP. <sub>**English** · [简体中文](README.zh-CN.md) ·. · official, remote, Cursor, Claude, VS Code
+  `remote https://pm-skills-mcp.pm-claude-skills.workers.dev/mcp`

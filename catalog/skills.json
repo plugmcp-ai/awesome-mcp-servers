@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "source": "https://github.com/plugmcp-ai/awesome-mcp-servers",
   "directory": "https://plugmcp.ai/skills",
   "count": 400,
@@ -10,7 +10,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/vercel-labs-agent-browser",
       "github_url": "https://github.com/vercel-labs/agent-browser",
       "blurb": "Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms,.",
-      "stars": 1466546
+      "stars": 1484019
     },
     {
       "name": "azure-aigateway",
@@ -18,7 +18,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/microsoft-azure-aigateway",
       "github_url": "https://github.com/microsoft/azure-skills",
       "blurb": "Configure Azure API Management as an AI Gateway for AI models, MCP tools, and agents. WHEN: semantic caching, token limit, content safety,.",
-      "stars": 703801
+      "stars": 712815
     },
     {
       "name": "azure-compute",
@@ -26,7 +26,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/microsoft-azure-compute",
       "github_url": "https://github.com/microsoft/azure-skills",
       "blurb": "Azure VM/VMSS router. WHEN: create / provision / deploy / spin-up VM, recommend VM size, compare VM pricing, VMSS, scale set, autoscale,.",
-      "stars": 660286
+      "stars": 669300
     },
     {
       "name": "supabase-postgres-best-practices",
@@ -34,7 +34,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/supabase-supabase-postgres-best-practices",
       "github_url": "https://github.com/supabase/agent-skills",
       "blurb": "Postgres best practices maintained by Supabase, for Postgres running anywhere. Load this skill BEFORE writing or changing anything that.",
-      "stars": 486718
+      "stars": 487813
     },
     {
       "name": "rea-analysis-optimization",
@@ -42,22 +42,6 @@
       "plugmcp_url": "https://plugmcp.ai/skills/morluto-rea-analysis-optimization-rea-analysis-optimization",
       "github_url": "https://github.com/morluto/rea",
       "blurb": "Optimize REA providers and shared analysis workflows for agent context, latency, CPU, and memory while preserving correctness and.",
-      "stars": 462416
-    },
-    {
-      "name": "reverse-engineer-anything",
-      "slug": "morluto-reverse-engineer-anything-reverse-engineer-anything",
-      "plugmcp_url": "https://plugmcp.ai/skills/morluto-reverse-engineer-anything-reverse-engineer-anything",
-      "github_url": "https://github.com/morluto/rea",
-      "blurb": "Reverse engineer native, managed, Electron/JavaScript, packaged, firmware, and browser targets with REA, and build agent environments.",
-      "stars": 462416
-    },
-    {
-      "name": "rea-changelog-update",
-      "slug": "morluto-rea-changelog-update-rea-changelog-update",
-      "plugmcp_url": "https://plugmcp.ai/skills/morluto-rea-changelog-update-rea-changelog-update",
-      "github_url": "https://github.com/morluto/rea",
-      "blurb": "Prepare or rewrite REA release changelogs and GitHub release notes from pinned Git history, with verified contributor thanks and Release.",
       "stars": 462416
     },
     {
@@ -69,6 +53,14 @@
       "stars": 462416
     },
     {
+      "name": "reverse-engineer-anything",
+      "slug": "morluto-reverse-engineer-anything-reverse-engineer-anything-2",
+      "plugmcp_url": "https://plugmcp.ai/skills/morluto-reverse-engineer-anything-reverse-engineer-anything-2",
+      "github_url": "https://github.com/morluto/rea",
+      "blurb": "Reverse engineer native, managed, Electron/JavaScript, packaged, firmware, and browser targets with REA, and build agent environments.",
+      "stars": 462416
+    },
+    {
       "name": "rea-tool-design",
       "slug": "morluto-rea-tool-design-rea-tool-design",
       "plugmcp_url": "https://plugmcp.ai/skills/morluto-rea-tool-design-rea-tool-design",
@@ -77,9 +69,17 @@
       "stars": 462416
     },
     {
+      "name": "rea-changelog-update",
+      "slug": "morluto-rea-changelog-update-rea-changelog-update",
+      "plugmcp_url": "https://plugmcp.ai/skills/morluto-rea-changelog-update-rea-changelog-update",
+      "github_url": "https://github.com/morluto/rea",
+      "blurb": "Prepare or rewrite REA release changelogs and GitHub release notes from pinned Git history, with verified contributor thanks and Release.",
+      "stars": 462416
+    },
+    {
       "name": "reverse-engineer-anything",
-      "slug": "morluto-reverse-engineer-anything-reverse-engineer-anything-2",
-      "plugmcp_url": "https://plugmcp.ai/skills/morluto-reverse-engineer-anything-reverse-engineer-anything-2",
+      "slug": "morluto-reverse-engineer-anything-reverse-engineer-anything",
+      "plugmcp_url": "https://plugmcp.ai/skills/morluto-reverse-engineer-anything-reverse-engineer-anything",
       "github_url": "https://github.com/morluto/rea",
       "blurb": "Reverse engineer native, managed, Electron/JavaScript, packaged, firmware, and browser targets with REA, and build agent environments.",
       "stars": 462416
@@ -90,7 +90,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/prisma-prisma-cli",
       "github_url": "https://github.com/prisma/skills",
       "blurb": "Prisma ORM 7 CLI reference for existing Prisma 7 applications or explicitly selected Prisma 7 workflows. Covers prisma init, generate,.",
-      "stars": 426655
+      "stars": 428508
     },
     {
       "name": "prisma-postgres",
@@ -114,7 +114,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/supabase-supabase",
       "github_url": "https://github.com/supabase/agent-skills",
       "blurb": "Use when doing ANY task involving Supabase. Triggers: Supabase products (Database, Auth, Edge Functions, Realtime, Storage, Vectors, Cron,.",
-      "stars": 366456
+      "stars": 367336
     },
     {
       "name": "rea",
@@ -130,7 +130,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/microsoft-playwright-cli",
       "github_url": "https://github.com/microsoft/playwright-cli",
       "blurb": "Automate browser interactions, test web pages and work with Playwright tests.",
-      "stars": 217519
+      "stars": 218497
     },
     {
       "name": "webapp-testing",
@@ -138,30 +138,14 @@
       "plugmcp_url": "https://plugmcp.ai/skills/anthropics-webapp-testing",
       "github_url": "https://github.com/anthropics/skills",
       "blurb": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI.",
-      "stars": 206307
+      "stars": 206786
     },
     {
-      "name": "pptx",
-      "slug": "anthropics-pptx-pptx",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-pptx-pptx",
+      "name": "internal-comms",
+      "slug": "anthropics-internal-comms-internal-comms",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-internal-comms-internal-comms",
       "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. This includes: creating slide decks,.",
-      "stars": 195490
-    },
-    {
-      "name": "skill-creator",
-      "slug": "anthropics-skill-creator-skill-creator",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-skill-creator-skill-creator",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch,.",
-      "stars": 195490
-    },
-    {
-      "name": "docx",
-      "slug": "anthropics-docx-docx",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-docx-docx",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files) or Word templates (.dotx files)..",
+      "blurb": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should.",
       "stars": 195490
     },
     {
@@ -170,46 +154,6 @@
       "plugmcp_url": "https://plugmcp.ai/skills/anthropics-frontend-design-frontend-design",
       "github_url": "https://github.com/anthropics/skills",
       "blurb": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction,.",
-      "stars": 195490
-    },
-    {
-      "name": "algorithmic-art",
-      "slug": "anthropics-algorithmic-art-algorithmic-art",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-algorithmic-art-algorithmic-art",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating.",
-      "stars": 195490
-    },
-    {
-      "name": "mcp-builder",
-      "slug": "anthropics-mcp-builder-mcp-builder",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-mcp-builder-mcp-builder",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through.",
-      "stars": 195490
-    },
-    {
-      "name": "template-skill",
-      "slug": "anthropics-template-skill-template",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-template-skill-template",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Replace with description of the skill and when Claude should use it.",
-      "stars": 195490
-    },
-    {
-      "name": "webapp-testing",
-      "slug": "anthropics-webapp-testing-webapp-testing",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-webapp-testing-webapp-testing",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI.",
-      "stars": 195490
-    },
-    {
-      "name": "xlsx",
-      "slug": "anthropics-xlsx-xlsx",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-xlsx-xlsx",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit,.",
       "stars": 195490
     },
     {
@@ -229,35 +173,11 @@
       "stars": 195490
     },
     {
-      "name": "theme-factory",
-      "slug": "anthropics-theme-factory-theme-factory",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-theme-factory-theme-factory",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set.",
-      "stars": 195490
-    },
-    {
-      "name": "canvas-design",
-      "slug": "anthropics-canvas-design-canvas-design",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-canvas-design-canvas-design",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a.",
-      "stars": 195490
-    },
-    {
       "name": "pdf",
       "slug": "anthropics-pdf-pdf",
       "plugmcp_url": "https://plugmcp.ai/skills/anthropics-pdf-pdf",
       "github_url": "https://github.com/anthropics/skills",
       "blurb": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining.",
-      "stars": 195490
-    },
-    {
-      "name": "slack-gif-creator",
-      "slug": "anthropics-slack-gif-creator-slack-gif-creator",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-slack-gif-creator-slack-gif-creator",
-      "github_url": "https://github.com/anthropics/skills",
-      "blurb": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts..",
       "stars": 195490
     },
     {
@@ -269,11 +189,91 @@
       "stars": 195490
     },
     {
-      "name": "internal-comms",
-      "slug": "anthropics-internal-comms-internal-comms",
-      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-internal-comms-internal-comms",
+      "name": "skill-creator",
+      "slug": "anthropics-skill-creator-skill-creator",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-skill-creator-skill-creator",
       "github_url": "https://github.com/anthropics/skills",
-      "blurb": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should.",
+      "blurb": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch,.",
+      "stars": 195490
+    },
+    {
+      "name": "template-skill",
+      "slug": "anthropics-template-skill-template",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-template-skill-template",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Replace with description of the skill and when Claude should use it.",
+      "stars": 195490
+    },
+    {
+      "name": "algorithmic-art",
+      "slug": "anthropics-algorithmic-art-algorithmic-art",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-algorithmic-art-algorithmic-art",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating.",
+      "stars": 195490
+    },
+    {
+      "name": "theme-factory",
+      "slug": "anthropics-theme-factory-theme-factory",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-theme-factory-theme-factory",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set.",
+      "stars": 195490
+    },
+    {
+      "name": "mcp-builder",
+      "slug": "anthropics-mcp-builder-mcp-builder",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-mcp-builder-mcp-builder",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through.",
+      "stars": 195490
+    },
+    {
+      "name": "pptx",
+      "slug": "anthropics-pptx-pptx",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-pptx-pptx",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. This includes: creating slide decks,.",
+      "stars": 195490
+    },
+    {
+      "name": "xlsx",
+      "slug": "anthropics-xlsx-xlsx",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-xlsx-xlsx",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit,.",
+      "stars": 195490
+    },
+    {
+      "name": "docx",
+      "slug": "anthropics-docx-docx",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-docx-docx",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files) or Word templates (.dotx files)..",
+      "stars": 195490
+    },
+    {
+      "name": "slack-gif-creator",
+      "slug": "anthropics-slack-gif-creator-slack-gif-creator",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-slack-gif-creator-slack-gif-creator",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts..",
+      "stars": 195490
+    },
+    {
+      "name": "webapp-testing",
+      "slug": "anthropics-webapp-testing-webapp-testing",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-webapp-testing-webapp-testing",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI.",
+      "stars": 195490
+    },
+    {
+      "name": "canvas-design",
+      "slug": "anthropics-canvas-design-canvas-design",
+      "plugmcp_url": "https://plugmcp.ai/skills/anthropics-canvas-design-canvas-design",
+      "github_url": "https://github.com/anthropics/skills",
+      "blurb": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a.",
       "stars": 195490
     },
     {
@@ -293,27 +293,19 @@
       "stars": 164995
     },
     {
+      "name": "ponytail-gain",
+      "slug": "dietrichgebert-ponytail-gain-ponytail-gain-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/dietrichgebert-ponytail-gain-ponytail-gain-skill",
+      "github_url": "https://github.com/DietrichGebert/ponytail",
+      "blurb": "Show ponytail measured impact as a scoreboard: less code, less cost, more speed, from the agentic benchmark averages. One-shot display.",
+      "stars": 164984
+    },
+    {
       "name": "ponytail-audit",
       "slug": "dietrichgebert-ponytail-audit-ponytail-audit-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/dietrichgebert-ponytail-audit-ponytail-audit-skill",
       "github_url": "https://github.com/DietrichGebert/ponytail",
       "blurb": "Quality audit of the whole repo: bugs, security, real load, missing tests, speed, and what to delete. Most important first.",
-      "stars": 164984
-    },
-    {
-      "name": "ponytail-help",
-      "slug": "dietrichgebert-ponytail-help-ponytail-help-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/dietrichgebert-ponytail-help-ponytail-help-skill",
-      "github_url": "https://github.com/DietrichGebert/ponytail",
-      "blurb": "Quick reference for ponytail's modes, skills, and commands. One-shot display.",
-      "stars": 164984
-    },
-    {
-      "name": "ponytail-debt",
-      "slug": "dietrichgebert-ponytail-debt-ponytail-debt-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/dietrichgebert-ponytail-debt-ponytail-debt-skill",
-      "github_url": "https://github.com/DietrichGebert/ponytail",
-      "blurb": "Harvest every shortcut: comment into one debt ledger, so deferrals get tracked instead of forgotten. One-shot report.",
       "stars": 164984
     },
     {
@@ -325,6 +317,22 @@
       "stars": 164984
     },
     {
+      "name": "ponytail-debt",
+      "slug": "dietrichgebert-ponytail-debt-ponytail-debt-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/dietrichgebert-ponytail-debt-ponytail-debt-skill",
+      "github_url": "https://github.com/DietrichGebert/ponytail",
+      "blurb": "Harvest every shortcut: comment into one debt ledger, so deferrals get tracked instead of forgotten. One-shot report.",
+      "stars": 164984
+    },
+    {
+      "name": "ponytail-help",
+      "slug": "dietrichgebert-ponytail-help-ponytail-help-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/dietrichgebert-ponytail-help-ponytail-help-skill",
+      "github_url": "https://github.com/DietrichGebert/ponytail",
+      "blurb": "Quick reference for ponytail's modes, skills, and commands. One-shot display.",
+      "stars": 164984
+    },
+    {
       "name": "ponytail-review",
       "slug": "dietrichgebert-ponytail-review-ponytail-review-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/dietrichgebert-ponytail-review-ponytail-review-skill",
@@ -333,12 +341,12 @@
       "stars": 164984
     },
     {
-      "name": "ponytail-gain",
-      "slug": "dietrichgebert-ponytail-gain-ponytail-gain-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/dietrichgebert-ponytail-gain-ponytail-gain-skill",
-      "github_url": "https://github.com/DietrichGebert/ponytail",
-      "blurb": "Show ponytail measured impact as a scoreboard: less code, less cost, more speed, from the agentic benchmark averages. One-shot display.",
-      "stars": 164984
+      "name": "anti-detect-browser",
+      "slug": "antibrow-anti-detect-browser",
+      "plugmcp_url": "https://plugmcp.ai/skills/antibrow-anti-detect-browser",
+      "github_url": "https://github.com/antibrow/anti-detect-browser-skills",
+      "blurb": "Drive Chromium from standard Playwright APIs with a real-device fingerprint applied in the kernel, one persistent isolated profile per.",
+      "stars": 162765
     },
     {
       "name": "ai-seo",
@@ -349,20 +357,20 @@
       "stars": 161660
     },
     {
-      "name": "anti-detect-browser",
-      "slug": "antibrow-anti-detect-browser",
-      "plugmcp_url": "https://plugmcp.ai/skills/antibrow-anti-detect-browser",
-      "github_url": "https://github.com/antibrow/anti-detect-browser-skills",
-      "blurb": "Drive Chromium from standard Playwright APIs with a real-device fingerprint applied in the kernel, one persistent isolated profile per.",
-      "stars": 161576
-    },
-    {
       "name": "mcp-builder",
       "slug": "anthropics-mcp-builder",
       "plugmcp_url": "https://plugmcp.ai/skills/anthropics-mcp-builder",
       "github_url": "https://github.com/anthropics/skills",
       "blurb": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through.",
-      "stars": 142606
+      "stars": 143278
+    },
+    {
+      "name": "browser-mcp-agent",
+      "slug": "antibrow-browser-mcp-agent",
+      "plugmcp_url": "https://plugmcp.ai/skills/antibrow-browser-mcp-agent",
+      "github_url": "https://github.com/antibrow/anti-detect-browser-skills",
+      "blurb": "Give an AI agent its own real browser over MCP tool calls - launch, navigate, click, fill, screenshot, extract text, run JS - with a.",
+      "stars": 132215
     },
     {
       "name": "mobile-native",
@@ -373,20 +381,12 @@
       "stars": 132073
     },
     {
-      "name": "browser-mcp-agent",
-      "slug": "antibrow-browser-mcp-agent",
-      "plugmcp_url": "https://plugmcp.ai/skills/antibrow-browser-mcp-agent",
-      "github_url": "https://github.com/antibrow/anti-detect-browser-skills",
-      "blurb": "Give an AI agent its own real browser over MCP tool calls - launch, navigate, click, fill, screenshot, extract text, run JS - with a.",
-      "stars": 131033
-    },
-    {
       "name": "multi-account-isolation",
       "slug": "antibrow-multi-account-isolation",
       "plugmcp_url": "https://plugmcp.ai/skills/antibrow-multi-account-isolation",
       "github_url": "https://github.com/antibrow/anti-detect-browser-skills",
       "blurb": "Verify that browser profiles are actually isolated from one another instead of assuming it - confirm each profile's timezone agrees with.",
-      "stars": 130823
+      "stars": 132017
     },
     {
       "name": "caveman-learn",
@@ -394,7 +394,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/juliusbrussee-caveman-learn",
       "github_url": "https://github.com/juliusbrussee/caveman",
       "blurb": "Act on a Caveman learn report - review the ranked token sinks, apply cost-lowering fixes with per-edit consent, and report what those.",
-      "stars": 127329
+      "stars": 128544
     },
     {
       "name": "self-hosted-funnel-launch",
@@ -402,7 +402,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/autonnel-self-hosted-funnel-launch",
       "github_url": "https://github.com/autonnel/autonnel-skills",
       "blurb": "Deploy a self-hosted funnel builder, take a funnel from empty install to published - landing page, checkout, one-click upsell, thank-you -.",
-      "stars": 126747
+      "stars": 127939
     },
     {
       "name": "browser-fingerprint-audit",
@@ -410,7 +410,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/liarjsdev-browser-fingerprint-audit",
       "github_url": "https://github.com/liarjsdev/liarjs-skills",
       "blurb": "Audit a browser fingerprint for internal contradictions with the liarjs CLI - canvas, WebGL, WebGL2, WebGPU, audio, 220 fonts, WebRTC and.",
-      "stars": 125981
+      "stars": 127126
     },
     {
       "name": "fingerprint-ci-gate",
@@ -418,7 +418,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/liarjsdev-fingerprint-ci-gate",
       "github_url": "https://github.com/liarjsdev/liarjs-skills",
       "blurb": "Gate a build on browser fingerprint regressions with liarjs - save a baseline scan as JSON, diff later runs against it, and fail the job.",
-      "stars": 125757
+      "stars": 126896
     },
     {
       "name": "web-artifacts-builder",
@@ -426,38 +426,14 @@
       "plugmcp_url": "https://plugmcp.ai/skills/anthropics-web-artifacts-builder",
       "github_url": "https://github.com/anthropics/skills",
       "blurb": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind.",
-      "stars": 120153
+      "stars": 120410
     },
     {
-      "name": "incremental-implementation",
-      "slug": "addyosmani-incremental-implementation-incremental-implementation",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-incremental-implementation-incremental-implementation",
+      "name": "ci-cd-and-automation",
+      "slug": "addyosmani-ci-cd-and-automation-ci-cd-and-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-ci-cd-and-automation-ci-cd-and-automation",
       "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Delivers changes incrementally in thin, verifiable slices. Use when implementing any feature or change that touches more than one file, or.",
-      "stars": 118025
-    },
-    {
-      "name": "constraint-driven-development",
-      "slug": "addyosmani-constraint-driven-development-constraint-driven-development",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-constraint-driven-development-constraint-driven-development",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Establishes a project's quality bar as a written contract and stops agents quietly lowering it. Interviews the user on which dimensions.",
-      "stars": 118025
-    },
-    {
-      "name": "observability-and-instrumentation",
-      "slug": "addyosmani-observability-and-instrumentation-observability-and-instrumentation",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-observability-and-instrumentation-observability-and-instrumentation",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when.",
-      "stars": 118025
-    },
-    {
-      "name": "doubt-driven-development",
-      "slug": "addyosmani-doubt-driven-development-doubt-driven-development",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-doubt-driven-development-doubt-driven-development",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Subjects every non-trivial decision to a fresh-context adversarial review before it stands. Use when you want every assumption.",
+      "blurb": "Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality.",
       "stars": 118025
     },
     {
@@ -477,91 +453,11 @@
       "stars": 118025
     },
     {
-      "name": "idea-refine",
-      "slug": "addyosmani-idea-refine-idea-refine",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-idea-refine-idea-refine",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague,.",
-      "stars": 118025
-    },
-    {
       "name": "context-engineering",
       "slug": "addyosmani-context-engineering-context-engineering",
       "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-context-engineering-context-engineering",
       "github_url": "https://github.com/addyosmani/agent-skills",
       "blurb": "Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when.",
-      "stars": 118025
-    },
-    {
-      "name": "browser-testing-with-devtools",
-      "slug": "addyosmani-browser-testing-with-devtools-browser-testing-with-devtools",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-browser-testing-with-devtools-browser-testing-with-devtools",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Tests in real browsers via Chrome DevTools MCP. Use when building or debugging anything that runs in a browser. Use when you need to.",
-      "stars": 118025
-    },
-    {
-      "name": "api-and-interface-design",
-      "slug": "addyosmani-api-and-interface-design-api-and-interface-design",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-api-and-interface-design-api-and-interface-design",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or.",
-      "stars": 118025
-    },
-    {
-      "name": "git-workflow-and-versioning",
-      "slug": "addyosmani-git-workflow-and-versioning-git-workflow-and-versioning",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-git-workflow-and-versioning-git-workflow-and-versioning",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, splitting.",
-      "stars": 118025
-    },
-    {
-      "name": "debugging-and-error-recovery",
-      "slug": "addyosmani-debugging-and-error-recovery-debugging-and-error-recovery",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-debugging-and-error-recovery-debugging-and-error-recovery",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Guides systematic root-cause debugging. Use when tests fail, builds break, something that worked yesterday broke, behavior doesn't match.",
-      "stars": 118025
-    },
-    {
-      "name": "planning-and-task-breakdown",
-      "slug": "addyosmani-planning-and-task-breakdown-planning-and-task-breakdown",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-planning-and-task-breakdown-planning-and-task-breakdown",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a.",
-      "stars": 118025
-    },
-    {
-      "name": "documentation-and-adrs",
-      "slug": "addyosmani-documentation-and-adrs-documentation-and-adrs",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-documentation-and-adrs-documentation-and-adrs",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Records decisions and documentation, and detects when documentation has drifted from the code it describes. Use when you need to document.",
-      "stars": 118025
-    },
-    {
-      "name": "deprecation-and-migration",
-      "slug": "addyosmani-deprecation-and-migration-deprecation-and-migration",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-deprecation-and-migration-deprecation-and-migration",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to.",
-      "stars": 118025
-    },
-    {
-      "name": "code-simplification",
-      "slug": "addyosmani-code-simplification-code-simplification",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-code-simplification-code-simplification",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Simplifies code for clarity. Use when refactoring code for clarity without changing behavior. Use when code works but is harder to read,.",
-      "stars": 118025
-    },
-    {
-      "name": "ci-cd-and-automation",
-      "slug": "addyosmani-ci-cd-and-automation-ci-cd-and-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-ci-cd-and-automation-ci-cd-and-automation",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality.",
       "stars": 118025
     },
     {
@@ -573,11 +469,11 @@
       "stars": 118025
     },
     {
-      "name": "frontend-ui-engineering",
-      "slug": "addyosmani-frontend-ui-engineering-frontend-ui-engineering",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-frontend-ui-engineering-frontend-ui-engineering",
+      "name": "api-and-interface-design",
+      "slug": "addyosmani-api-and-interface-design-api-and-interface-design",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-api-and-interface-design-api-and-interface-design",
       "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Builds production-quality, accessible, responsive user-facing UIs. Use when building or modifying interfaces and pages, creating.",
+      "blurb": "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or.",
       "stars": 118025
     },
     {
@@ -589,11 +485,123 @@
       "stars": 118025
     },
     {
+      "name": "documentation-and-adrs",
+      "slug": "addyosmani-documentation-and-adrs-documentation-and-adrs",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-documentation-and-adrs-documentation-and-adrs",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Records decisions and documentation, and detects when documentation has drifted from the code it describes. Use when you need to document.",
+      "stars": 118025
+    },
+    {
+      "name": "browser-testing-with-devtools",
+      "slug": "addyosmani-browser-testing-with-devtools-browser-testing-with-devtools",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-browser-testing-with-devtools-browser-testing-with-devtools",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Tests in real browsers via Chrome DevTools MCP. Use when building or debugging anything that runs in a browser. Use when you need to.",
+      "stars": 118025
+    },
+    {
+      "name": "git-workflow-and-versioning",
+      "slug": "addyosmani-git-workflow-and-versioning-git-workflow-and-versioning",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-git-workflow-and-versioning-git-workflow-and-versioning",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, splitting.",
+      "stars": 118025
+    },
+    {
+      "name": "code-simplification",
+      "slug": "addyosmani-code-simplification-code-simplification",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-code-simplification-code-simplification",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Simplifies code for clarity. Use when refactoring code for clarity without changing behavior. Use when code works but is harder to read,.",
+      "stars": 118025
+    },
+    {
+      "name": "idea-refine",
+      "slug": "addyosmani-idea-refine-idea-refine",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-idea-refine-idea-refine",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague,.",
+      "stars": 118025
+    },
+    {
+      "name": "observability-and-instrumentation",
+      "slug": "addyosmani-observability-and-instrumentation-observability-and-instrumentation",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-observability-and-instrumentation-observability-and-instrumentation",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when.",
+      "stars": 118025
+    },
+    {
+      "name": "constraint-driven-development",
+      "slug": "addyosmani-constraint-driven-development-constraint-driven-development",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-constraint-driven-development-constraint-driven-development",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Establishes a project's quality bar as a written contract and stops agents quietly lowering it. Interviews the user on which dimensions.",
+      "stars": 118025
+    },
+    {
+      "name": "planning-and-task-breakdown",
+      "slug": "addyosmani-planning-and-task-breakdown-planning-and-task-breakdown",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-planning-and-task-breakdown-planning-and-task-breakdown",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a.",
+      "stars": 118025
+    },
+    {
+      "name": "doubt-driven-development",
+      "slug": "addyosmani-doubt-driven-development-doubt-driven-development",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-doubt-driven-development-doubt-driven-development",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Subjects every non-trivial decision to a fresh-context adversarial review before it stands. Use when you want every assumption.",
+      "stars": 118025
+    },
+    {
+      "name": "frontend-ui-engineering",
+      "slug": "addyosmani-frontend-ui-engineering-frontend-ui-engineering",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-frontend-ui-engineering-frontend-ui-engineering",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Builds production-quality, accessible, responsive user-facing UIs. Use when building or modifying interfaces and pages, creating.",
+      "stars": 118025
+    },
+    {
+      "name": "incremental-implementation",
+      "slug": "addyosmani-incremental-implementation-incremental-implementation",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-incremental-implementation-incremental-implementation",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Delivers changes incrementally in thin, verifiable slices. Use when implementing any feature or change that touches more than one file, or.",
+      "stars": 118025
+    },
+    {
+      "name": "debugging-and-error-recovery",
+      "slug": "addyosmani-debugging-and-error-recovery-debugging-and-error-recovery",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-debugging-and-error-recovery-debugging-and-error-recovery",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Guides systematic root-cause debugging. Use when tests fail, builds break, something that worked yesterday broke, behavior doesn't match.",
+      "stars": 118025
+    },
+    {
+      "name": "deprecation-and-migration",
+      "slug": "addyosmani-deprecation-and-migration-deprecation-and-migration",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-deprecation-and-migration-deprecation-and-migration",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to.",
+      "stars": 118025
+    },
+    {
       "name": "dashboard-chat-best-practices",
       "slug": "thedotmack-dashboard-chat-best-practices-dashboard-chat-best-practices",
       "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-dashboard-chat-best-practices-dashboard-chat-best-practices",
       "github_url": "https://github.com/thedotmack/claude-mem",
       "blurb": "Apply dashboard-grade chat UX patterns in the Eve chat template. Use when changing Next.js Cache Components/PPR behavior, static shell.",
+      "stars": 117443
+    },
+    {
+      "name": "claude-mem",
+      "slug": "thedotmack-claude-mem-openclaw",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-claude-mem-openclaw",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "blurb": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and.",
       "stars": 117443
     },
     {
@@ -621,27 +629,11 @@
       "stars": 117443
     },
     {
-      "name": "community-sweep",
-      "slug": "thedotmack-community-sweep-community-sweep",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-community-sweep-community-sweep",
-      "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Land community pull requests as the contributor and answer community issues on thedotmack/claude-mem. Takes stock of every open PR (the.",
-      "stars": 117443
-    },
-    {
       "name": "make-plan",
       "slug": "thedotmack-make-plan-make-plan",
       "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-make-plan-make-plan",
       "github_url": "https://github.com/thedotmack/claude-mem",
       "blurb": "Create a detailed, phased implementation plan with documentation discovery. Use when asked to plan a feature, task, or multi-step.",
-      "stars": 117443
-    },
-    {
-      "name": "claude-mem",
-      "slug": "thedotmack-claude-mem-openclaw",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-claude-mem-openclaw",
-      "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and.",
       "stars": 117443
     },
     {
@@ -653,12 +645,12 @@
       "stars": 117443
     },
     {
-      "name": "build-and-release",
-      "slug": "thedotmack-build-and-release-build-and-release",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-build-and-release-build-and-release",
+      "name": "community-sweep",
+      "slug": "thedotmack-community-sweep-community-sweep",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-community-sweep-community-sweep",
       "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Fully automate building and releasing a coding task.",
-      "stars": 115922
+      "blurb": "Land community pull requests as the contributor and answer community issues on thedotmack/claude-mem. Takes stock of every open PR (the.",
+      "stars": 117443
     },
     {
       "name": "build",
@@ -669,19 +661,19 @@
       "stars": 115922
     },
     {
-      "name": "add-product-e2e-eval",
-      "slug": "paperclipai-add-product-e2e-eval-add-product-e2e-eval",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-add-product-e2e-eval-add-product-e2e-eval",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Add or extend a Paperclip full-stack runner E2E workflow, fixture, matcher, or report evidence path for local or Daytona execution.",
-      "stars": 114184
+      "name": "build-and-release",
+      "slug": "thedotmack-build-and-release-build-and-release",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-build-and-release-build-and-release",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "blurb": "Fully automate building and releasing a coding task.",
+      "stars": 115922
     },
     {
-      "name": "add-runner-eval",
-      "slug": "paperclipai-add-runner-eval-add-runner-eval",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-add-runner-eval-add-runner-eval",
+      "name": "maintain-storybook",
+      "slug": "paperclipai-maintain-storybook-maintain-storybook",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-maintain-storybook-maintain-storybook",
       "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Add or extend a Paperclip Runner protocol evaluation definition, roster, assertion, or report fixture with provenance and narrow validation.",
+      "blurb": "Keep Paperclip stories and their downstream catalog aligned with the feature map and production UI. Use to reconcile story drift, classify.",
       "stars": 114184
     },
     {
@@ -693,35 +685,11 @@
       "stars": 114184
     },
     {
-      "name": "create-verification-skill",
-      "slug": "paperclipai-create-verification-skill-create-verification-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-create-verification-skill-create-verification-skill",
+      "name": "add-product-e2e-eval",
+      "slug": "paperclipai-add-product-e2e-eval-add-product-e2e-eval",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-add-product-e2e-eval-add-product-e2e-eval",
       "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Generate a project-local verification skill that drives your app the way a user does — any language, framework, or platform. Use for.",
-      "stars": 114184
-    },
-    {
-      "name": "create-case",
-      "slug": "paperclipai-create-case-create-case",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-create-case-create-case",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Create and kick off a Paperclip case from a user request, with workflow instructions and an initial agent.",
-      "stars": 114184
-    },
-    {
-      "name": "garden-inbox",
-      "slug": "paperclipai-garden-inbox-garden-inbox",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-garden-inbox-garden-inbox",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Scan a Paperclip user's Mine inbox, classify reversible archive candidates, request checkbox confirmation, and archive only accepted.",
-      "stars": 114184
-    },
-    {
-      "name": "directions-lab",
-      "slug": "paperclipai-directions-lab-directions-lab",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-directions-lab-directions-lab",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Scaffold a directions lab that shows shipped UI (Today) beside 2-3 design directions, with surface tabs, theme and animation toggles and.",
+      "blurb": "Add or extend a Paperclip full-stack runner E2E workflow, fixture, matcher, or report evidence path for local or Daytona execution.",
       "stars": 114184
     },
     {
@@ -733,11 +701,43 @@
       "stars": 114184
     },
     {
-      "name": "maintain-storybook",
-      "slug": "paperclipai-maintain-storybook-maintain-storybook",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-maintain-storybook-maintain-storybook",
+      "name": "directions-lab",
+      "slug": "paperclipai-directions-lab-directions-lab",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-directions-lab-directions-lab",
       "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Keep Paperclip stories and their downstream catalog aligned with the feature map and production UI. Use to reconcile story drift, classify.",
+      "blurb": "Scaffold a directions lab that shows shipped UI (Today) beside 2-3 design directions, with surface tabs, theme and animation toggles and.",
+      "stars": 114184
+    },
+    {
+      "name": "garden-inbox",
+      "slug": "paperclipai-garden-inbox-garden-inbox",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-garden-inbox-garden-inbox",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Scan a Paperclip user's Mine inbox, classify reversible archive candidates, request checkbox confirmation, and archive only accepted.",
+      "stars": 114184
+    },
+    {
+      "name": "create-case",
+      "slug": "paperclipai-create-case-create-case",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-create-case-create-case",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Create and kick off a Paperclip case from a user request, with workflow instructions and an initial agent.",
+      "stars": 114184
+    },
+    {
+      "name": "create-verification-skill",
+      "slug": "paperclipai-create-verification-skill-create-verification-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-create-verification-skill-create-verification-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Generate a project-local verification skill that drives your app the way a user does — any language, framework, or platform. Use for.",
+      "stars": 114184
+    },
+    {
+      "name": "add-runner-eval",
+      "slug": "paperclipai-add-runner-eval-add-runner-eval",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-add-runner-eval-add-runner-eval",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Add or extend a Paperclip Runner protocol evaluation definition, roster, assertion, or report fixture with provenance and narrow validation.",
       "stars": 114184
     },
     {
@@ -746,20 +746,12 @@
       "plugmcp_url": "https://plugmcp.ai/skills/cloudflare-cloudflare-one",
       "github_url": "https://github.com/cloudflare/skills",
       "blurb": "Design, configure, troubleshoot, or review Cloudflare One Zero Trust and SASE deployments. Use cloudflare-one-migrations for migration.",
-      "stars": 111007
+      "stars": 111925
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-7",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-7",
-      "github_url": "https://github.com/pbakaus/impeccable",
-      "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
-      "stars": 110895
-    },
-    {
-      "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-14",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-14",
+      "slug": "pbakaus-impeccable-impeccable",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
@@ -774,40 +766,8 @@
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-18",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-18",
-      "github_url": "https://github.com/pbakaus/impeccable",
-      "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
-      "stars": 110895
-    },
-    {
-      "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-3",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-3",
-      "github_url": "https://github.com/pbakaus/impeccable",
-      "blurb": "Use to design, redesign, critique, audit, polish or animate a frontend: websites, landing pages, dashboards, app UI, components, native.",
-      "stars": 110895
-    },
-    {
-      "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-10",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-10",
-      "github_url": "https://github.com/pbakaus/impeccable",
-      "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
-      "stars": 110895
-    },
-    {
-      "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-6",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-6",
-      "github_url": "https://github.com/pbakaus/impeccable",
-      "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
-      "stars": 110895
-    },
-    {
-      "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-17",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-17",
+      "slug": "pbakaus-impeccable-impeccable-16",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-16",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
@@ -822,16 +782,24 @@
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-4",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-4",
+      "slug": "pbakaus-impeccable-impeccable-3",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-3",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "blurb": "Use to design, redesign, critique, audit, polish or animate a frontend: websites, landing pages, dashboards, app UI, components, native.",
+      "stars": 110895
+    },
+    {
+      "name": "impeccable",
+      "slug": "pbakaus-impeccable-impeccable-12",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-12",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-16",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-16",
+      "slug": "pbakaus-impeccable-impeccable-10",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-10",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
@@ -846,8 +814,8 @@
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-12",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-12",
+      "slug": "pbakaus-impeccable-impeccable-6",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-6",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
@@ -862,32 +830,32 @@
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-15",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-15",
+      "slug": "pbakaus-impeccable-impeccable-14",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-14",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable",
+      "slug": "pbakaus-impeccable-impeccable-13",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-13",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-2",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-2",
+      "slug": "pbakaus-impeccable-impeccable-18",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-18",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-8",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-8",
+      "slug": "pbakaus-impeccable-impeccable-17",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-17",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
@@ -902,8 +870,40 @@
     },
     {
       "name": "impeccable",
-      "slug": "pbakaus-impeccable-impeccable-13",
-      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-13",
+      "slug": "pbakaus-impeccable-impeccable-15",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-15",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
+      "stars": 110895
+    },
+    {
+      "name": "impeccable",
+      "slug": "pbakaus-impeccable-impeccable-8",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-8",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
+      "stars": 110895
+    },
+    {
+      "name": "impeccable",
+      "slug": "pbakaus-impeccable-impeccable-7",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-7",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
+      "stars": 110895
+    },
+    {
+      "name": "impeccable",
+      "slug": "pbakaus-impeccable-impeccable-2",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-2",
+      "github_url": "https://github.com/pbakaus/impeccable",
+      "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
+      "stars": 110895
+    },
+    {
+      "name": "impeccable",
+      "slug": "pbakaus-impeccable-impeccable-4",
+      "plugmcp_url": "https://plugmcp.ai/skills/pbakaus-impeccable-impeccable-4",
       "github_url": "https://github.com/pbakaus/impeccable",
       "blurb": "Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend.",
       "stars": 110895
@@ -914,7 +914,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/browser-act-browser-act",
       "github_url": "https://github.com/browser-act/skills",
       "blurb": "Browser automation CLI for AI agents. NEVER run browser-act commands directly via Bash — always invoke this skill first. Use browser-act.",
-      "stars": 108449
+      "stars": 108458
     },
     {
       "name": "aster-atelier",
@@ -933,19 +933,19 @@
       "stars": 107803
     },
     {
-      "name": "contact-widget",
-      "slug": "nexu-io-contact-widget-contact-widget",
-      "plugmcp_url": "https://plugmcp.ai/skills/nexu-io-contact-widget-contact-widget",
-      "github_url": "https://github.com/nexu-io/open-design",
-      "blurb": "Self-contained floating chat widget with welcome screen, social links, meeting button, and message input. Single HTML file, zero.",
-      "stars": 107803
-    },
-    {
       "name": "sample-plugin",
       "slug": "nexu-io-sample-plugin-sample-plugin",
       "plugmcp_url": "https://plugmcp.ai/skills/nexu-io-sample-plugin-sample-plugin",
       "github_url": "https://github.com/nexu-io/open-design",
       "blurb": "Phase 1 sample plugin synthesizing a SKILL.md frontmatter for backwards-compat tests.",
+      "stars": 107803
+    },
+    {
+      "name": "contact-widget",
+      "slug": "nexu-io-contact-widget-contact-widget",
+      "plugmcp_url": "https://plugmcp.ai/skills/nexu-io-contact-widget-contact-widget",
+      "github_url": "https://github.com/nexu-io/open-design",
+      "blurb": "Self-contained floating chat widget with welcome screen, social links, meeting button, and message input. Single HTML file, zero.",
       "stars": 107803
     },
     {
@@ -965,6 +965,22 @@
       "stars": 107271
     },
     {
+      "name": "test-driven-development",
+      "slug": "addyosmani-test-driven-development-test-driven-development-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-test-driven-development-test-driven-development-skill",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any.",
+      "stars": 107271
+    },
+    {
+      "name": "spec-driven-development",
+      "slug": "addyosmani-spec-driven-development-spec-driven-development-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-spec-driven-development-spec-driven-development-skill",
+      "github_url": "https://github.com/addyosmani/agent-skills",
+      "blurb": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when.",
+      "stars": 107271
+    },
+    {
       "name": "shipping-and-launch",
       "slug": "addyosmani-shipping-and-launch-shipping-and-launch-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-shipping-and-launch-shipping-and-launch-skill",
@@ -978,22 +994,6 @@
       "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-source-driven-development-source-driven-development-skill",
       "github_url": "https://github.com/addyosmani/agent-skills",
       "blurb": "Grounds every implementation decision in official documentation. Use when you want to verify an approach against the official docs before.",
-      "stars": 107271
-    },
-    {
-      "name": "spec-driven-development",
-      "slug": "addyosmani-spec-driven-development-spec-driven-development-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-spec-driven-development-spec-driven-development-skill",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when.",
-      "stars": 107271
-    },
-    {
-      "name": "test-driven-development",
-      "slug": "addyosmani-test-driven-development-test-driven-development-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-test-driven-development-test-driven-development-skill",
-      "github_url": "https://github.com/addyosmani/agent-skills",
-      "blurb": "Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any.",
       "stars": 107271
     },
     {
@@ -1013,115 +1013,11 @@
       "stars": 103036
     },
     {
-      "name": "review-storybook",
-      "slug": "paperclipai-review-storybook-review-storybook-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-review-storybook-review-storybook-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Review Paperclip stories for a feature or change using the Storybook catalog, production source, and existing browser tests. Report.",
-      "stars": 103036
-    },
-    {
-      "name": "prepare-paperclip-pr",
-      "slug": "paperclipai-prepare-paperclip-pr-prepare-paperclip-pr-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-prepare-paperclip-pr-prepare-paperclip-pr-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Prepare a Paperclip branch for PR with commits, template body, and checks.",
-      "stars": 103036
-    },
-    {
-      "name": "github-pr-workflow",
-      "slug": "paperclipai-github-pr-workflow-github-pr-workflow-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-github-pr-workflow-github-pr-workflow-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Prepare a GitHub pull request from a feature branch — branch hygiene, commit shape, title/body, verification notes, screenshots for UI.",
-      "stars": 103036
-    },
-    {
-      "name": "paperclip-evals",
-      "slug": "paperclipai-paperclip-evals-paperclip-evals-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-paperclip-evals-paperclip-evals-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Choose, inspect, validate, and report Paperclip Runner or Product E2E evaluations while preserving evidence, provenance, cost, and failure.",
-      "stars": 103036
-    },
-    {
       "name": "reflection-coach",
       "slug": "paperclipai-reflection-coach-reflection-coach-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-reflection-coach-reflection-coach-skill",
       "github_url": "https://github.com/paperclipai/paperclip",
       "blurb": "Reflect on another agent's recent execution record and propose the smallest durable instruction, skill, or tool-description change. Use.",
-      "stars": 103036
-    },
-    {
-      "name": "task-planning",
-      "slug": "paperclipai-task-planning-task-planning-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-task-planning-task-planning-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Write or revise a useful Paperclip plan with a clear outcome and verification. Use when a plan is requested or uncertainty needs resolving.",
-      "stars": 103036
-    },
-    {
-      "name": "wiki-query",
-      "slug": "paperclipai-wiki-query-wiki-query-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-wiki-query-wiki-query-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Use when an LLM Wiki operation issue asks a question. Answer from wiki pages and raw sources with citations, name gaps plainly, and offer.",
-      "stars": 103036
-    },
-    {
-      "name": "paperclip-capsules",
-      "slug": "paperclipai-paperclip-capsules-paperclip-capsules-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-paperclip-capsules-paperclip-capsules-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Generate, implement, or review Paperclip capsule visuals. Use for capsule art, agent capsules, heartbeat status capsules, identicons,.",
-      "stars": 103036
-    },
-    {
-      "name": "wiki-lint",
-      "slug": "paperclipai-wiki-lint-wiki-lint-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-wiki-lint-wiki-lint-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Use when an LLM Wiki operation issue is a lint or health check. Audit for contradictions, orphans, weak provenance, broken links, missing.",
-      "stars": 103036
-    },
-    {
-      "name": "qa-acceptance",
-      "slug": "paperclipai-qa-acceptance-qa-acceptance-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-qa-acceptance-qa-acceptance-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Produce QA acceptance criteria and a manual validation plan for a feature change — golden path, edge cases, error states, performance.",
-      "stars": 103036
-    },
-    {
-      "name": "review-my-team",
-      "slug": "paperclipai-review-my-team-review-my-team-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-review-my-team-review-my-team-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Review a connected Paperclip team's agents, tasks, blockers and pending approvals when the user asks for a team summary or what needs.",
-      "stars": 103036
-    },
-    {
-      "name": "paperclip-task-bridge",
-      "slug": "paperclipai-paperclip-task-bridge-paperclip-task-bridge-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-paperclip-task-bridge-paperclip-task-bridge-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Create, comment on, update, and list Paperclip tasks from Hermes using scoped Paperclip API credentials.",
-      "stars": 103036
-    },
-    {
-      "name": "status-card-query",
-      "slug": "paperclipai-status-card-query-status-card-query-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-status-card-query-status-card-query-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Create and maintain agent-authored Paperclip status cards, or compile a prose interest prompt into bounded CompanySearchQuery objects and.",
-      "stars": 103036
-    },
-    {
-      "name": "follow-up-results",
-      "slug": "paperclipai-follow-up-results-follow-up-results-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-follow-up-results-follow-up-results-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Find progress or deliverables from earlier Paperclip work and add user-requested feedback with human attribution.",
       "stars": 103036
     },
     {
@@ -1133,11 +1029,51 @@
       "stars": 103036
     },
     {
-      "name": "verify-paperclip",
-      "slug": "paperclipai-verify-paperclip-verify-paperclip-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-verify-paperclip-verify-paperclip-skill",
+      "name": "status-card-query",
+      "slug": "paperclipai-status-card-query-status-card-query-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-status-card-query-status-card-query-skill",
       "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Verify Paperclip from a source checkout, published npm install, or existing staging or production stack. Select the environment, data.",
+      "blurb": "Create and maintain agent-authored Paperclip status cards, or compile a prose interest prompt into bounded CompanySearchQuery objects and.",
+      "stars": 103036
+    },
+    {
+      "name": "paperclip-evals",
+      "slug": "paperclipai-paperclip-evals-paperclip-evals-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-paperclip-evals-paperclip-evals-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Choose, inspect, validate, and report Paperclip Runner or Product E2E evaluations while preserving evidence, provenance, cost, and failure.",
+      "stars": 103036
+    },
+    {
+      "name": "qa-acceptance",
+      "slug": "paperclipai-qa-acceptance-qa-acceptance-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-qa-acceptance-qa-acceptance-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Produce QA acceptance criteria and a manual validation plan for a feature change — golden path, edge cases, error states, performance.",
+      "stars": 103036
+    },
+    {
+      "name": "prepare-paperclip-pr",
+      "slug": "paperclipai-prepare-paperclip-pr-prepare-paperclip-pr-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-prepare-paperclip-pr-prepare-paperclip-pr-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Prepare a Paperclip branch for PR with commits, template body, and checks.",
+      "stars": 103036
+    },
+    {
+      "name": "issue-triage",
+      "slug": "paperclipai-issue-triage-issue-triage-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-issue-triage-issue-triage-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Triage Paperclip inbox issues that are stale, blocked, in-review, or assigned-but-not-progressing, and decide a single next action per.",
+      "stars": 103036
+    },
+    {
+      "name": "review-my-team",
+      "slug": "paperclipai-review-my-team-review-my-team-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-review-my-team-review-my-team-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Review a connected Paperclip team's agents, tasks, blockers and pending approvals when the user asks for a team summary or what needs.",
       "stars": 103036
     },
     {
@@ -1157,6 +1093,14 @@
       "stars": 103036
     },
     {
+      "name": "delegate-work",
+      "slug": "paperclipai-delegate-work-delegate-work-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-delegate-work-delegate-work-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Delegate user-requested work to an existing Paperclip agent, with a durable task reference and clear execution expectations.",
+      "stars": 103036
+    },
+    {
       "name": "wiki-ingest",
       "slug": "paperclipai-wiki-ingest-wiki-ingest-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-wiki-ingest-wiki-ingest-skill",
@@ -1165,19 +1109,11 @@
       "stars": 103036
     },
     {
-      "name": "issue-triage",
-      "slug": "paperclipai-issue-triage-issue-triage-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-issue-triage-issue-triage-skill",
+      "name": "follow-up-results",
+      "slug": "paperclipai-follow-up-results-follow-up-results-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-follow-up-results-follow-up-results-skill",
       "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Triage Paperclip inbox issues that are stale, blocked, in-review, or assigned-but-not-progressing, and decide a single next action per.",
-      "stars": 103036
-    },
-    {
-      "name": "delegate-work",
-      "slug": "paperclipai-delegate-work-delegate-work-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-delegate-work-delegate-work-skill",
-      "github_url": "https://github.com/paperclipai/paperclip",
-      "blurb": "Delegate user-requested work to an existing Paperclip agent, with a durable task reference and clear execution expectations.",
+      "blurb": "Find progress or deliverables from earlier Paperclip work and add user-requested feedback with human attribution.",
       "stars": 103036
     },
     {
@@ -1189,11 +1125,75 @@
       "stars": 103036
     },
     {
+      "name": "wiki-lint",
+      "slug": "paperclipai-wiki-lint-wiki-lint-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-wiki-lint-wiki-lint-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Use when an LLM Wiki operation issue is a lint or health check. Audit for contradictions, orphans, weak provenance, broken links, missing.",
+      "stars": 103036
+    },
+    {
+      "name": "task-planning",
+      "slug": "paperclipai-task-planning-task-planning-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-task-planning-task-planning-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Write or revise a useful Paperclip plan with a clear outcome and verification. Use when a plan is requested or uncertainty needs resolving.",
+      "stars": 103036
+    },
+    {
+      "name": "wiki-query",
+      "slug": "paperclipai-wiki-query-wiki-query-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-wiki-query-wiki-query-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Use when an LLM Wiki operation issue asks a question. Answer from wiki pages and raw sources with citations, name gaps plainly, and offer.",
+      "stars": 103036
+    },
+    {
+      "name": "paperclip-task-bridge",
+      "slug": "paperclipai-paperclip-task-bridge-paperclip-task-bridge-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-paperclip-task-bridge-paperclip-task-bridge-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Create, comment on, update, and list Paperclip tasks from Hermes using scoped Paperclip API credentials.",
+      "stars": 103036
+    },
+    {
+      "name": "paperclip-capsules",
+      "slug": "paperclipai-paperclip-capsules-paperclip-capsules-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-paperclip-capsules-paperclip-capsules-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Generate, implement, or review Paperclip capsule visuals. Use for capsule art, agent capsules, heartbeat status capsules, identicons,.",
+      "stars": 103036
+    },
+    {
+      "name": "review-storybook",
+      "slug": "paperclipai-review-storybook-review-storybook-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-review-storybook-review-storybook-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Review Paperclip stories for a feature or change using the Storybook catalog, production source, and existing browser tests. Report.",
+      "stars": 103036
+    },
+    {
       "name": "summarize-status",
       "slug": "paperclipai-summarize-status-summarize-status-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-summarize-status-summarize-status-skill",
       "github_url": "https://github.com/paperclipai/paperclip",
       "blurb": "Write a short, colloquial summary for a Paperclip summary slot: open with the 1–3 specific, concrete actions the reader needs to take.",
+      "stars": 103036
+    },
+    {
+      "name": "github-pr-workflow",
+      "slug": "paperclipai-github-pr-workflow-github-pr-workflow-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-github-pr-workflow-github-pr-workflow-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Prepare a GitHub pull request from a feature branch — branch hygiene, commit shape, title/body, verification notes, screenshots for UI.",
+      "stars": 103036
+    },
+    {
+      "name": "verify-paperclip",
+      "slug": "paperclipai-verify-paperclip-verify-paperclip-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/paperclipai-verify-paperclip-verify-paperclip-skill",
+      "github_url": "https://github.com/paperclipai/paperclip",
+      "blurb": "Verify Paperclip from a source checkout, published npm install, or existing staging or production stack. Select the environment, data.",
       "stars": 103036
     },
     {
@@ -1205,19 +1205,19 @@
       "stars": 101524
     },
     {
-      "name": "html-ppt-taste-editorial",
-      "slug": "nexu-io-html-ppt-taste-editorial-html-ppt-taste-editorial-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/nexu-io-html-ppt-taste-editorial-html-ppt-taste-editorial-skill",
-      "github_url": "https://github.com/nexu-io/open-design",
-      "blurb": "16:9 HTML deck in editorial-minimalist taste. Warm cream slides, serif display + grotesque body, hairline rules, monospace meta, generous.",
-      "stars": 101517
-    },
-    {
       "name": "html-ppt-taste-brutalist",
       "slug": "nexu-io-html-ppt-taste-brutalist-html-ppt-taste-brutalist-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/nexu-io-html-ppt-taste-brutalist-html-ppt-taste-brutalist-skill",
       "github_url": "https://github.com/nexu-io/open-design",
       "blurb": "16:9 HTML deck in tactical-telemetry / CRT-terminal taste. Deactivated-CRT charcoal slides, white-phosphor monospace, hazard-red accent,.",
+      "stars": 101517
+    },
+    {
+      "name": "html-ppt-taste-editorial",
+      "slug": "nexu-io-html-ppt-taste-editorial-html-ppt-taste-editorial-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/nexu-io-html-ppt-taste-editorial-html-ppt-taste-editorial-skill",
+      "github_url": "https://github.com/nexu-io/open-design",
+      "blurb": "16:9 HTML deck in editorial-minimalist taste. Warm cream slides, serif display + grotesque body, hairline rules, monospace meta, generous.",
       "stars": 101517
     },
     {
@@ -1229,19 +1229,35 @@
       "stars": 101191
     },
     {
-      "name": "oh-my-issues",
-      "slug": "thedotmack-oh-my-issues-oh-my-issues-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-oh-my-issues-oh-my-issues-skill",
+      "name": "mode-creator",
+      "slug": "thedotmack-mode-creator-mode-creator-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-mode-creator-mode-creator-skill",
       "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Cluster a GitHub issue backlog by root cause into a small set of plan-master issues, redirect children with a standardized comment, and.",
+      "blurb": "Interactively create, install, activate, and verify custom claude-mem modes, including domain-specific observation types, concept tags,.",
       "stars": 101189
     },
     {
-      "name": "weekly-digests",
-      "slug": "thedotmack-weekly-digests-weekly-digests-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-weekly-digests-weekly-digests-skill",
+      "name": "design-is",
+      "slug": "thedotmack-design-is-design-is-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-design-is-design-is-skill",
       "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Generate a serial week-by-week narrative digest of a project's full claude-mem timeline. Splits the timeline into per-ISO-week files, then.",
+      "blurb": "Audit a design against Dieter Rams' ten \"Good design is...\" principles, then hand off a /make-plan prompt for one of three outcomes — new.",
+      "stars": 101189
+    },
+    {
+      "name": "how-it-works",
+      "slug": "thedotmack-how-it-works-how-it-works-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-how-it-works-how-it-works-skill",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "blurb": "Explain how claude-mem captures observations, when memory injection kicks in, and where data lives. Use when the user asks \"how does.",
+      "stars": 101189
+    },
+    {
+      "name": "ccs-align",
+      "slug": "thedotmack-ccs-align-ccs-align-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-ccs-align-ccs-align-skill",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "blurb": "Run the CCS Align seat's hourly breathing cycle — prove the local claude-mem worker is healthy, pull needle observations through search →.",
       "stars": 101189
     },
     {
@@ -1253,11 +1269,27 @@
       "stars": 101189
     },
     {
-      "name": "ccs-align",
-      "slug": "thedotmack-ccs-align-ccs-align-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-ccs-align-ccs-align-skill",
+      "name": "knowledge-agent",
+      "slug": "thedotmack-knowledge-agent-knowledge-agent-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-knowledge-agent-knowledge-agent-skill",
       "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Run the CCS Align seat's hourly breathing cycle — prove the local claude-mem worker is healthy, pull needle observations through search →.",
+      "blurb": "Build and query AI-powered knowledge bases from claude-mem observations. Use when users want to create focused \"brains\" from their.",
+      "stars": 101189
+    },
+    {
+      "name": "smart-explore",
+      "slug": "thedotmack-smart-explore-smart-explore-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-smart-explore-smart-explore-skill",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "blurb": "Token-optimized structural code search using tree-sitter AST parsing. Use instead of reading full files when you need to understand code.",
+      "stars": 101189
+    },
+    {
+      "name": "standup",
+      "slug": "thedotmack-standup-standup-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-standup-standup-skill",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "blurb": "Facilitate a read-only standup across git worktrees, branches, or PRs to compare changes and produce one consolidation plan.",
       "stars": 101189
     },
     {
@@ -1277,46 +1309,6 @@
       "stars": 101189
     },
     {
-      "name": "how-it-works",
-      "slug": "thedotmack-how-it-works-how-it-works-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-how-it-works-how-it-works-skill",
-      "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Explain how claude-mem captures observations, when memory injection kicks in, and where data lives. Use when the user asks \"how does.",
-      "stars": 101189
-    },
-    {
-      "name": "pathfinder",
-      "slug": "thedotmack-pathfinder-pathfinder-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-pathfinder-pathfinder-skill",
-      "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Map a codebase into feature-grouped flowcharts, identify duplicated concerns across features, and propose a unified architecture. Use when.",
-      "stars": 101189
-    },
-    {
-      "name": "design-is",
-      "slug": "thedotmack-design-is-design-is-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-design-is-design-is-skill",
-      "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Audit a design against Dieter Rams' ten \"Good design is...\" principles, then hand off a /make-plan prompt for one of three outcomes — new.",
-      "stars": 101189
-    },
-    {
-      "name": "screenpipe",
-      "slug": "thedotmack-screenpipe-screenpipe-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-screenpipe-screenpipe-skill",
-      "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Search screen and audio history recorded by Screenpipe and optionally save selected context into claude-mem. Use when the user asks to.",
-      "stars": 101189
-    },
-    {
-      "name": "standup",
-      "slug": "thedotmack-standup-standup-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-standup-standup-skill",
-      "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Facilitate a read-only standup across git worktrees, branches, or PRs to compare changes and produce one consolidation plan.",
-      "stars": 101189
-    },
-    {
       "name": "learn-codebase",
       "slug": "thedotmack-learn-codebase-learn-codebase-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-learn-codebase-learn-codebase-skill",
@@ -1325,19 +1317,11 @@
       "stars": 101189
     },
     {
-      "name": "handoff",
-      "slug": "thedotmack-handoff-handoff-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-handoff-handoff-skill",
+      "name": "oh-my-issues",
+      "slug": "thedotmack-oh-my-issues-oh-my-issues-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-oh-my-issues-oh-my-issues-skill",
       "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Generate a HANDOFF.md that captures goal, current state, files touched, failed attempts, and next steps — so a fresh Claude session can.",
-      "stars": 101189
-    },
-    {
-      "name": "smart-explore",
-      "slug": "thedotmack-smart-explore-smart-explore-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-smart-explore-smart-explore-skill",
-      "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Token-optimized structural code search using tree-sitter AST parsing. Use instead of reading full files when you need to understand code.",
+      "blurb": "Cluster a GitHub issue backlog by root cause into a small set of plan-master issues, redirect children with a standardized comment, and.",
       "stars": 101189
     },
     {
@@ -1349,6 +1333,22 @@
       "stars": 101189
     },
     {
+      "name": "weekly-digests",
+      "slug": "thedotmack-weekly-digests-weekly-digests-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-weekly-digests-weekly-digests-skill",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "blurb": "Generate a serial week-by-week narrative digest of a project's full claude-mem timeline. Splits the timeline into per-ISO-week files, then.",
+      "stars": 101189
+    },
+    {
+      "name": "pathfinder",
+      "slug": "thedotmack-pathfinder-pathfinder-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-pathfinder-pathfinder-skill",
+      "github_url": "https://github.com/thedotmack/claude-mem",
+      "blurb": "Map a codebase into feature-grouped flowcharts, identify duplicated concerns across features, and propose a unified architecture. Use when.",
+      "stars": 101189
+    },
+    {
       "name": "version-bump",
       "slug": "thedotmack-version-bump-version-bump-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-version-bump-version-bump-skill",
@@ -1357,19 +1357,19 @@
       "stars": 101189
     },
     {
-      "name": "knowledge-agent",
-      "slug": "thedotmack-knowledge-agent-knowledge-agent-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-knowledge-agent-knowledge-agent-skill",
+      "name": "handoff",
+      "slug": "thedotmack-handoff-handoff-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-handoff-handoff-skill",
       "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Build and query AI-powered knowledge bases from claude-mem observations. Use when users want to create focused \"brains\" from their.",
+      "blurb": "Generate a HANDOFF.md that captures goal, current state, files touched, failed attempts, and next steps — so a fresh Claude session can.",
       "stars": 101189
     },
     {
-      "name": "mode-creator",
-      "slug": "thedotmack-mode-creator-mode-creator-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-mode-creator-mode-creator-skill",
+      "name": "screenpipe",
+      "slug": "thedotmack-screenpipe-screenpipe-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/thedotmack-screenpipe-screenpipe-skill",
       "github_url": "https://github.com/thedotmack/claude-mem",
-      "blurb": "Interactively create, install, activate, and verify custom claude-mem modes, including domain-specific observation types, concept tags,.",
+      "blurb": "Search screen and audio history recorded by Screenpipe and optionally save selected context into claude-mem. Use when the user asks to.",
       "stars": 101189
     },
     {
@@ -1378,7 +1378,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/browser-use-browser-use",
       "github_url": "https://github.com/browser-use/browser-use",
       "blurb": "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work. Also covers hosted.",
-      "stars": 99791
+      "stars": 99866
     },
     {
       "name": "taste-skill",
@@ -1389,75 +1389,11 @@
       "stars": 97876
     },
     {
-      "name": "imagegen-frontend-mobile",
-      "slug": "leonxlnx-imagegen-frontend-mobile-imagegen-frontend-mobile-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-imagegen-frontend-mobile-imagegen-frontend-mobile-skill",
+      "name": "brandkit",
+      "slug": "leonxlnx-brandkit-brandkit-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-brandkit-brandkit-skill",
       "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, Android, and.",
-      "stars": 97873
-    },
-    {
-      "name": "gpt-taste",
-      "slug": "leonxlnx-gpt-taste-gpt-tasteskill-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-gpt-taste-gpt-tasteskill-skill",
-      "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure,.",
-      "stars": 97873
-    },
-    {
-      "name": "design-taste-frontend-v1",
-      "slug": "leonxlnx-design-taste-frontend-v1-taste-skill-v1-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-design-taste-frontend-v1-taste-skill-v1-skill",
-      "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current default is `design-taste-frontend` (v2),.",
-      "stars": 97873
-    },
-    {
-      "name": "full-output-enforcement",
-      "slug": "leonxlnx-full-output-enforcement-output-skill-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-full-output-enforcement-output-skill-skill",
-      "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits.",
-      "stars": 97873
-    },
-    {
-      "name": "stitch-design-taste",
-      "slug": "leonxlnx-stitch-design-taste-stitch-skill-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-stitch-design-taste-stitch-skill-skill",
-      "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards —.",
-      "stars": 97873
-    },
-    {
-      "name": "design-taste-frontend-v2-experimental",
-      "slug": "leonxlnx-design-taste-frontend-v2-experimental-taste-skill-v2-experimental-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-design-taste-frontend-v2-experimental-taste-skill-v2-experimental-skill",
-      "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Old v2 (experimental) of taste-skill, the single-file dial-driven version, preserved for projects depending on its exact behavior. The.",
-      "stars": 97873
-    },
-    {
-      "name": "imagegen-frontend-web",
-      "slug": "leonxlnx-imagegen-frontend-web-imagegen-frontend-web-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-imagegen-frontend-web-imagegen-frontend-web-skill",
-      "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate.",
-      "stars": 97873
-    },
-    {
-      "name": "redesign-existing-projects",
-      "slug": "leonxlnx-redesign-existing-projects-redesign-skill-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-redesign-existing-projects-redesign-skill-skill",
-      "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design.",
-      "stars": 97873
-    },
-    {
-      "name": "minimalist-ui",
-      "slug": "leonxlnx-minimalist-ui-minimalist-skill-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-minimalist-ui-minimalist-skill-skill",
-      "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy.",
+      "blurb": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world.",
       "stars": 97873
     },
     {
@@ -1469,19 +1405,51 @@
       "stars": 97873
     },
     {
-      "name": "high-end-visual-design",
-      "slug": "leonxlnx-high-end-visual-design-soft-skill-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-high-end-visual-design-soft-skill-skill",
+      "name": "imagegen-frontend-web",
+      "slug": "leonxlnx-imagegen-frontend-web-imagegen-frontend-web-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-imagegen-frontend-web-imagegen-frontend-web-skill",
       "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a.",
+      "blurb": "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate.",
       "stars": 97873
     },
     {
-      "name": "brandkit",
-      "slug": "leonxlnx-brandkit-brandkit-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-brandkit-brandkit-skill",
+      "name": "design-taste-frontend-v1",
+      "slug": "leonxlnx-design-taste-frontend-v1-taste-skill-v1-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-design-taste-frontend-v1-taste-skill-v1-skill",
       "github_url": "https://github.com/Leonxlnx/taste-skill",
-      "blurb": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world.",
+      "blurb": "The original v1 taste-skill, preserved for projects depending on its exact behavior. The current default is `design-taste-frontend` (v2),.",
+      "stars": 97873
+    },
+    {
+      "name": "stitch-design-taste",
+      "slug": "leonxlnx-stitch-design-taste-stitch-skill-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-stitch-design-taste-stitch-skill-skill",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "blurb": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards —.",
+      "stars": 97873
+    },
+    {
+      "name": "imagegen-frontend-mobile",
+      "slug": "leonxlnx-imagegen-frontend-mobile-imagegen-frontend-mobile-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-imagegen-frontend-mobile-imagegen-frontend-mobile-skill",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "blurb": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, Android, and.",
+      "stars": 97873
+    },
+    {
+      "name": "full-output-enforcement",
+      "slug": "leonxlnx-full-output-enforcement-output-skill-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-full-output-enforcement-output-skill-skill",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "blurb": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits.",
+      "stars": 97873
+    },
+    {
+      "name": "redesign-existing-projects",
+      "slug": "leonxlnx-redesign-existing-projects-redesign-skill-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-redesign-existing-projects-redesign-skill-skill",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "blurb": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design.",
       "stars": 97873
     },
     {
@@ -1493,12 +1461,44 @@
       "stars": 97873
     },
     {
-      "name": "test-value",
-      "slug": "tt-a1i-test-value-test-value",
-      "plugmcp_url": "https://plugmcp.ai/skills/tt-a1i-test-value-test-value",
-      "github_url": "https://github.com/tt-a1i/archify",
-      "blurb": "Improve test value and feedback cost when auditing slow, flaky, redundant or brittle tests; choosing tests during implementation; or.",
-      "stars": 96897
+      "name": "minimalist-ui",
+      "slug": "leonxlnx-minimalist-ui-minimalist-skill-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-minimalist-ui-minimalist-skill-skill",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "blurb": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy.",
+      "stars": 97873
+    },
+    {
+      "name": "gpt-taste",
+      "slug": "leonxlnx-gpt-taste-gpt-tasteskill-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-gpt-taste-gpt-tasteskill-skill",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "blurb": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure,.",
+      "stars": 97873
+    },
+    {
+      "name": "design-taste-frontend-v2-experimental",
+      "slug": "leonxlnx-design-taste-frontend-v2-experimental-taste-skill-v2-experimental-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-design-taste-frontend-v2-experimental-taste-skill-v2-experimental-skill",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "blurb": "Old v2 (experimental) of taste-skill, the single-file dial-driven version, preserved for projects depending on its exact behavior. The.",
+      "stars": 97873
+    },
+    {
+      "name": "high-end-visual-design",
+      "slug": "leonxlnx-high-end-visual-design-soft-skill-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/leonxlnx-high-end-visual-design-soft-skill-skill",
+      "github_url": "https://github.com/Leonxlnx/taste-skill",
+      "blurb": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a.",
+      "stars": 97873
+    },
+    {
+      "name": "directory-submissions",
+      "slug": "coreyhaines31-directory-submissions",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-directory-submissions",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to list a product in startup, SaaS, AI, MCP, and review directories, or asks which directories are worth it or whether.",
+      "stars": 96922
     },
     {
       "name": "archify",
@@ -1506,6 +1506,22 @@
       "plugmcp_url": "https://plugmcp.ai/skills/tt-a1i-archify-archify",
       "github_url": "https://github.com/tt-a1i/archify",
       "blurb": "Create validated architecture, workflow, sequence, data-flow, lifecycle/state, ERD, class, tree, timeline, and waterfall diagrams as.",
+      "stars": 96897
+    },
+    {
+      "name": "simplify-codebase",
+      "slug": "tt-a1i-simplify-codebase-simplify-codebase",
+      "plugmcp_url": "https://plugmcp.ai/skills/tt-a1i-simplify-codebase-simplify-codebase",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "blurb": "Simplification audit or authorized codebase simplification whose stated objective is to remove accidental complexity. Use for.",
+      "stars": 96897
+    },
+    {
+      "name": "test-value",
+      "slug": "tt-a1i-test-value-test-value",
+      "plugmcp_url": "https://plugmcp.ai/skills/tt-a1i-test-value-test-value",
+      "github_url": "https://github.com/tt-a1i/archify",
+      "blurb": "Improve test value and feedback cost when auditing slow, flaky, redundant or brittle tests; choosing tests during implementation; or.",
       "stars": 96897
     },
     {
@@ -1525,27 +1541,19 @@
       "stars": 96897
     },
     {
-      "name": "simplify-codebase",
-      "slug": "tt-a1i-simplify-codebase-simplify-codebase",
-      "plugmcp_url": "https://plugmcp.ai/skills/tt-a1i-simplify-codebase-simplify-codebase",
-      "github_url": "https://github.com/tt-a1i/archify",
-      "blurb": "Simplification audit or authorized codebase simplification whose stated objective is to remove accidental complexity. Use for.",
-      "stars": 96897
-    },
-    {
-      "name": "directory-submissions",
-      "slug": "coreyhaines31-directory-submissions",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-directory-submissions",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to list a product in startup, SaaS, AI, MCP, and review directories, or asks which directories are worth it or whether.",
-      "stars": 96293
-    },
-    {
       "name": "understand-figma",
       "slug": "egonex-ai-understand-figma-understand-figma",
       "plugmcp_url": "https://plugmcp.ai/skills/egonex-ai-understand-figma-understand-figma",
       "github_url": "https://github.com/Egonex-AI/Understand-Anything",
       "blurb": "Analyze a Figma file via the Figma REST API and generate an interactive design knowledge graph (pages, screens, components, component.",
+      "stars": 92761
+    },
+    {
+      "name": "understand-domain",
+      "slug": "egonex-ai-understand-domain-understand-domain",
+      "plugmcp_url": "https://plugmcp.ai/skills/egonex-ai-understand-domain-understand-domain",
+      "github_url": "https://github.com/Egonex-AI/Understand-Anything",
+      "blurb": "Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Works standalone (lightweight scan) or.",
       "stars": 92761
     },
     {
@@ -1557,11 +1565,11 @@
       "stars": 92761
     },
     {
-      "name": "understand-knowledge",
-      "slug": "egonex-ai-understand-knowledge-understand-knowledge",
-      "plugmcp_url": "https://plugmcp.ai/skills/egonex-ai-understand-knowledge-understand-knowledge",
+      "name": "understand-diff",
+      "slug": "egonex-ai-understand-diff-understand-diff",
+      "plugmcp_url": "https://plugmcp.ai/skills/egonex-ai-understand-diff-understand-diff",
       "github_url": "https://github.com/Egonex-AI/Understand-Anything",
-      "blurb": "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit.",
+      "blurb": "Use when you need to analyze git diffs or pull requests to understand what changed, affected components, and risks",
       "stars": 92761
     },
     {
@@ -1573,11 +1581,11 @@
       "stars": 92761
     },
     {
-      "name": "understand-domain",
-      "slug": "egonex-ai-understand-domain-understand-domain",
-      "plugmcp_url": "https://plugmcp.ai/skills/egonex-ai-understand-domain-understand-domain",
+      "name": "understand-knowledge",
+      "slug": "egonex-ai-understand-knowledge-understand-knowledge",
+      "plugmcp_url": "https://plugmcp.ai/skills/egonex-ai-understand-knowledge-understand-knowledge",
       "github_url": "https://github.com/Egonex-AI/Understand-Anything",
-      "blurb": "Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Works standalone (lightweight scan) or.",
+      "blurb": "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit.",
       "stars": 92761
     },
     {
@@ -1597,14 +1605,6 @@
       "stars": 92761
     },
     {
-      "name": "understand-diff",
-      "slug": "egonex-ai-understand-diff-understand-diff",
-      "plugmcp_url": "https://plugmcp.ai/skills/egonex-ai-understand-diff-understand-diff",
-      "github_url": "https://github.com/Egonex-AI/Understand-Anything",
-      "blurb": "Use when you need to analyze git diffs or pull requests to understand what changed, affected components, and risks",
-      "stars": 92761
-    },
-    {
       "name": "understand-chat",
       "slug": "egonex-ai-understand-chat-understand-chat",
       "plugmcp_url": "https://plugmcp.ai/skills/egonex-ai-understand-chat-understand-chat",
@@ -1618,7 +1618,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/anthropics-internal-comms",
       "github_url": "https://github.com/anthropics/skills",
       "blurb": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should.",
-      "stars": 86712
+      "stars": 87139
     },
     {
       "name": "Understand-Anything",
@@ -1634,7 +1634,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/browser-act-browser-act-skill-forge",
       "github_url": "https://github.com/browser-act/skills",
       "blurb": "Forges reusable Skill packages (SKILL.md + scripts) from website exploration via browser-act — no re-exploration later. Use when: user.",
-      "stars": 85208
+      "stars": 85212
     },
     {
       "name": "archify",
@@ -1645,11 +1645,11 @@
       "stars": 84372
     },
     {
-      "name": "career-ops",
-      "slug": "career-ops-hq-career-ops-career-ops-3",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-3",
+      "name": "career-ops-plugin-gmail",
+      "slug": "career-ops-hq-career-ops-plugin-gmail-gmail",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-plugin-gmail-gmail",
       "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
+      "blurb": "How to pull job leads from a Gmail label into the career-ops pipeline.",
       "stars": 82831
     },
     {
@@ -1662,54 +1662,6 @@
     },
     {
       "name": "career-ops",
-      "slug": "career-ops-hq-career-ops-career-ops-2",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-2",
-      "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
-      "stars": 82831
-    },
-    {
-      "name": "career-ops",
-      "slug": "career-ops-hq-career-ops-h1b-sponsor",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-h1b-sponsor",
-      "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an.",
-      "stars": 82831
-    },
-    {
-      "name": "career-ops",
-      "slug": "career-ops-hq-career-ops-career-ops-6",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-6",
-      "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
-      "stars": 82831
-    },
-    {
-      "name": "career-ops-plugin-gmail",
-      "slug": "career-ops-hq-career-ops-plugin-gmail-gmail",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-plugin-gmail-gmail",
-      "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "How to pull job leads from a Gmail label into the career-ops pipeline.",
-      "stars": 82831
-    },
-    {
-      "name": "career-ops",
-      "slug": "career-ops-hq-career-ops-career-ops-5",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-5",
-      "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
-      "stars": 82831
-    },
-    {
-      "name": "career-ops-plugin-apify",
-      "slug": "career-ops-hq-career-ops-plugin-apify-apify",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-plugin-apify-apify",
-      "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "How to scan a job source through an Apify actor as a keyed provider.",
-      "stars": 82831
-    },
-    {
-      "name": "career-ops",
       "slug": "career-ops-hq-career-ops-career-ops-10",
       "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-10",
       "github_url": "https://github.com/career-ops-hq/career-ops",
@@ -1718,24 +1670,8 @@
     },
     {
       "name": "career-ops",
-      "slug": "career-ops-hq-career-ops-career-ops-8",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-8",
-      "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
-      "stars": 82831
-    },
-    {
-      "name": "career-ops-plugin-notion",
-      "slug": "career-ops-hq-career-ops-plugin-notion-notion",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-plugin-notion-notion",
-      "github_url": "https://github.com/career-ops-hq/career-ops",
-      "blurb": "How to mirror the career-ops tracker to a Notion database and read records back as job leads.",
-      "stars": 82831
-    },
-    {
-      "name": "career-ops",
-      "slug": "career-ops-hq-career-ops-career-ops-9",
-      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-9",
+      "slug": "career-ops-hq-career-ops-career-ops-2",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-2",
       "github_url": "https://github.com/career-ops-hq/career-ops",
       "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
       "stars": 82831
@@ -1758,11 +1694,83 @@
     },
     {
       "name": "career-ops",
+      "slug": "career-ops-hq-career-ops-h1b-sponsor",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-h1b-sponsor",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "blurb": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an.",
+      "stars": 82831
+    },
+    {
+      "name": "career-ops",
+      "slug": "career-ops-hq-career-ops-career-ops-8",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-8",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
+      "stars": 82831
+    },
+    {
+      "name": "career-ops-plugin-apify",
+      "slug": "career-ops-hq-career-ops-plugin-apify-apify",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-plugin-apify-apify",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "blurb": "How to scan a job source through an Apify actor as a keyed provider.",
+      "stars": 82831
+    },
+    {
+      "name": "career-ops",
+      "slug": "career-ops-hq-career-ops-career-ops-9",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-9",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
+      "stars": 82831
+    },
+    {
+      "name": "career-ops",
       "slug": "career-ops-hq-career-ops-career-ops-7",
       "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-7",
       "github_url": "https://github.com/career-ops-hq/career-ops",
       "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
       "stars": 82831
+    },
+    {
+      "name": "career-ops",
+      "slug": "career-ops-hq-career-ops-career-ops-6",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-6",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
+      "stars": 82831
+    },
+    {
+      "name": "career-ops-plugin-notion",
+      "slug": "career-ops-hq-career-ops-plugin-notion-notion",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-plugin-notion-notion",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "blurb": "How to mirror the career-ops tracker to a Notion database and read records back as job leads.",
+      "stars": 82831
+    },
+    {
+      "name": "career-ops",
+      "slug": "career-ops-hq-career-ops-career-ops-3",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-3",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
+      "stars": 82831
+    },
+    {
+      "name": "career-ops",
+      "slug": "career-ops-hq-career-ops-career-ops-5",
+      "plugmcp_url": "https://plugmcp.ai/skills/career-ops-hq-career-ops-career-ops-5",
+      "github_url": "https://github.com/career-ops-hq/career-ops",
+      "blurb": "Open-source AI job search agent -- evaluate offers, generate CVs, scan portals, track applications. Use when the user pastes a job URL or.",
+      "stars": 82831
+    },
+    {
+      "name": "accelo-automation",
+      "slug": "composiohq-accelo-automation-accelo-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-accelo-automation-accelo-automation",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Accelo tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 79598
     },
     {
       "name": "abyssale-automation",
@@ -1773,27 +1781,11 @@
       "stars": 79598
     },
     {
-      "name": "canvas-design",
-      "slug": "composiohq-canvas-design-canvas-design",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-canvas-design-canvas-design",
+      "name": "accredible-certificates-automation",
+      "slug": "composiohq-accredible-certificates-automation-accredible-certificates-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-accredible-certificates-automation-accredible-certificates-automation",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a.",
-      "stars": 79598
-    },
-    {
-      "name": "-21risk-automation",
-      "slug": "composiohq--21risk-automation--21risk-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq--21risk-automation--21risk-automation",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate 21risk tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 79598
-    },
-    {
-      "name": "adyntel-automation",
-      "slug": "composiohq-adyntel-automation-adyntel-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-adyntel-automation-adyntel-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Adyntel tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Accredible Certificates tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 79598
     },
     {
@@ -1805,11 +1797,11 @@
       "stars": 79598
     },
     {
-      "name": "-2chat-automation",
-      "slug": "composiohq--2chat-automation--2chat-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq--2chat-automation--2chat-automation",
+      "name": "adobe-automation",
+      "slug": "composiohq-adobe-automation-adobe-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-adobe-automation-adobe-automation-skill",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate 2chat tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Adobe tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 79598
     },
     {
@@ -1818,22 +1810,6 @@
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-aero-workflow-automation-aero-workflow-automation-skill",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "blurb": "Automate Aero Workflow tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 79598
-    },
-    {
-      "name": "abstract-automation",
-      "slug": "composiohq-abstract-automation-abstract-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-abstract-automation-abstract-automation",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Abstract tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 79598
-    },
-    {
-      "name": "accredible-certificates-automation",
-      "slug": "composiohq-accredible-certificates-automation-accredible-certificates-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-accredible-certificates-automation-accredible-certificates-automation",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Accredible Certificates tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 79598
     },
     {
@@ -1853,27 +1829,11 @@
       "stars": 79598
     },
     {
-      "name": "acculynx-automation",
-      "slug": "composiohq-acculynx-automation-acculynx-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-acculynx-automation-acculynx-automation",
+      "name": "-21risk-automation",
+      "slug": "composiohq--21risk-automation--21risk-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq--21risk-automation--21risk-automation",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Acculynx tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 79598
-    },
-    {
-      "name": "artifacts-builder",
-      "slug": "composiohq-artifacts-builder-artifacts-builder",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-artifacts-builder-artifacts-builder",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind.",
-      "stars": 79598
-    },
-    {
-      "name": "abuselpdb-automation",
-      "slug": "composiohq-abuselpdb-automation-abuselpdb-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-abuselpdb-automation-abuselpdb-automation",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Abuselpdb tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate 21risk tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 79598
     },
     {
@@ -1885,6 +1845,38 @@
       "stars": 79598
     },
     {
+      "name": "canvas-design",
+      "slug": "composiohq-canvas-design-canvas-design",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-canvas-design-canvas-design",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a.",
+      "stars": 79598
+    },
+    {
+      "name": "adyntel-automation",
+      "slug": "composiohq-adyntel-automation-adyntel-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-adyntel-automation-adyntel-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Adyntel tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 79598
+    },
+    {
+      "name": "artifacts-builder",
+      "slug": "composiohq-artifacts-builder-artifacts-builder",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-artifacts-builder-artifacts-builder",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind.",
+      "stars": 79598
+    },
+    {
+      "name": "abstract-automation",
+      "slug": "composiohq-abstract-automation-abstract-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-abstract-automation-abstract-automation",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Abstract tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 79598
+    },
+    {
       "name": "brand-guidelines",
       "slug": "composiohq-brand-guidelines-brand-guidelines",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-brand-guidelines-brand-guidelines",
@@ -1893,11 +1885,11 @@
       "stars": 79598
     },
     {
-      "name": "adobe-automation",
-      "slug": "composiohq-adobe-automation-adobe-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-adobe-automation-adobe-automation-skill",
+      "name": "abuselpdb-automation",
+      "slug": "composiohq-abuselpdb-automation-abuselpdb-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-abuselpdb-automation-abuselpdb-automation",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Adobe tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Abuselpdb tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 79598
     },
     {
@@ -1909,6 +1901,14 @@
       "stars": 79598
     },
     {
+      "name": "-2chat-automation",
+      "slug": "composiohq--2chat-automation--2chat-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq--2chat-automation--2chat-automation",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate 2chat tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 79598
+    },
+    {
       "name": "addresszen-automation",
       "slug": "composiohq-addresszen-automation-addresszen-automation-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-addresszen-automation-addresszen-automation-skill",
@@ -1917,11 +1917,11 @@
       "stars": 79598
     },
     {
-      "name": "accelo-automation",
-      "slug": "composiohq-accelo-automation-accelo-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-accelo-automation-accelo-automation",
+      "name": "acculynx-automation",
+      "slug": "composiohq-acculynx-automation-acculynx-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-acculynx-automation-acculynx-automation",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Accelo tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Acculynx tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 79598
     },
     {
@@ -1933,11 +1933,19 @@
       "stars": 77237
     },
     {
-      "name": "ai-ml-api-automation",
-      "slug": "composiohq-ai-ml-api-automation-ai-ml-api-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-ai-ml-api-automation-ai-ml-api-automation-skill",
+      "name": "aivoov-automation",
+      "slug": "composiohq-aivoov-automation-aivoov-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-aivoov-automation-aivoov-automation-skill",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate AI ML API tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Aivoov tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
+      "name": "aeroleads-automation",
+      "slug": "composiohq-aeroleads-automation-aeroleads-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-aeroleads-automation-aeroleads-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Aeroleads tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 77233
     },
     {
@@ -1949,6 +1957,14 @@
       "stars": 77233
     },
     {
+      "name": "agiled-automation",
+      "slug": "composiohq-agiled-automation-agiled-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-agiled-automation-agiled-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Agiled tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
       "name": "algodocs-automation",
       "slug": "composiohq-algodocs-automation-algodocs-automation-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-algodocs-automation-algodocs-automation-skill",
@@ -1957,11 +1973,19 @@
       "stars": 77233
     },
     {
-      "name": "agility-cms-automation",
-      "slug": "composiohq-agility-cms-automation-agility-cms-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-agility-cms-automation-agility-cms-automation-skill",
+      "name": "affinda-automation",
+      "slug": "composiohq-affinda-automation-affinda-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-affinda-automation-affinda-automation-skill",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Agility CMS tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Affinda tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
+      "name": "ai-ml-api-automation",
+      "slug": "composiohq-ai-ml-api-automation-ai-ml-api-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-ai-ml-api-automation-ai-ml-api-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate AI ML API tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 77233
     },
     {
@@ -1973,14 +1997,6 @@
       "stars": 77233
     },
     {
-      "name": "all-images-ai-automation",
-      "slug": "composiohq-all-images-ai-automation-all-images-ai-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-all-images-ai-automation-all-images-ai-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate All Images AI tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
       "name": "agentql-automation",
       "slug": "composiohq-agentql-automation-agentql-automation-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-agentql-automation-agentql-automation-skill",
@@ -1989,27 +2005,11 @@
       "stars": 77233
     },
     {
-      "name": "alttext-ai-automation",
-      "slug": "composiohq-alttext-ai-automation-alttext-ai-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-alttext-ai-automation-alttext-ai-automation-skill",
+      "name": "apitemplate-io-automation",
+      "slug": "composiohq-apitemplate-io-automation-apitemplate-io-automation",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-apitemplate-io-automation-apitemplate-io-automation",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Alttext AI tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
-      "name": "affinity-automation",
-      "slug": "composiohq-affinity-automation-affinity-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-affinity-automation-affinity-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Affinity tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
-      "name": "ambee-automation",
-      "slug": "composiohq-ambee-automation-ambee-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-ambee-automation-ambee-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Ambee tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Apitemplate IO tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 77233
     },
     {
@@ -2053,6 +2053,14 @@
       "stars": 77233
     },
     {
+      "name": "alpha-vantage-automation",
+      "slug": "composiohq-alpha-vantage-automation-alpha-vantage-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-alpha-vantage-automation-alpha-vantage-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Alpha Vantage tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
       "name": "api-sports-automation",
       "slug": "composiohq-api-sports-automation-api-sports-automation",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-api-sports-automation-api-sports-automation",
@@ -2093,19 +2101,19 @@
       "stars": 77233
     },
     {
-      "name": "agent-mail-automation",
-      "slug": "composiohq-agent-mail-automation-agent-mail-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-agent-mail-automation-agent-mail-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Agent Mail tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
       "name": "apaleo-automation",
       "slug": "composiohq-apaleo-automation-apaleo-automation",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-apaleo-automation-apaleo-automation",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "blurb": "Automate Apaleo tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
+      "name": "agent-mail-automation",
+      "slug": "composiohq-agent-mail-automation-agent-mail-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-agent-mail-automation-agent-mail-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Agent Mail tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 77233
     },
     {
@@ -2133,14 +2141,6 @@
       "stars": 77233
     },
     {
-      "name": "aeroleads-automation",
-      "slug": "composiohq-aeroleads-automation-aeroleads-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-aeroleads-automation-aeroleads-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Aeroleads tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
       "name": "amcards-automation",
       "slug": "composiohq-amcards-automation-amcards-automation-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-amcards-automation-amcards-automation-skill",
@@ -2149,27 +2149,19 @@
       "stars": 77233
     },
     {
-      "name": "ambient-weather-automation",
-      "slug": "composiohq-ambient-weather-automation-ambient-weather-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-ambient-weather-automation-ambient-weather-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Ambient Weather tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
-      "name": "agiled-automation",
-      "slug": "composiohq-agiled-automation-agiled-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-agiled-automation-agiled-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Agiled tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
       "name": "agencyzoom-automation",
       "slug": "composiohq-agencyzoom-automation-agencyzoom-automation-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-agencyzoom-automation-agencyzoom-automation-skill",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "blurb": "Automate Agencyzoom tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
+      "name": "ambient-weather-automation",
+      "slug": "composiohq-ambient-weather-automation-ambient-weather-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-ambient-weather-automation-ambient-weather-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Ambient Weather tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 77233
     },
     {
@@ -2189,19 +2181,35 @@
       "stars": 77233
     },
     {
-      "name": "apitemplate-io-automation",
-      "slug": "composiohq-apitemplate-io-automation-apitemplate-io-automation",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-apitemplate-io-automation-apitemplate-io-automation",
+      "name": "affinity-automation",
+      "slug": "composiohq-affinity-automation-affinity-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-affinity-automation-affinity-automation-skill",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Apitemplate IO tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Affinity tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 77233
     },
     {
-      "name": "affinda-automation",
-      "slug": "composiohq-affinda-automation-affinda-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-affinda-automation-affinda-automation-skill",
+      "name": "ambee-automation",
+      "slug": "composiohq-ambee-automation-ambee-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-ambee-automation-ambee-automation-skill",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Affinda tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "blurb": "Automate Ambee tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
+      "name": "alttext-ai-automation",
+      "slug": "composiohq-alttext-ai-automation-alttext-ai-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-alttext-ai-automation-alttext-ai-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Alttext AI tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
+      "name": "agility-cms-automation",
+      "slug": "composiohq-agility-cms-automation-agility-cms-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-agility-cms-automation-agility-cms-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate Agility CMS tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 77233
     },
     {
@@ -2229,27 +2237,19 @@
       "stars": 77233
     },
     {
+      "name": "all-images-ai-automation",
+      "slug": "composiohq-all-images-ai-automation-all-images-ai-automation-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-all-images-ai-automation-all-images-ai-automation-skill",
+      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "blurb": "Automate All Images AI tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "stars": 77233
+    },
+    {
       "name": "alchemy-automation",
       "slug": "composiohq-alchemy-automation-alchemy-automation-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/composiohq-alchemy-automation-alchemy-automation-skill",
       "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "blurb": "Automate Alchemy tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
-      "name": "alpha-vantage-automation",
-      "slug": "composiohq-alpha-vantage-automation-alpha-vantage-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-alpha-vantage-automation-alpha-vantage-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Alpha Vantage tasks via Rube MCP (Composio). Always search tools first for current schemas.",
-      "stars": 77233
-    },
-    {
-      "name": "aivoov-automation",
-      "slug": "composiohq-aivoov-automation-aivoov-automation-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/composiohq-aivoov-automation-aivoov-automation-skill",
-      "github_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "blurb": "Automate Aivoov tasks via Rube MCP (Composio). Always search tools first for current schemas.",
       "stars": 77233
     },
     {
@@ -2282,7 +2282,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/squirrelscan-audit-website",
       "github_url": "https://github.com/squirrelscan/skills",
       "blurb": "Audit a website with the squirrelscan CLI or the hosted squirrelscan MCP server and fix the findings in code. Runs SEO, performance,.",
-      "stars": 75078
+      "stars": 75113
     },
     {
       "name": "browser-testing-with-devtools",
@@ -2290,7 +2290,23 @@
       "plugmcp_url": "https://plugmcp.ai/skills/addyosmani-browser-testing-with-devtools",
       "github_url": "https://github.com/addyosmani/agent-skills",
       "blurb": "Tests in real browsers via Chrome DevTools MCP. Use when building or debugging anything that runs in a browser. Use when you need to.",
-      "stars": 71485
+      "stars": 72186
+    },
+    {
+      "name": "senpi-qa",
+      "slug": "code-yeongyu-senpi-qa-senpi-qa",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-senpi-qa-senpi-qa",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "QA the omo Senpi adapter (packages/omo-senpi, packages/senpi-task) against the REAL senpi binary in strict isolation, and write every.",
+      "stars": 70933
+    },
+    {
+      "name": "lcx-report-bug",
+      "slug": "code-yeongyu-lcx-report-bug-lcx-report-bug-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-lcx-report-bug-lcx-report-bug-skill",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "Create a high-signal bug issue or PR in the repo that owns the defect. Use this whenever the user asks to report, file, open, or triage a.",
+      "stars": 70933
     },
     {
       "name": "security-research",
@@ -2301,19 +2317,19 @@
       "stars": 70933
     },
     {
-      "name": "pre-publish-review",
-      "slug": "code-yeongyu-pre-publish-review-pre-publish-review",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-pre-publish-review-pre-publish-review",
+      "name": "lcx-doctor",
+      "slug": "code-yeongyu-lcx-doctor-lcx-doctor-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-lcx-doctor-lcx-doctor-skill",
       "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Nuclear-grade 12-agent pre-publish release gate. Runs /get-unpublished-changes to detect all changes since last npm release, spawns up to.",
+      "blurb": "Diagnose LazyCodex and Codex CLI installation health against the latest sources. Use whenever the user asks for a doctor or health check,.",
       "stars": 70933
     },
     {
-      "name": "comment-checker",
-      "slug": "code-yeongyu-comment-checker-comment-checker-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-comment-checker-comment-checker-skill",
+      "name": "publish",
+      "slug": "code-yeongyu-publish-publish",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-publish-publish",
       "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Use when Codex needs to understand or respond to automatic comment-checker feedback emitted after an edit-like PostToolUse hook.",
+      "blurb": "Publish oh-my-opencode to npm by triggering the GitHub Actions publish workflow and verifying its artifacts. Ship-only: never runs.",
       "stars": 70933
     },
     {
@@ -2333,22 +2349,6 @@
       "stars": 70933
     },
     {
-      "name": "remove-deadcode",
-      "slug": "code-yeongyu-remove-deadcode-remove-deadcode",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-remove-deadcode-remove-deadcode",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Remove unused code from this project with ultrawork mode, LSP-verified safety, atomic commits. Triggers: remove dead code, dead code,.",
-      "stars": 70933
-    },
-    {
-      "name": "omomomo",
-      "slug": "code-yeongyu-omomomo-omomomo",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-omomomo-omomomo",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Easter egg command - about oh-my-opencode. Triggers: omomomo, about, easter egg.",
-      "stars": 70933
-    },
-    {
       "name": "github-triage",
       "slug": "code-yeongyu-github-triage-github-triage",
       "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-github-triage-github-triage",
@@ -2357,11 +2357,27 @@
       "stars": 70933
     },
     {
+      "name": "pre-publish-review",
+      "slug": "code-yeongyu-pre-publish-review-pre-publish-review",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-pre-publish-review-pre-publish-review",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "Nuclear-grade 12-agent pre-publish release gate. Runs /get-unpublished-changes to detect all changes since last npm release, spawns up to.",
+      "stars": 70933
+    },
+    {
       "name": "hyperplan",
       "slug": "code-yeongyu-hyperplan-hyperplan",
       "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-hyperplan-hyperplan",
       "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
       "blurb": "Adversarial multi-agent planning skill. Self-orchestrates 5 hostile category members (unspecified-low, unspecified-high, deep, ultrabrain,.",
+      "stars": 70933
+    },
+    {
+      "name": "omomomo",
+      "slug": "code-yeongyu-omomomo-omomomo",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-omomomo-omomomo",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "Easter egg command - about oh-my-opencode. Triggers: omomomo, about, easter egg.",
       "stars": 70933
     },
     {
@@ -2381,51 +2397,19 @@
       "stars": 70933
     },
     {
+      "name": "comment-checker",
+      "slug": "code-yeongyu-comment-checker-comment-checker-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-comment-checker-comment-checker-skill",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "Use when Codex needs to understand or respond to automatic comment-checker feedback emitted after an edit-like PostToolUse hook.",
+      "stars": 70933
+    },
+    {
       "name": "work-with-pr",
       "slug": "code-yeongyu-work-with-pr-work-with-pr-2-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-work-with-pr-work-with-pr-2-skill",
       "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
       "blurb": "Full PR lifecycle in a fresh task-owned git worktree: implement via the ulw-loop skill with mandatory evidence-bound manual QA →.",
-      "stars": 70933
-    },
-    {
-      "name": "tech-debt-audit",
-      "slug": "code-yeongyu-tech-debt-audit-tech-debt-audit",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-tech-debt-audit-tech-debt-audit",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Thorough, file-cited technical debt audit across 9 dimensions using AST-grep (tree-sitter), grep, LSP, and language-native tooling..",
-      "stars": 70933
-    },
-    {
-      "name": "publish",
-      "slug": "code-yeongyu-publish-publish",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-publish-publish",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Publish oh-my-opencode to npm by triggering the GitHub Actions publish workflow and verifying its artifacts. Ship-only: never runs.",
-      "stars": 70933
-    },
-    {
-      "name": "github-triage",
-      "slug": "code-yeongyu-github-triage-github-triage-2-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-github-triage-github-triage-2-skill",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Read-only GitHub triage for issues AND PRs. 1 item = 1 background task (category: quick). Analyzes all open items and writes.",
-      "stars": 70933
-    },
-    {
-      "name": "lcx-doctor",
-      "slug": "code-yeongyu-lcx-doctor-lcx-doctor-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-lcx-doctor-lcx-doctor-skill",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Diagnose LazyCodex and Codex CLI installation health against the latest sources. Use whenever the user asks for a doctor or health check,.",
-      "stars": 70933
-    },
-    {
-      "name": "senpi-qa",
-      "slug": "code-yeongyu-senpi-qa-senpi-qa",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-senpi-qa-senpi-qa",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "QA the omo Senpi adapter (packages/omo-senpi, packages/senpi-task) against the REAL senpi binary in strict isolation, and write every.",
       "stars": 70933
     },
     {
@@ -2437,11 +2421,19 @@
       "stars": 70933
     },
     {
-      "name": "lcx-report-bug",
-      "slug": "code-yeongyu-lcx-report-bug-lcx-report-bug-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-lcx-report-bug-lcx-report-bug-skill",
+      "name": "github-triage",
+      "slug": "code-yeongyu-github-triage-github-triage-2-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-github-triage-github-triage-2-skill",
       "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Create a high-signal bug issue or PR in the repo that owns the defect. Use this whenever the user asks to report, file, open, or triage a.",
+      "blurb": "Read-only GitHub triage for issues AND PRs. 1 item = 1 background task (category: quick). Analyzes all open items and writes.",
+      "stars": 70933
+    },
+    {
+      "name": "tech-debt-audit",
+      "slug": "code-yeongyu-tech-debt-audit-tech-debt-audit",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-tech-debt-audit-tech-debt-audit",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "Thorough, file-cited technical debt audit across 9 dimensions using AST-grep (tree-sitter), grep, LSP, and language-native tooling..",
       "stars": 70933
     },
     {
@@ -2450,6 +2442,14 @@
       "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-pre-publish-review-pre-publish-review-2-skill",
       "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
       "blurb": "Nuclear-grade 12-agent pre-publish release gate. Runs /get-unpublished-changes to detect all changes since last npm release, spawns up to.",
+      "stars": 70933
+    },
+    {
+      "name": "remove-deadcode",
+      "slug": "code-yeongyu-remove-deadcode-remove-deadcode",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-remove-deadcode-remove-deadcode",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "Remove unused code from this project with ultrawork mode, LSP-verified safety, atomic commits. Triggers: remove dead code, dead code,.",
       "stars": 70933
     },
     {
@@ -2474,14 +2474,6 @@
       "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-ulw-loop-ulw-loop-skill",
       "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
       "blurb": "A goal-like loop that decomposes work into systematic, evidence-bound ultrawork steps. Use when the user wants a goal loop or durable,.",
-      "stars": 70105
-    },
-    {
-      "name": "init-deep",
-      "slug": "code-yeongyu-init-deep-init-deep-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-init-deep-init-deep-skill",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "Initializes a hierarchical AGENTS.md knowledge base for a project. Use when a repo needs its structure, commands, and conventions.",
       "stars": 70105
     },
     {
@@ -2597,14 +2589,6 @@
       "stars": 70105
     },
     {
-      "name": "oh-my-openagent",
-      "slug": "code-yeongyu-oh-my-openagent-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-oh-my-openagent-skill",
-      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "blurb": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-      "stars": 70105
-    },
-    {
       "name": "git-master",
       "slug": "code-yeongyu-git-master-git-master",
       "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-git-master-git-master",
@@ -2709,6 +2693,14 @@
       "stars": 70105
     },
     {
+      "name": "init-deep",
+      "slug": "code-yeongyu-init-deep-init-deep-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-init-deep-init-deep-skill",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "Initializes a hierarchical AGENTS.md knowledge base for a project. Use when a repo needs its structure, commands, and conventions.",
+      "stars": 70105
+    },
+    {
       "name": "teammode",
       "slug": "code-yeongyu-teammode-teammode-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-teammode-teammode-skill",
@@ -2733,6 +2725,14 @@
       "stars": 70105
     },
     {
+      "name": "oh-my-openagent",
+      "slug": "code-yeongyu-oh-my-openagent-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/code-yeongyu-oh-my-openagent-skill",
+      "github_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "blurb": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+      "stars": 70105
+    },
+    {
       "name": "momentic-result-classification",
       "slug": "momentic-ai-momentic-result-classification",
       "plugmcp_url": "https://plugmcp.ai/skills/momentic-ai-momentic-result-classification",
@@ -2754,15 +2754,7 @@
       "plugmcp_url": "https://plugmcp.ai/skills/mvanhorn-last30days",
       "github_url": "https://github.com/mvanhorn/last30days-skill",
       "blurb": "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker.",
-      "stars": 62442
-    },
-    {
-      "name": "ai-seo",
-      "slug": "coreyhaines31-ai-seo-ai-seo",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-ai-seo-ai-seo",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to get cited and recommended in AI answers (ChatGPT, Perplexity, AI Overviews), or asks why AI cites a competitor,.",
-      "stars": 59817
+      "stars": 62887
     },
     {
       "name": "cro",
@@ -2770,30 +2762,6 @@
       "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-cro-cro-skill",
       "github_url": "https://github.com/coreyhaines31/marketingskills",
       "blurb": "When the user wants more conversions from a page or form, or asks why a page isn't converting, what to change first, or whether to add or.",
-      "stars": 59817
-    },
-    {
-      "name": "aso",
-      "slug": "coreyhaines31-aso-aso",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-aso-aso",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to audit or optimize an App Store or Google Play listing, or asks which title, keywords, or screenshots to pick or why.",
-      "stars": 59817
-    },
-    {
-      "name": "ads",
-      "slug": "coreyhaines31-ads-ads",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-ads-ads",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to plan, run, or fix paid ads on Google, Meta, and LinkedIn, or asks a judgement call on them: are ads worth it, which.",
-      "stars": 59817
-    },
-    {
-      "name": "copy-editing",
-      "slug": "coreyhaines31-copy-editing-copy-editing-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-copy-editing-copy-editing-skill",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to edit, tighten, proofread, or refresh existing copy, or asks whether to keep, cut, or change a line in it, without.",
       "stars": 59817
     },
     {
@@ -2805,99 +2773,11 @@
       "stars": 59817
     },
     {
-      "name": "conversion-tracking",
-      "slug": "coreyhaines31-conversion-tracking-conversion-tracking-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-conversion-tracking-conversion-tracking-skill",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to set up, audit, or fix conversion tracking to Google Ads, Meta, GA4, LinkedIn, and TikTok, or asks why conversions.",
-      "stars": 59817
-    },
-    {
-      "name": "ab-testing",
-      "slug": "coreyhaines31-ab-testing-ab-testing",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-ab-testing-ab-testing",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to plan, run, or read A/B tests, or asks a judgement call on one: is the result real, can we stop, which version won,.",
-      "stars": 59817
-    },
-    {
-      "name": "competitors",
-      "slug": "coreyhaines31-competitors-competitors-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-competitors-competitors-skill",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to create or audit comparison and alternative pages ('X vs Y', 'X alternative', 'best X alternatives'), or asks what a.",
-      "stars": 59817
-    },
-    {
-      "name": "directory-submissions",
-      "slug": "coreyhaines31-directory-submissions-directory-submissions-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-directory-submissions-directory-submissions-skill",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to list a product in startup, SaaS, AI, MCP, and review directories, or asks which directories are worth it or whether.",
-      "stars": 59817
-    },
-    {
       "name": "copywriting",
       "slug": "coreyhaines31-copywriting-copywriting-skill",
       "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-copywriting-copywriting-skill",
       "github_url": "https://github.com/coreyhaines31/marketingskills",
       "blurb": "When the user wants to write or rewrite page copy (homepage, landing, pricing, feature), or asks which headline, promise, or message to.",
-      "stars": 59817
-    },
-    {
-      "name": "competitor-profiling",
-      "slug": "coreyhaines31-competitor-profiling-competitor-profiling-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-competitor-profiling-competitor-profiling-skill",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to research competitors into dated profiles, or asks what a rival charges, claims, or is doing, or whether a.",
-      "stars": 59817
-    },
-    {
-      "name": "churn-prevention",
-      "slug": "coreyhaines31-churn-prevention-churn-prevention",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-churn-prevention-churn-prevention",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to reduce churn, or asks why customers cancel, whether to offer a discount or pause: cancellation flows, exit surveys,.",
-      "stars": 59817
-    },
-    {
-      "name": "ad-creative",
-      "slug": "coreyhaines31-ad-creative-ad-creative",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-ad-creative-ad-creative",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to write or judge ad creative, or asks which ad, hook, or angle to run or kill: headlines, primary text, and.",
-      "stars": 59817
-    },
-    {
-      "name": "content-strategy",
-      "slug": "coreyhaines31-content-strategy-content-strategy-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-content-strategy-content-strategy-skill",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to plan content, or asks which topic or piece to prioritize, what to write about, or why posts bring no customers:.",
-      "stars": 59817
-    },
-    {
-      "name": "co-marketing",
-      "slug": "coreyhaines31-co-marketing-co-marketing",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-co-marketing-co-marketing",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants co-marketing partners or joint campaigns, or asks whether a partner fits, a size mismatch matters, or how to split.",
-      "stars": 59817
-    },
-    {
-      "name": "cold-email",
-      "slug": "coreyhaines31-cold-email-cold-email",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-cold-email-cold-email",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to write or run B2B cold outbound, or asks whether an opener, reason to reach out, or email works or why nobody.",
-      "stars": 59817
-    },
-    {
-      "name": "community-marketing",
-      "slug": "coreyhaines31-community-marketing-community-marketing",
-      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-community-marketing-community-marketing",
-      "github_url": "https://github.com/coreyhaines31/marketingskills",
-      "blurb": "When the user wants to build or grow an online community, or asks whether a community is worth it, where to host it, or why members stay.",
       "stars": 59817
     },
     {
@@ -2909,11 +2789,131 @@
       "stars": 59817
     },
     {
+      "name": "copy-editing",
+      "slug": "coreyhaines31-copy-editing-copy-editing-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-copy-editing-copy-editing-skill",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to edit, tighten, proofread, or refresh existing copy, or asks whether to keep, cut, or change a line in it, without.",
+      "stars": 59817
+    },
+    {
+      "name": "churn-prevention",
+      "slug": "coreyhaines31-churn-prevention-churn-prevention",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-churn-prevention-churn-prevention",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to reduce churn, or asks why customers cancel, whether to offer a discount or pause: cancellation flows, exit surveys,.",
+      "stars": 59817
+    },
+    {
+      "name": "aso",
+      "slug": "coreyhaines31-aso-aso",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-aso-aso",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to audit or optimize an App Store or Google Play listing, or asks which title, keywords, or screenshots to pick or why.",
+      "stars": 59817
+    },
+    {
+      "name": "conversion-tracking",
+      "slug": "coreyhaines31-conversion-tracking-conversion-tracking-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-conversion-tracking-conversion-tracking-skill",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to set up, audit, or fix conversion tracking to Google Ads, Meta, GA4, LinkedIn, and TikTok, or asks why conversions.",
+      "stars": 59817
+    },
+    {
+      "name": "directory-submissions",
+      "slug": "coreyhaines31-directory-submissions-directory-submissions-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-directory-submissions-directory-submissions-skill",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to list a product in startup, SaaS, AI, MCP, and review directories, or asks which directories are worth it or whether.",
+      "stars": 59817
+    },
+    {
       "name": "attribution",
       "slug": "coreyhaines31-attribution-attribution",
       "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-attribution-attribution",
       "github_url": "https://github.com/coreyhaines31/marketingskills",
       "blurb": "When the user wants to work out which marketing drives revenue, or asks whether a channel is really working, which numbers to trust, or.",
+      "stars": 59817
+    },
+    {
+      "name": "ai-seo",
+      "slug": "coreyhaines31-ai-seo-ai-seo",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-ai-seo-ai-seo",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to get cited and recommended in AI answers (ChatGPT, Perplexity, AI Overviews), or asks why AI cites a competitor,.",
+      "stars": 59817
+    },
+    {
+      "name": "competitors",
+      "slug": "coreyhaines31-competitors-competitors-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-competitors-competitors-skill",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to create or audit comparison and alternative pages ('X vs Y', 'X alternative', 'best X alternatives'), or asks what a.",
+      "stars": 59817
+    },
+    {
+      "name": "competitor-profiling",
+      "slug": "coreyhaines31-competitor-profiling-competitor-profiling-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-competitor-profiling-competitor-profiling-skill",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to research competitors into dated profiles, or asks what a rival charges, claims, or is doing, or whether a.",
+      "stars": 59817
+    },
+    {
+      "name": "ad-creative",
+      "slug": "coreyhaines31-ad-creative-ad-creative",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-ad-creative-ad-creative",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to write or judge ad creative, or asks which ad, hook, or angle to run or kill: headlines, primary text, and.",
+      "stars": 59817
+    },
+    {
+      "name": "cold-email",
+      "slug": "coreyhaines31-cold-email-cold-email",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-cold-email-cold-email",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to write or run B2B cold outbound, or asks whether an opener, reason to reach out, or email works or why nobody.",
+      "stars": 59817
+    },
+    {
+      "name": "content-strategy",
+      "slug": "coreyhaines31-content-strategy-content-strategy-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-content-strategy-content-strategy-skill",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to plan content, or asks which topic or piece to prioritize, what to write about, or why posts bring no customers:.",
+      "stars": 59817
+    },
+    {
+      "name": "community-marketing",
+      "slug": "coreyhaines31-community-marketing-community-marketing",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-community-marketing-community-marketing",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to build or grow an online community, or asks whether a community is worth it, where to host it, or why members stay.",
+      "stars": 59817
+    },
+    {
+      "name": "co-marketing",
+      "slug": "coreyhaines31-co-marketing-co-marketing",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-co-marketing-co-marketing",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants co-marketing partners or joint campaigns, or asks whether a partner fits, a size mismatch matters, or how to split.",
+      "stars": 59817
+    },
+    {
+      "name": "ab-testing",
+      "slug": "coreyhaines31-ab-testing-ab-testing",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-ab-testing-ab-testing",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to plan, run, or read A/B tests, or asks a judgement call on one: is the result real, can we stop, which version won,.",
+      "stars": 59817
+    },
+    {
+      "name": "ads",
+      "slug": "coreyhaines31-ads-ads",
+      "plugmcp_url": "https://plugmcp.ai/skills/coreyhaines31-ads-ads",
+      "github_url": "https://github.com/coreyhaines31/marketingskills",
+      "blurb": "When the user wants to plan, run, or fix paid ads on Google, Meta, and LinkedIn, or asks a judgement call on them: are ads worth it, which.",
       "stars": 59817
     },
     {
@@ -2941,28 +2941,12 @@
       "stars": 57398
     },
     {
-      "name": "ask-emil",
-      "slug": "emilkowalski-ask-emil-ask-emil",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-ask-emil-ask-emil",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
-      "stars": 57277
-    },
-    {
-      "name": "learn-taste",
-      "slug": "emilkowalski-learn-taste-learn-taste-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-learn-taste-learn-taste-skill",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Turn a session's design corrections into rules, with their why, in DESIGN.md, a project skill, or a lint check.",
-      "stars": 57277
-    },
-    {
-      "name": "animate",
-      "slug": "emilkowalski-animate-animate",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-animate-animate",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what.",
-      "stars": 57277
+      "name": "seo-geo",
+      "slug": "resciencelab-seo-geo",
+      "plugmcp_url": "https://plugmcp.ai/skills/resciencelab-seo-geo",
+      "github_url": "https://github.com/resciencelab/opc-skills",
+      "blurb": "SEO & GEO (Generative Engine Optimization) for websites. Analyze keywords, generate schema markup, optimize for AI search engines.",
+      "stars": 57333
     },
     {
       "name": "animation-vocabulary",
@@ -2970,14 +2954,6 @@
       "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-animation-vocabulary-animation-vocabulary",
       "github_url": "https://github.com/emilkowalski/skills",
       "blurb": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a.",
-      "stars": 57277
-    },
-    {
-      "name": "animate-expo",
-      "slug": "emilkowalski-animate-expo-animate-expo",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-animate-expo-animate-expo",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Build animations in React Native and Expo, making the decisions in the order that determines whether they feel right — should it animate,.",
       "stars": 57277
     },
     {
@@ -2989,11 +2965,67 @@
       "stars": 57277
     },
     {
-      "name": "choreograph",
-      "slug": "emilkowalski-choreograph-choreograph-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-choreograph-choreograph-skill",
+      "name": "improve-animations",
+      "slug": "emilkowalski-improve-animations-improve-animations-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-improve-animations-improve-animations-skill",
       "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a.",
+      "blurb": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained.",
+      "stars": 57277
+    },
+    {
+      "name": "mobile-native",
+      "slug": "emilkowalski-mobile-native-mobile-native-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-mobile-native-mobile-native-skill",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels.",
+      "stars": 57277
+    },
+    {
+      "name": "ask-sonner",
+      "slug": "emilkowalski-ask-sonner-ask-sonner",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-ask-sonner-ask-sonner",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Guide to Sonner, the React toast library — install and wire up the Toaster, pick the right toast() call, promise and loading toasts,.",
+      "stars": 57277
+    },
+    {
+      "name": "pick-ui-library",
+      "slug": "emilkowalski-pick-ui-library-pick-ui-library-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-pick-ui-library-pick-ui-library-skill",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Pick the library for a frontend task from a curated list — primitives, toasts, drawers, command menus, OTP, numbers, charts,.",
+      "stars": 57277
+    },
+    {
+      "name": "gestures",
+      "slug": "emilkowalski-gestures-gestures-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-gestures-gestures-skill",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible. Use when building or fixing anything the user.",
+      "stars": 57277
+    },
+    {
+      "name": "animate-expo",
+      "slug": "emilkowalski-animate-expo-animate-expo",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-animate-expo-animate-expo",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Build animations in React Native and Expo, making the decisions in the order that determines whether they feel right — should it animate,.",
+      "stars": 57277
+    },
+    {
+      "name": "prototype",
+      "slug": "emilkowalski-prototype-prototype-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-prototype-prototype-skill",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Build multiple genuinely different versions of a UI piece you describe, rendered behind a visual picker so you can flip through them live.",
+      "stars": 57277
+    },
+    {
+      "name": "learn-taste",
+      "slug": "emilkowalski-learn-taste-learn-taste-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-learn-taste-learn-taste-skill",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Turn a session's design corrections into rules, with their why, in DESIGN.md, a project skill, or a lint check.",
       "stars": 57277
     },
     {
@@ -3013,75 +3045,11 @@
       "stars": 57277
     },
     {
-      "name": "remove-animations",
-      "slug": "emilkowalski-remove-animations-remove-animations-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-remove-animations-remove-animations-skill",
+      "name": "choreograph",
+      "slug": "emilkowalski-choreograph-choreograph-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-choreograph-choreograph-skill",
       "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and.",
-      "stars": 57277
-    },
-    {
-      "name": "write-swift",
-      "slug": "emilkowalski-write-swift-write-swift-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-write-swift-write-swift-skill",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "How to write modern Swift well — modeling with value types, Swift 6 data-race safety and approachable concurrency (@concurrent,.",
-      "stars": 57277
-    },
-    {
-      "name": "break-ui",
-      "slug": "emilkowalski-break-ui-break-ui-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-break-ui-break-ui-skill",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts,.",
-      "stars": 57277
-    },
-    {
-      "name": "gestures",
-      "slug": "emilkowalski-gestures-gestures-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-gestures-gestures-skill",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible. Use when building or fixing anything the user.",
-      "stars": 57277
-    },
-    {
-      "name": "prototype",
-      "slug": "emilkowalski-prototype-prototype-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-prototype-prototype-skill",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Build multiple genuinely different versions of a UI piece you describe, rendered behind a visual picker so you can flip through them live.",
-      "stars": 57277
-    },
-    {
-      "name": "apple-design",
-      "slug": "emilkowalski-apple-design-apple-design",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-apple-design-apple-design",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI,.",
-      "stars": 57277
-    },
-    {
-      "name": "improve-animations",
-      "slug": "emilkowalski-improve-animations-improve-animations-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-improve-animations-improve-animations-skill",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a prioritized audit and self-contained.",
-      "stars": 57277
-    },
-    {
-      "name": "pick-ui-library",
-      "slug": "emilkowalski-pick-ui-library-pick-ui-library-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-pick-ui-library-pick-ui-library-skill",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Pick the library for a frontend task from a curated list — primitives, toasts, drawers, command menus, OTP, numbers, charts,.",
-      "stars": 57277
-    },
-    {
-      "name": "mobile-native",
-      "slug": "emilkowalski-mobile-native-mobile-native-skill",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-mobile-native-mobile-native-skill",
-      "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a website in a browser\" from something that feels.",
+      "blurb": "Coordinate several elements that animate together — decide what moves, in what order, how much they overlap, and what stays still — so a.",
       "stars": 57277
     },
     {
@@ -3093,67 +3061,59 @@
       "stars": 57277
     },
     {
-      "name": "ask-sonner",
-      "slug": "emilkowalski-ask-sonner-ask-sonner",
-      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-ask-sonner-ask-sonner",
+      "name": "ask-emil",
+      "slug": "emilkowalski-ask-emil-ask-emil",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-ask-emil-ask-emil",
       "github_url": "https://github.com/emilkowalski/skills",
-      "blurb": "Guide to Sonner, the React toast library — install and wire up the Toaster, pick the right toast() call, promise and loading toasts,.",
+      "blurb": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
       "stars": 57277
     },
     {
-      "name": "seo-geo",
-      "slug": "resciencelab-seo-geo",
-      "plugmcp_url": "https://plugmcp.ai/skills/resciencelab-seo-geo",
-      "github_url": "https://github.com/resciencelab/opc-skills",
-      "blurb": "SEO & GEO (Generative Engine Optimization) for websites. Analyze keywords, generate schema markup, optimize for AI search engines.",
-      "stars": 57179
+      "name": "break-ui",
+      "slug": "emilkowalski-break-ui-break-ui-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-break-ui-break-ui-skill",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails, one-letter names, missing fields, huge counts,.",
+      "stars": 57277
     },
     {
-      "name": "cellxgene-census",
-      "slug": "k-dense-ai-cellxgene-census-cellxgene-census",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-cellxgene-census-cellxgene-census",
-      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "Queries the CZ CELLxGENE Census programmatically for versioned public single-cell and spatial transcriptomics data. Use when you need.",
-      "stars": 56628
+      "name": "write-swift",
+      "slug": "emilkowalski-write-swift-write-swift-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-write-swift-write-swift-skill",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "How to write modern Swift well — modeling with value types, Swift 6 data-race safety and approachable concurrency (@concurrent,.",
+      "stars": 57277
     },
     {
-      "name": "aeon",
-      "slug": "k-dense-ai-aeon-aeon",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-aeon-aeon",
-      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "This skill should be used for time series machine learning tasks including classification, regression, clustering, forecasting, anomaly.",
-      "stars": 56628
+      "name": "remove-animations",
+      "slug": "emilkowalski-remove-animations-remove-animations-skill",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-remove-animations-remove-animations-skill",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Find the animations an interface doesn't need and remove them — motion on keyboard actions, high-frequency surfaces, functional data, and.",
+      "stars": 57277
     },
     {
-      "name": "arboreto",
-      "slug": "k-dense-ai-arboreto-arboreto",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-arboreto-arboreto",
-      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "Infers candidate gene regulatory networks from bulk or single-cell expression data using AertsLab Arboreto GRNBoost2 and GENIE3. Use for.",
-      "stars": 56628
+      "name": "animate",
+      "slug": "emilkowalski-animate-animate",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-animate-animate",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Build an animation from scratch, making the decisions in the order that determines whether it feels right — should it animate at all, what.",
+      "stars": 57277
     },
     {
-      "name": "arbor",
-      "slug": "k-dense-ai-arbor-arbor",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-arbor-arbor",
-      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "Applies Arbor Hypothesis Tree Refinement to research artifacts with repeatable evaluators, including model training, agent harnesses, data.",
-      "stars": 56628
+      "name": "apple-design",
+      "slug": "emilkowalski-apple-design-apple-design",
+      "plugmcp_url": "https://plugmcp.ai/skills/emilkowalski-apple-design-apple-design",
+      "github_url": "https://github.com/emilkowalski/skills",
+      "blurb": "Apple's approach to interface design and fluid, physical motion, translated for the web. Use when building or reviewing gesture-driven UI,.",
+      "stars": 57277
     },
     {
-      "name": "autoskill",
-      "slug": "k-dense-ai-autoskill-autoskill",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-autoskill-autoskill",
+      "name": "cirq",
+      "slug": "k-dense-ai-cirq-cirq",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-cirq-cirq",
       "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "Analyzes user-requested Screenpipe history windows to detect repeated research workflows, match existing scientific skills, and stage new.",
-      "stars": 56628
-    },
-    {
-      "name": "benchling-integration",
-      "slug": "k-dense-ai-benchling-integration-benchling-integration",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-benchling-integration-benchling-integration",
-      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "Benchling Python SDK and REST API integration for registry entities, inventory, ELN entries, workflows, Benchling Apps, and Data Warehouse.",
+      "blurb": "Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-aware circuits, or running quantum.",
       "stars": 56628
     },
     {
@@ -3165,11 +3125,67 @@
       "stars": 56628
     },
     {
-      "name": "cirq",
-      "slug": "k-dense-ai-cirq-cirq",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-cirq-cirq",
+      "name": "aeon",
+      "slug": "k-dense-ai-aeon-aeon",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-aeon-aeon",
       "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-aware circuits, or running quantum.",
+      "blurb": "This skill should be used for time series machine learning tasks including classification, regression, clustering, forecasting, anomaly.",
+      "stars": 56628
+    },
+    {
+      "name": "cellxgene-census",
+      "slug": "k-dense-ai-cellxgene-census-cellxgene-census",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-cellxgene-census-cellxgene-census",
+      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "blurb": "Queries the CZ CELLxGENE Census programmatically for versioned public single-cell and spatial transcriptomics data. Use when you need.",
+      "stars": 56628
+    },
+    {
+      "name": "benchling-integration",
+      "slug": "k-dense-ai-benchling-integration-benchling-integration",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-benchling-integration-benchling-integration",
+      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "blurb": "Benchling Python SDK and REST API integration for registry entities, inventory, ELN entries, workflows, Benchling Apps, and Data Warehouse.",
+      "stars": 56628
+    },
+    {
+      "name": "autoskill",
+      "slug": "k-dense-ai-autoskill-autoskill",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-autoskill-autoskill",
+      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "blurb": "Analyzes user-requested Screenpipe history windows to detect repeated research workflows, match existing scientific skills, and stage new.",
+      "stars": 56628
+    },
+    {
+      "name": "arbor",
+      "slug": "k-dense-ai-arbor-arbor",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-arbor-arbor",
+      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "blurb": "Applies Arbor Hypothesis Tree Refinement to research artifacts with repeatable evaluators, including model training, agent harnesses, data.",
+      "stars": 56628
+    },
+    {
+      "name": "arboreto",
+      "slug": "k-dense-ai-arboreto-arboreto",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-arboreto-arboreto",
+      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "blurb": "Infers candidate gene regulatory networks from bulk or single-cell expression data using AertsLab Arboreto GRNBoost2 and GENIE3. Use for.",
+      "stars": 56628
+    },
+    {
+      "name": "cellprofiler",
+      "slug": "k-dense-ai-cellprofiler-cellprofiler",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-cellprofiler-cellprofiler",
+      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "blurb": "Runs reproducible CellProfiler microscopy pipelines for nuclear segmentation, cell counts, and per-object fluorescence measurements..",
+      "stars": 56628
+    },
+    {
+      "name": "cantera",
+      "slug": "k-dense-ai-cantera-cantera",
+      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-cantera-cantera",
+      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "blurb": "Runs Cantera homogeneous chemical reactors and evaluates ignition delay with mechanism provenance, conservation checks, and numerical.",
       "stars": 56628
     },
     {
@@ -3186,22 +3202,6 @@
       "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-alphagenome-alphagenome",
       "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "blurb": "Looks up precomputed AlphaGenome Atlas effects for any GRCh38 single-nucleotide variant (AVI score with Phred and 18 SHAP feature.",
-      "stars": 56628
-    },
-    {
-      "name": "adaptyv",
-      "slug": "k-dense-ai-adaptyv-adaptyv",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-adaptyv-adaptyv",
-      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "Uses the Adaptyv Bio Foundry API and Python SDK to design protein characterization experiments, estimate costs, submit sequences, monitor.",
-      "stars": 56628
-    },
-    {
-      "name": "cantera",
-      "slug": "k-dense-ai-cantera-cantera",
-      "plugmcp_url": "https://plugmcp.ai/skills/k-dense-ai-cantera-cantera",
-      "github_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "blurb": "Runs Cantera homogeneous chemical reactors and evaluates ignition delay with mechanism provenance, conservation checks, and numerical.",
       "stars": 56628
     }
   ]

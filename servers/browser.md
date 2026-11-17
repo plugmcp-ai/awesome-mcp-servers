@@ -22,6 +22,7 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [Windows](https://plugmcp.ai/mcp/cursortouch-windows-mcp) · [repo](https://github.com/CursorTouch/Windows-MCP) — Windows-MCP Windows-MCP is a lightweight, open-source project that enables seamless integration between AI agents and the Windows. · Cursor, Claude
 - [Windows](https://plugmcp.ai/mcp/cursortouch-windows-mcp-mcpso) · [repo](https://github.com/CursorTouch/Windows-MCP) — Windows-MCP Windows-MCP is a lightweight, open-source project that enables seamless integration between AI agents and the Windows. · Cursor, Claude
+- [Skill Seekers](https://plugmcp.ai/mcp/yusufkaraaslan-skill_seekers) · [repo](https://github.com/yusufkaraaslan/Skill_Seekers) — 99% faster — days of manual data prep → 15–45 minutes. Real skill quality — 500+ line SKILL.md files with examples, patterns, and guides.. · Cursor, Claude
 - [Ego Lite](https://plugmcp.ai/mcp/citrolabs-ego-lite) · [repo](https://github.com/citrolabs/ego-lite) — The fastest browser for AI agents to run web automation English · 简体中文 · 日本語 · 한국어 · Português · Español · Français · Italiano · Русский. · Cursor, Claude
 - [SeleniumBase](https://plugmcp.ai/mcp/seleniumbase-seleniumbase) · [repo](https://github.com/seleniumbase/SeleniumBase) — SeleniumBase One framework for browser automation, web scraping, and testing. Includes stealth options for bypassing bot-detection and. · Cursor, Claude
 - [Browser MCP](https://plugmcp.ai/mcp/browsermcp-mcp) · [repo](https://github.com/BrowserMCP/mcp) — Fast: Automation happens locally on your machine, resulting in better performance without network latency.. Private: Since automation. · Cursor, Claude
@@ -42,13 +43,13 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
   `npx -y @executeautomation/playwright-mcp-server@1.0.12`
 - [Fetcher](https://plugmcp.ai/mcp/jae-jae-fetcher-mcp) · [repo](https://github.com/jae-jae/fetcher-mcp) — fetch_url - Retrieve web page content from a specified URL. fetch_urls - Batch retrieve web page content from multiple URLs in parallel.. · local, Cursor, Claude
   `npx -y fetcher-mcp@0.4.1`
+- [Opentabs](https://plugmcp.ai/mcp/opentabs-dev-opentabs) · [repo](https://github.com/opentabs-dev/opentabs) — &middot; &middot; Your AI calls real web APIs through your browser session — no screenshots, no DOM scraping. AI sending a Discord message. · Cursor, Claude
 - [Awesome MCP Servers](https://plugmcp.ai/mcp/yuzehao2023-awesome-mcp-servers) · [repo](https://github.com/YuzeHao2023/Awesome-MCP-Servers) — A curated list of Model Context Protocol (MCP) servers ![](asserts/logo1.png) # Awesome MCP Servers. · remote, Cursor, Claude, VS Code
   `remote https://www.reddit.com/r/mcp`
 - [Fetcher](https://plugmcp.ai/mcp/jae-jae-fetcher-mcp-mcpso) · [repo](https://github.com/jae-jae/fetcher-mcp) — fetch_url - Retrieve web page content from a specified URL. fetch_urls - Batch retrieve web page content from multiple URLs in parallel.. · local, Cursor, Claude
   `npx -y fetcher-mcp@0.4.1`
 - [Brightdata](https://plugmcp.ai/mcp/brightdata-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp) — Bright Data MCP Web search, page scraping, structured data extraction, and browser automation for AI agents and LLMs over the Model. · Cursor, Claude, VS Code
+- [Browser Use](https://plugmcp.ai/mcp/kontext-security-browser-use-mcp-server) · [repo](https://github.com/kontext-security/browser-use-mcp-server) — Browse the web, directly from Cursor etc. · Cursor, Claude, VS Code
+- [Gemini Skill](https://plugmcp.ai/mcp/wjz-p-gemini-skill) · [repo](https://github.com/WJZ-P/gemini-skill) — gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图. · Cursor, Claude, VS Code
+- [MCP Pointer](https://plugmcp.ai/mcp/etsd-tech-mcp-pointer) · [repo](https://github.com/etsd-tech/mcp-pointer) — MCP tool: let you point at DOM elements for your favorite agentic coding tool. Let AI see what you see. · Cursor, Claude, VS Code
 - [Web Agent Protocol](https://plugmcp.ai/mcp/ota-tech-ai-web-agent-protocol) · [repo](https://github.com/OTA-Tech-AI/web-agent-protocol) — 🌐Web Agent Protocol (WAP) - Record and replay user interactions in the browser with MCP support · Cursor, Claude, VS Code
-- [Mcpc](https://plugmcp.ai/mcp/apify-mcpc) · [repo](https://github.com/apify/mcpc) — The most compatible MCP CLI client. Supports: tools, resources, prompts, completions, async tasks, skills, stdio and streamable HTTP (MCP. · remote, Cursor, Claude, VS Code
-  `remote https://mcp.apify.com`
-- [PlugMCP Browser](https://plugmcp.ai/mcp/plugmcp-browser) · [repo](https://github.com/demo55oo/usher) — WebMCP tools in the tab you are already logged into. Local stdio MCP plus a Chrome extension. · local, Cursor, Claude
-  `npx -y usher`
