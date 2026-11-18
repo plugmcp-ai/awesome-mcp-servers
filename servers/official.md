@@ -78,7 +78,7 @@ Published by the product they connect to. Full list index: [README](../README.md
   `npx -y wigolo@0.2.1`
 - [Unreal Engine](https://plugmcp.ai/mcp/io.github.chir24-unreal-engine-mcp) · [repo](https://github.com/ChiR24/Unreal_mcp.git) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, local, Cursor, Claude
   `npx -y unreal-engine-mcp-server@0.6.1-beta-b`
-- [Grandet](https://plugmcp.ai/mcp/io.github.hanzohanzhe-grandet) · [repo](https://github.com/hanzohanzhe/Grandet) — Cheapest API for any model across official, inference and relay providers; find free credits # Grandet: find the cheapest API for any. · official, remote, Cursor, Claude, VS Code
-  `remote https://grandet.ai/mcp`
-- [XERJ](https://plugmcp.ai/mcp/io.github.xerj-org-xerj) · [repo](https://github.com/xerj-org/xerj) — XERJ | | | | | | The search engine for AI, now with XERJ Query-1: a model that turns your question into a small program over facts you. · official, local, Cursor, Claude
-  `mcpb https://github.com/xerj-org/xerj/releases/download/mcpb-v1.0.0-rc.99/xerj-mcp-1.0.0-rc.99.mcpb@1.0.0-rc.99`
+- [Unbrowse](https://plugmcp.ai/mcp/io.github.unbrowse-ai-unbrowse) · [repo](https://github.com/unbrowse-ai/unbrowse) — Websites as APIs: read pages, run site tasks via learned APIs, cloud browser with saved logins. # Unbrowse Unbrowse is the open-source CLI. · official, remote, Cursor, Claude, VS Code
+  `remote https://unbrowse.ai/mcp`
+- [Comfyui](https://plugmcp.ai/mcp/io.github.artokun-comfyui-mcp) · [repo](https://github.com/artokun/comfyui-mcp) — MCP server + Claude Code plugin for ComfyUI: run workflows, generate images, manage models & VRAM. # comfyui-mcp — drive ComfyUI with ANY. · official, local, Cursor, Claude
+  `npx -y comfyui-mcp@0.52.206`

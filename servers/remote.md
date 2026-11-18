@@ -42,6 +42,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://mcp.tigerdata.com/docs`
 - [Hyperresearch Answers](https://plugmcp.ai/mcp/ai.hyperresearch-answers) · [repo](https://github.com/jordan-gibbs/hyperresearch-answers) — One question, one checked answer: quote-verified answers from the web and ~45 structured sources. # Hyperresearch Answers (MCP) <img. · official, remote, Cursor, Claude, VS Code
   `remote https://answers.hyperresearch.ai/mcp`
+- [Unbrowse](https://plugmcp.ai/mcp/io.github.unbrowse-ai-unbrowse) · [repo](https://github.com/unbrowse-ai/unbrowse) — Websites as APIs: read pages, run site tasks via learned APIs, cloud browser with saved logins. # Unbrowse Unbrowse is the open-source CLI. · official, remote, Cursor, Claude, VS Code
+  `remote https://unbrowse.ai/mcp`
 - [Excalidraw](https://plugmcp.ai/mcp/excalidraw-excalidraw-mcp) · [repo](https://github.com/excalidraw/excalidraw-mcp) — Official Excalidraw MCP App. Your agent draws hand-drawn diagrams live in the chat, and you can edit them full screen. No account needed.. · remote, Cursor, Claude, VS Code
   `remote https://mcp.excalidraw.com/mcp`
 - [Headroom](https://plugmcp.ai/mcp/headroomlabs-ai-headroom) · [repo](https://github.com/headroomlabs-ai/headroom) — Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the. · remote, Cursor, Claude, VS Code
@@ -80,5 +82,3 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://{openmetadata_host}/mcp`
 - [Upshift](https://plugmcp.ai/mcp/com.upshiftsites-mcp) · [repo](https://github.com/samerdwykat-cmyk/upshift-mcp) — Audit a site's structured data and llms.txt, match a trade to a template, and quote real prices. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.upshiftsites.com/mcp`
-- [Pm Claude Skills](https://plugmcp.ai/mcp/io.github.mohitagw15856-pm-claude-skills) · [repo](https://github.com/mohitagw15856/pm-claude-skills) — 1310 professional Agent Skills + workflow recipes — searchable & fetchable over MCP. <sub>**English** · [简体中文](README.zh-CN.md) ·. · official, remote, Cursor, Claude, VS Code
-  `remote https://pm-skills-mcp.pm-claude-skills.workers.dev/mcp`
