@@ -21,7 +21,7 @@ Published by the product they connect to. Full list index: [README](../README.md
 - [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.secforge-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude
   `npx -y @secforge/chrome-devtools-mcp@1.10.1004`
 - [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents. · official, local, Cursor, Claude, VS Code
-  `npx -y notion-mcp-server@3.4.0`
+  `npx -y notion-mcp-server@3.5.0`
 - [Apify MCP Server](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.apify.com/`
 - [Github](https://plugmcp.ai/mcp/io.github.dave-london-github) · [repo](https://github.com/Dave-London/Pare) — Pare Reliable, structured CLI output for AI agents — no more parsing fragile terminal text. Pare provides servers that wrap common. · official, local, Cursor, Claude, VS Code
@@ -78,7 +78,7 @@ Published by the product they connect to. Full list index: [README](../README.md
   `npx -y wigolo@0.2.1`
 - [Unreal Engine](https://plugmcp.ai/mcp/io.github.chir24-unreal-engine-mcp) · [repo](https://github.com/ChiR24/Unreal_mcp.git) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, local, Cursor, Claude
   `npx -y unreal-engine-mcp-server@0.6.1-beta-b`
-- [Unbrowse](https://plugmcp.ai/mcp/io.github.unbrowse-ai-unbrowse) · [repo](https://github.com/unbrowse-ai/unbrowse) — Websites as APIs: read pages, run site tasks via learned APIs, cloud browser with saved logins. # Unbrowse Unbrowse is the open-source CLI. · official, remote, Cursor, Claude, VS Code
-  `remote https://unbrowse.ai/mcp`
+- [Memorix](https://plugmcp.ai/mcp/io.github.avids2-memorix) · [repo](https://github.com/AVIDS2/memorix) — Memorix Local-first shared memory layer for AI coding agents. One project memory system for Claude Code, Codex, CodeBuddy Code, Cursor,. · official, local, Cursor, Claude
+  `npx -y memorix@1.10.2`
 - [Comfyui](https://plugmcp.ai/mcp/io.github.artokun-comfyui-mcp) · [repo](https://github.com/artokun/comfyui-mcp) — MCP server + Claude Code plugin for ComfyUI: run workflows, generate images, manage models & VRAM. # comfyui-mcp — drive ComfyUI with ANY. · official, local, Cursor, Claude
   `npx -y comfyui-mcp@0.52.206`

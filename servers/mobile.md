@@ -25,3 +25,4 @@ iOS, Android, and device farms. Full list index: [README](../README.md).
 - [Shadcn Ui](https://plugmcp.ai/mcp/jpisnice-shadcn-ui-mcp-server-github) · [repo](https://github.com/Jpisnice/shadcn-ui-mcp-server) — Multi-Framework Support - React, Svelte, Vue, and React Native implementations. Component Source Code - Latest shadcn/ui v4 TypeScript. · remote, Cursor, Claude, VS Code
   `remote https://code.claude.com/docs/en/mcp`
 - [React Native](https://plugmcp.ai/mcp/mrnitro360-react-native-mcp) · [repo](https://github.com/MrNitro360/React-Native-MCP) — A Model Context Protocol (MCP) server providing comprehensive guidance and best practices for React Native development based on official. · Cursor, Claude, VS Code
+- [Disrobe](https://plugmcp.ai/mcp/1-3-7-disrobe) · [repo](https://github.com/1-3-7/disrobe) — Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python decompiler (3.8-3.15), PyInstaller. · Cursor, Claude, VS Code

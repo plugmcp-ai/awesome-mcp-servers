@@ -66,10 +66,10 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://server.smithery.ai/@ref-tools/ref-tools-mcp/mcp`
 - [Atlassian Rovo MCP Server](https://plugmcp.ai/mcp/com.atlassian-atlassian-mcp-server) · [repo](https://github.com/atlassian/atlassian-mcp-server) — Atlassian MCP Server The official Model Context Protocol (MCP) server for Atlassian: a cloud-hosted bridge that gives your AI tools. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.atlassian.com/v2/mcp`
-- [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
-  `remote https://server.smithery.ai/@ChiR24/unreal_mcp/mcp`
 - [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp_server) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@ChiR24/unreal_mcp_server/mcp`
+- [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
+  `remote https://server.smithery.ai/@ChiR24/unreal_mcp/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [MCP Cli](https://plugmcp.ai/mcp/philschmid-mcp-cli) · [repo](https://github.com/philschmid/mcp-cli) — Lightweight - Minimal dependencies, fast startup. Single Binary - Compile to standalone executable via bun build --compile. Shell-Friendly. · remote, Cursor, Claude, VS Code
