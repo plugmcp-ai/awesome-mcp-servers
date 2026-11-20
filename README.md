@@ -13,7 +13,7 @@
   <a href="https://github.com/plugmcp-ai/awesome-mcp-servers/stargazers"><img src="https://img.shields.io/github/stars/plugmcp-ai/awesome-mcp-servers?style=flat" alt="GitHub stars" /></a>
   <a href="https://plugmcp.ai/mcp"><img src="https://img.shields.io/badge/directory-plugmcp.ai-111111" alt="PlugMCP directory" /></a>
   <a href="https://plugmcp.ai/mcp/submit"><img src="https://img.shields.io/badge/submit-server-0a7" alt="Submit a server" /></a>
-  <img src="https://img.shields.io/badge/updated-2026-11-19-informational" alt="Updated 2026-11-19" />
+  <img src="https://img.shields.io/badge/updated-2026-11-20-informational" alt="Updated 2026-11-20" />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
   <a href="CONTRIBUTING.md">Contribute</a>
 </p>
 
-Ranked MCP servers you can install in Cursor, Claude, and VS Code, checked against the PlugMCP directory. This repo keeps the usable shelf (~270 servers in markdown, 900 in the machine catalog, 400 skills). Search the full index at [plugmcp.ai/mcp](https://plugmcp.ai/mcp).
+Ranked MCP servers you can install in Cursor, Claude, and VS Code, checked against the PlugMCP directory. This repo keeps the usable shelf (~272 servers in markdown, 900 in the machine catalog, 400 skills). Search the full index at [plugmcp.ai/mcp](https://plugmcp.ai/mcp).
 
-Updated 2026-11-19. Submit on PlugMCP first, then open a catalog PR — see [CONTRIBUTING.md](CONTRIBUTING.md).
+Updated 2026-11-20. Submit on PlugMCP first, then open a catalog PR — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Start here
 
@@ -117,13 +117,15 @@ Machine catalog: [catalog/servers.json](catalog/servers.json) · [catalog/skills
 
 ## New this week
 
+- [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl) · [repo](https://github.com/firecrawl/firecrawl) — Search: Find information across the web. Scrape: Clean data from any page. Interact: Click, navigate, and operate pages · Cursor, Claude
 - [Paseo](https://plugmcp.ai/mcp/getpaseo-paseo) · [repo](https://github.com/getpaseo/paseo) — Paseo English · 简体中文 · 日本語 · 한국어 One interface for Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity, and Muse Code agents. Paseo is. · Cursor, Claude
 - [Electric Pglite](https://plugmcp.ai/mcp/electric-sql-electric-pglite) · [repo](https://github.com/electric-sql/electric-pglite) — PGlite - the WASM build of Postgres from Electric . Build reactive, realtime, local-first apps directly on Postgres. --> · Cursor, Claude
 - [Garden Skills](https://plugmcp.ai/mcp/conardli-garden-skills) · [repo](https://github.com/ConardLi/garden-skills) — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. <div align="center"> #. · Cursor, Claude
-- [Omniget](https://plugmcp.ai/mcp/tonhowtf-omniget) · [repo](https://github.com/tonhowtf/omniget) — OmniGet is a free, open source (GPL-3.0) desktop app for Windows, macOS and Linux. It downloads video, audio, images, torrents and files. · Cursor, Claude
 - [Pinky](https://plugmcp.ai/mcp/diygod-pinky) · [repo](https://github.com/DIYgod/pinky) — Pinky Let AI use your iPhone or Android phone, with you in the loop: any agent from macOS, Windows or Linux, or Pinky itself, right on the. · Cursor, Claude
 - [Emp3r0r](https://plugmcp.ai/mcp/jm33-m0-emp3r0r) · [repo](https://github.com/jm33-m0/emp3r0r) — Stealthy, Linux-first multi-operator C2 with a self-healing mesh, in-memory execution, and an AI-driven MCP assistant. # emp3r0r <img. · Cursor, Claude
-- [Playwright](https://plugmcp.ai/mcp/oss-invisible-playwright_mcp) · [repo](https://github.com/oss-invisible/playwright_mcp) — Other AI browser agents get captchas. This one is invisible to anti-bots. Sponsored --- · Cursor, Claude
+- [Blender Ai MCP Addon](https://plugmcp.ai/mcp/bookwjitchieni1986-blender-ai-mcp-addon) · [repo](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama,. · Cursor, Claude
+- [Crucible](https://plugmcp.ai/mcp/codepawl-crucible) · [repo](https://github.com/codepawl/crucible) — Realtime 3D for the web, shaped by designers and AI agents Website · Docs · Showcase · Guide for agents · Changelog · Discussions. · local, Cursor, Claude
+  `npx -y @codepawlhq/crucible@0.21.0`
 - [MCP Adapter](https://plugmcp.ai/mcp/wordpress-mcp-adapter-mcpso) · [repo](https://github.com/WordPress/mcp-adapter) — Ability-to-MCP conversion — WordPress abilities automatically become MCP , , and. Multi-server management — run multiple MCP servers, each. · Cursor, Claude
 - [Docker MCP Tutorial](https://plugmcp.ai/mcp/thenetworkchuck-docker-mcp-tutorial) · [repo](https://github.com/theNetworkChuck/docker-mcp-tutorial) — Complete tutorial materials for building MCP servers with Docker - from NetworkChuck's video # 🚀 Docker MCP Tutorial - Build AI Tools. · Cursor, Claude
 - [Motion Skills](https://plugmcp.ai/mcp/iart-ai-motion-skills) · [repo](https://github.com/iart-ai/motion-skills) — 56 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz,. · Cursor, Claude, VS Code
@@ -131,6 +133,8 @@ Machine catalog: [catalog/servers.json](catalog/servers.json) · [catalog/skills
   `remote https://mcp.omophub.com`
 - [Reeling MCP](https://plugmcp.ai/mcp/reeling-mcp) · [repo](https://github.com/yomariano/reeling-mcp) — Reeling's official MCP server connects agents to Reeling projects and channels, then prepares reviewed social publishing actions. It. · remote, Cursor, Claude, VS Code
   `remote https://mcp.reeling.app/mcp`
+- [Geonode MCP Server](https://plugmcp.ai/mcp/geonode-mcp-server) · [repo](https://github.com/geonodecom/mcp) — Give MCP-compatible AI assistants web search and content collection tools. Extract pages, discover URLs, crawl sites and run batches for. · remote, Cursor, Claude, VS Code
+  `remote https://mcp.geonode.com/mcp`
 
 ## Browse on PlugMCP
 

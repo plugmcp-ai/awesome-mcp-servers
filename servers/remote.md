@@ -62,10 +62,10 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://api.cloud.vexa.ai/mcp`
 - [Luminati Io Brightdata](https://plugmcp.ai/mcp/ai.smithery-luminati-io-brightdata-mcp) · [repo](https://github.com/brightdata/brightdata-mcp-sse) — One MCP for the Web. Easily search, crawl, navigate, and extract websites without getting blocked.… · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@luminati-io/brightdata-mcp/mcp`
-- [Ref Tools Ref Tools](https://plugmcp.ai/mcp/ai.smithery-ref-tools-ref-tools-mcp) · [repo](https://github.com/ref-tools/ref-tools-mcp) — Provide your AI coding tools with token-efficient access to up-to-date technical documentation for… [![Documentation for your. · official, remote, Cursor, Claude, VS Code
-  `remote https://server.smithery.ai/@ref-tools/ref-tools-mcp/mcp`
 - [Atlassian Rovo MCP Server](https://plugmcp.ai/mcp/com.atlassian-atlassian-mcp-server) · [repo](https://github.com/atlassian/atlassian-mcp-server) — Atlassian MCP Server The official Model Context Protocol (MCP) server for Atlassian: a cloud-hosted bridge that gives your AI tools. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.atlassian.com/v2/mcp`
+- [Ref Tools Ref Tools](https://plugmcp.ai/mcp/ai.smithery-ref-tools-ref-tools-mcp) · [repo](https://github.com/ref-tools/ref-tools-mcp) — Provide your AI coding tools with token-efficient access to up-to-date technical documentation for… [![Documentation for your. · official, remote, Cursor, Claude, VS Code
+  `remote https://server.smithery.ai/@ref-tools/ref-tools-mcp/mcp`
 - [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp_server) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@ChiR24/unreal_mcp_server/mcp`
 - [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code

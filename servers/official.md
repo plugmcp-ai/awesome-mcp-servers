@@ -49,7 +49,7 @@ Published by the product they connect to. Full list index: [README](../README.md
 - [AgentRQ](https://plugmcp.ai/mcp/io.github.agentrq-agentrq) · [repo](https://github.com/agentrq/agentrq) — Multi-Workspace Management: List, create, and update workspaces.. Global Task View: Fetch tasks from all workspaces in a single call. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.agentrq.com/mcp`
 - [Zotero MCP](https://plugmcp.ai/mcp/io.github.54yyyu-zotero-mcp) · [repo](https://github.com/54yyyu/zotero-mcp) — Zotero MCP: Chat with your Research Library in Claude, ChatGPT, and more Your Zotero library, in every AI agent. Search, read, cite and. · official, local, Cursor, Claude, VS Code
-  `uvx zotero-mcp-server==0.17.2`
+  `uvx zotero-mcp-server==0.17.3`
 - [Strata](https://plugmcp.ai/mcp/ai.klavis-strata) · [repo](https://github.com/Klavis-AI/klavis) — MCP server for progressive tool usage at any scale (see https://klavis.ai) · official, remote, Cursor, Claude, VS Code
   `remote https://strata.klavis.ai/mcp/`
 - [Finance Toolkit](https://plugmcp.ai/mcp/io.github.jerbouma-financetoolkit) · [repo](https://github.com/JerBouma/FinanceToolkit) — While browsing a variety of websites, I repeatedly observed significant fluctuations in the same financial metric among different sources.. · official, remote, Cursor, Claude, VS Code
@@ -79,6 +79,6 @@ Published by the product they connect to. Full list index: [README](../README.md
 - [Unreal Engine](https://plugmcp.ai/mcp/io.github.chir24-unreal-engine-mcp) · [repo](https://github.com/ChiR24/Unreal_mcp.git) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, local, Cursor, Claude
   `npx -y unreal-engine-mcp-server@0.6.1-beta-b`
 - [Memorix](https://plugmcp.ai/mcp/io.github.avids2-memorix) · [repo](https://github.com/AVIDS2/memorix) — Memorix Local-first shared memory layer for AI coding agents. One project memory system for Claude Code, Codex, CodeBuddy Code, Cursor,. · official, local, Cursor, Claude
-  `npx -y memorix@1.10.2`
+  `npx -y memorix@1.10.4`
 - [Comfyui](https://plugmcp.ai/mcp/io.github.artokun-comfyui-mcp) · [repo](https://github.com/artokun/comfyui-mcp) — MCP server + Claude Code plugin for ComfyUI: run workflows, generate images, manage models & VRAM. # comfyui-mcp — drive ComfyUI with ANY. · official, local, Cursor, Claude
   `npx -y comfyui-mcp@0.52.206`
