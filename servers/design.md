@@ -2,6 +2,8 @@
 
 Figma, assets, and design systems. Full list index: [README](../README.md).
 
+- [Mind Map MCP](https://plugmcp.ai/mcp/mindmap-mcp) · [repo](https://github.com/plugmcp-ai/mindmap-mcp) — Turn long answers into mind maps and flowcharts inside the chat. Edit, restyle and comment; the AI updates the same diagram. · local, Cursor, Claude, VS Code
+  `npx -y mindmap-mcp`
 - [Figma MCP Bridge](https://plugmcp.ai/mcp/gethopp-figma-mcp-bridge) · [repo](https://github.com/gethopp/figma-mcp-bridge) — Figma Plugin & MCP server to bypass API limits · Cursor, Claude, VS Code
 - [Open Design](https://plugmcp.ai/mcp/nexu-io-open-design) · [repo](https://github.com/nexu-io/open-design) — OpenDesign: The 1st Collaborative AI Design Agent Workspace > — Go credits are doubled: $8 for your first month, with up to $120 in. · Cursor, Claude
 - [Archify](https://plugmcp.ai/mcp/tt-a1i-archify) · [repo](https://github.com/tt-a1i/archify) — Turn anything you want to understand, plan, or share into an interactive visual. Official channels： archify.si · GitHub Archify is free. · Cursor, Claude
@@ -33,4 +35,3 @@ Figma, assets, and design systems. Full list index: [README](../README.md).
   `npx -y cursor-talk-to-figma-mcp@0.3.5`
 - [MCP Excalidraw](https://plugmcp.ai/mcp/yctimlin-mcp_excalidraw) · [repo](https://github.com/yctimlin/mcp_excalidraw) — MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with. · local, Cursor, Claude
   `npx -y mcp-excalidraw-server@2.1.2`
-- [Drawio](https://plugmcp.ai/mcp/lgazo-drawio-mcp-server) · [repo](https://github.com/lgazo/drawio-mcp-server) — Claude Code plugin: /plugin marketplace add lgazo/drawio-mcp-server then /plugin install drawio, with /drawio-open and /drawio-status. · Cursor, Claude

@@ -12,7 +12,7 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://api.githubcopilot.com/mcp/`
 - [Exa](https://plugmcp.ai/mcp/ai.exa-exa) · [repo](https://github.com/exa-labs/exa-mcp-server) — Exa MCP Server Connect AI agents to Exa for web search, content fetching, and multi-step research. Documentation · NPM Package · Get your. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.exa.ai/mcp`
-- [Apify MCP Server](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
+- [Apify](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.apify.com/`
 - [MCP Server Cloudflare](https://plugmcp.ai/mcp/com.cloudflare.mcp-mcp) · [repo](https://github.com/cloudflare/mcp-server-cloudflare) — Cloudflare MCP servers # Cloudflare MCP Server Model Context Protocol (MCP) is a [new, standardized. · official, remote, Cursor, Claude, VS Code
   `remote https://docs.mcp.cloudflare.com/mcp`
@@ -66,10 +66,12 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://mcp.atlassian.com/v2/mcp`
 - [Ref Tools Ref Tools](https://plugmcp.ai/mcp/ai.smithery-ref-tools-ref-tools-mcp) · [repo](https://github.com/ref-tools/ref-tools-mcp) — Provide your AI coding tools with token-efficient access to up-to-date technical documentation for… [![Documentation for your. · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@ref-tools/ref-tools-mcp/mcp`
-- [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp_server) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
-  `remote https://server.smithery.ai/@ChiR24/unreal_mcp_server/mcp`
 - [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
   `remote https://server.smithery.ai/@ChiR24/unreal_mcp/mcp`
+- [ChiR24 Unreal](https://plugmcp.ai/mcp/ai.smithery-chir24-unreal_mcp_server) · [repo](https://github.com/ChiR24/Unreal_mcp) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, remote, Cursor, Claude, VS Code
+  `remote https://server.smithery.ai/@ChiR24/unreal_mcp_server/mcp`
+- [Hyperbrowserai](https://plugmcp.ai/mcp/hyperbrowserai-mcp) · [repo](https://github.com/hyperbrowserai/mcp) — A MCP server implementation for hyperbrowser # Hyperbrowser MCP Server [![smithery. · remote, Cursor, Claude, VS Code
+  `remote https://smithery.ai/server/@hyperbrowserai/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [MCP Cli](https://plugmcp.ai/mcp/philschmid-mcp-cli) · [repo](https://github.com/philschmid/mcp-cli) — Lightweight - Minimal dependencies, fast startup. Single Binary - Compile to standalone executable via bun build --compile. Shell-Friendly. · remote, Cursor, Claude, VS Code
@@ -80,5 +82,3 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://ui.vision/mcp`
 - [OpenMetadata](https://plugmcp.ai/mcp/io.github.open-metadata-openmetadata-mcp) · [repo](https://github.com/open-metadata/OpenMetadata) — What does this metric mean and how is it calculated?. Which datasets power this dashboard?. Who owns this data product? · official, remote, Cursor, Claude, VS Code
   `remote https://{openmetadata_host}/mcp`
-- [Upshift](https://plugmcp.ai/mcp/com.upshiftsites-mcp) · [repo](https://github.com/samerdwykat-cmyk/upshift-mcp) — Audit a site's structured data and llms.txt, match a trade to a template, and quote real prices. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.upshiftsites.com/mcp`

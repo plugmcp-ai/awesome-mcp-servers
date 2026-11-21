@@ -22,7 +22,7 @@ Published by the product they connect to. Full list index: [README](../README.md
   `npx -y @secforge/chrome-devtools-mcp@1.10.1004`
 - [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents. · official, local, Cursor, Claude, VS Code
   `npx -y notion-mcp-server@3.5.0`
-- [Apify MCP Server](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
+- [Apify](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.apify.com/`
 - [Github](https://plugmcp.ai/mcp/io.github.dave-london-github) · [repo](https://github.com/Dave-London/Pare) — Pare Reliable, structured CLI output for AI agents — no more parsing fragile terminal text. Pare provides servers that wrap common. · official, local, Cursor, Claude, VS Code
   `npx -y @paretools/github@0.7.1`

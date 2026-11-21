@@ -19,6 +19,8 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [Douyin TikTok Download API](https://plugmcp.ai/mcp/evil0ctal-douyin_tiktok_download_api) · [repo](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) — Douyin_TikTok_Download_API | A self-hosted data API for and . One docker compose up, an identity pool that maintains itself, and a REST. · Cursor, Claude
 - [Cua](https://plugmcp.ai/mcp/trycua-cua) · [repo](https://github.com/trycua/cua) — Combine your existing computers into one supercomputer. Cua Spaces: your computers, shared by your team and its agents. This repository. · Cursor, Claude
 - [MCP Chrome](https://plugmcp.ai/mcp/hangwin-mcp-chrome) · [repo](https://github.com/hangwin/mcp-chrome) — A New Visual Editor for Claude Code & Codex, for more detail here:. Chatbot/Model Agnostic: Let any LLM or chatbot client or agent you. · Cursor, Claude
+- [Hyperbrowserai](https://plugmcp.ai/mcp/hyperbrowserai-mcp) · [repo](https://github.com/hyperbrowserai/mcp) — A MCP server implementation for hyperbrowser # Hyperbrowser MCP Server [![smithery. · remote, Cursor, Claude, VS Code
+  `remote https://smithery.ai/server/@hyperbrowserai/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [Windows](https://plugmcp.ai/mcp/cursortouch-windows-mcp) · [repo](https://github.com/CursorTouch/Windows-MCP) — Windows-MCP Windows-MCP is a lightweight, open-source project that enables seamless integration between AI agents and the Windows. · Cursor, Claude
@@ -28,6 +30,8 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [SeleniumBase](https://plugmcp.ai/mcp/seleniumbase-seleniumbase) · [repo](https://github.com/seleniumbase/SeleniumBase) — SeleniumBase One framework for browser automation, web scraping, and testing. Includes stealth options for bypassing bot-detection and. · Cursor, Claude
 - [Browser MCP](https://plugmcp.ai/mcp/browsermcp-mcp) · [repo](https://github.com/BrowserMCP/mcp) — Fast: Automation happens locally on your machine, resulting in better performance without network latency.. Private: Since automation. · Cursor, Claude
 - [Browser Tools](https://plugmcp.ai/mcp/agentdeskai-browser-tools-mcp) · [repo](https://github.com/AgentDeskAI/browser-tools-mcp) — Monitor browser logs directly from Cursor and other MCP compatible IDEs. # BrowserTools MCP Give your AI coding agent eyes on the browser.. · Cursor, Claude
+- [Playwright Cli](https://plugmcp.ai/mcp/microsoft-playwright-cli) · [repo](https://github.com/microsoft/playwright-cli) — Token-efficient. Does not force page data into LLM. · local, Cursor, Claude
+  `npx -y @playwright/cli@0.1.25`
 - [Stealth Browser](https://plugmcp.ai/mcp/vibheksoni-stealth-browser-mcp) · [repo](https://github.com/vibheksoni/stealth-browser-mcp) — Anti-bot resistance - Has passed Cloudflare and Queue-It style challenges in testing; results vary by site, region, browser version, and. · Cursor, Claude
 - [Js Reverse](https://plugmcp.ai/mcp/zhizhuodemao-js-reverse-mcp) · [repo](https://github.com/zhizhuodemao/js-reverse-mcp) — AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。 # JS Reverse MCP [English](README_en.md) |. · local, Cursor, Claude
   `npx -y js-reverse-mcp@4.0.5`
@@ -49,7 +53,3 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [Browser Use](https://plugmcp.ai/mcp/kontext-security-browser-use-mcp-server) · [repo](https://github.com/kontext-security/browser-use-mcp-server) — [x] Browser Automation: Control browsers through AI agents. [x] Dual Transport: Support for both SSE and stdio protocols. [x] VNC. · Cursor, Claude
 - [Gemini Skill](https://plugmcp.ai/mcp/wjz-p-gemini-skill) · [repo](https://github.com/WJZ-P/gemini-skill) — gemini drawing MCP & skill through browser, can be used in openclaw or any agent that supports MCP. Gemini画图. · Cursor, Claude
 - [BossConsole](https://plugmcp.ai/mcp/risa-labs-inc-bossconsole) · [repo](https://github.com/risa-labs-inc/BossConsole) — Open-source, multi-platform harness for AI agents - a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code,. · Cursor, Claude
-- [Awesome MCP Servers](https://plugmcp.ai/mcp/yuzehao2023-awesome-mcp-servers) · [repo](https://github.com/YuzeHao2023/Awesome-MCP-Servers) — A curated list of Model Context Protocol (MCP) servers ![](asserts/logo1.png) # Awesome MCP Servers. · remote, Cursor, Claude, VS Code
-  `remote https://www.reddit.com/r/mcp`
-- [Fetcher](https://plugmcp.ai/mcp/jae-jae-fetcher-mcp-mcpso) · [repo](https://github.com/jae-jae/fetcher-mcp) — fetch_url - Retrieve web page content from a specified URL. fetch_urls - Batch retrieve web page content from multiple URLs in parallel.. · local, Cursor, Claude
-  `npx -y fetcher-mcp@0.4.1`
