@@ -2,7 +2,7 @@
   "updated": "2026-11-21",
   "source": "https://github.com/plugmcp-ai/awesome-mcp-servers",
   "directory": "https://plugmcp.ai/mcp",
-  "count": 900,
+  "count": 901,
   "servers": [
     {
       "name": "Context7",
@@ -11703,6 +11703,19 @@
       "stars": 1072,
       "quality": 21,
       "install": "remote https://mcp.apify.com"
+    },
+    {
+      "name": "Kling AI China Plugin",
+      "slug": "kling-ai-china-plugin",
+      "shelf": "official-core",
+      "plugmcp_url": "https://plugmcp.ai/mcp/kling-ai-china-plugin",
+      "github_url": "https://github.com/klingai-tech/claude-plugin-cn",
+      "blurb": "Official remote MCP Plugin for Kling AI image and video tools with a China account; OAuth sign-in and generation using China Kling credits.",
+      "official": true,
+      "remote": true,
+      "stars": 0,
+      "quality": 10,
+      "install": "remote https://klingai.com/mcp/plugin"
     }
   ]
 }
