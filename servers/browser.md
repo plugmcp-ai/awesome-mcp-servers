@@ -30,8 +30,7 @@ Browsers, scraping, and web automation. Full list index: [README](../README.md).
 - [SeleniumBase](https://plugmcp.ai/mcp/seleniumbase-seleniumbase) · [repo](https://github.com/seleniumbase/SeleniumBase) — SeleniumBase One framework for browser automation, web scraping, and testing. Includes stealth options for bypassing bot-detection and. · Cursor, Claude
 - [Browser MCP](https://plugmcp.ai/mcp/browsermcp-mcp) · [repo](https://github.com/BrowserMCP/mcp) — Fast: Automation happens locally on your machine, resulting in better performance without network latency.. Private: Since automation. · Cursor, Claude
 - [Browser Tools](https://plugmcp.ai/mcp/agentdeskai-browser-tools-mcp) · [repo](https://github.com/AgentDeskAI/browser-tools-mcp) — Monitor browser logs directly from Cursor and other MCP compatible IDEs. # BrowserTools MCP Give your AI coding agent eyes on the browser.. · Cursor, Claude
-- [Playwright Cli](https://plugmcp.ai/mcp/microsoft-playwright-cli) · [repo](https://github.com/microsoft/playwright-cli) — Token-efficient. Does not force page data into LLM. · local, Cursor, Claude
-  `npx -y @playwright/cli@0.1.25`
+- [Playwright Cli](https://plugmcp.ai/mcp/microsoft-playwright-cli) · [repo](https://github.com/microsoft/playwright-cli) — Token-efficient. Does not force page data into LLM. · Cursor, Claude
 - [Stealth Browser](https://plugmcp.ai/mcp/vibheksoni-stealth-browser-mcp) · [repo](https://github.com/vibheksoni/stealth-browser-mcp) — Anti-bot resistance - Has passed Cloudflare and Queue-It style challenges in testing; results vary by site, region, browser version, and. · Cursor, Claude
 - [Js Reverse](https://plugmcp.ai/mcp/zhizhuodemao-js-reverse-mcp) · [repo](https://github.com/zhizhuodemao/js-reverse-mcp) — AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。 # JS Reverse MCP [English](README_en.md) |. · local, Cursor, Claude
   `npx -y js-reverse-mcp@4.0.5`

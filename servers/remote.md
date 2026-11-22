@@ -38,10 +38,10 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://financetoolkit.jeroenbouma.com/mcp`
 - [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.tradingmcp.ai/mcp`
-- [Pg Aiguide](https://plugmcp.ai/mcp/io.github.timescale-pg-aiguide) · [repo](https://github.com/timescale/pg-aiguide) — missing constraints and indexes. unaware of modern PG features. inconsistent with real-world best practices · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.tigerdata.com/docs`
 - [Hyperresearch Answers](https://plugmcp.ai/mcp/ai.hyperresearch-answers) · [repo](https://github.com/jordan-gibbs/hyperresearch-answers) — One question, one checked answer: quote-verified answers from the web and ~45 structured sources. # Hyperresearch Answers (MCP) <img. · official, remote, Cursor, Claude, VS Code
   `remote https://answers.hyperresearch.ai/mcp`
+- [Pg Aiguide](https://plugmcp.ai/mcp/io.github.timescale-pg-aiguide) · [repo](https://github.com/timescale/pg-aiguide) — missing constraints and indexes. unaware of modern PG features. inconsistent with real-world best practices · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.tigerdata.com/docs`
 - [Unbrowse](https://plugmcp.ai/mcp/io.github.unbrowse-ai-unbrowse) · [repo](https://github.com/unbrowse-ai/unbrowse) — Websites as APIs: read pages, run site tasks via learned APIs, cloud browser with saved logins. # Unbrowse Unbrowse is the open-source CLI. · official, remote, Cursor, Claude, VS Code
   `remote https://unbrowse.ai/mcp`
 - [Excalidraw](https://plugmcp.ai/mcp/excalidraw-excalidraw-mcp) · [repo](https://github.com/excalidraw/excalidraw-mcp) — Official Excalidraw MCP App. Your agent draws hand-drawn diagrams live in the chat, and you can edit them full screen. No account needed.. · remote, Cursor, Claude, VS Code
@@ -72,6 +72,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://server.smithery.ai/@ChiR24/unreal_mcp_server/mcp`
 - [Hyperbrowserai](https://plugmcp.ai/mcp/hyperbrowserai-mcp) · [repo](https://github.com/hyperbrowserai/mcp) — A MCP server implementation for hyperbrowser # Hyperbrowser MCP Server [![smithery. · remote, Cursor, Claude, VS Code
   `remote https://smithery.ai/server/@hyperbrowserai/mcp`
+- [AnythingMCP](https://plugmcp.ai/mcp/io.github.helpcode-ai-anythingmcp) · [repo](https://github.com/HelpCode-ai/anythingmcp) — AnythingMCP: self-hosted MCP gateway English · Deutsch · 简体中文 · 日本語 AnythingMCP is an open-source, self-hosted MCP gateway that turns any. · official, remote, Cursor, Claude, VS Code
+  `remote https://cloud.anythingmcp.com/mcp`
 - [Playwright](https://plugmcp.ai/mcp/microsoft-playwright-mcp) · [repo](https://github.com/microsoft/playwright-mcp) — Fast and lightweight. Uses Playwright's accessibility tree, not pixel-based input.. LLM-friendly. No vision models needed, operates purely. · remote, Cursor, Claude, VS Code
   `remote https://docs.factory.ai/cli/configuration/mcp`
 - [MCP Cli](https://plugmcp.ai/mcp/philschmid-mcp-cli) · [repo](https://github.com/philschmid/mcp-cli) — Lightweight - Minimal dependencies, fast startup. Single Binary - Compile to standalone executable via bun build --compile. Shell-Friendly. · remote, Cursor, Claude, VS Code
@@ -80,5 +82,3 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://mcp.desktopcommander.app`
 - [Ui.Vision MCP](https://plugmcp.ai/mcp/io.github.a9t9-uivision-mcp) · [repo](https://github.com/A9T9/RPA) — MCP server for browser and desktop automation: OCR, image recognition, real mouse and keyboard input # Ui.Vision - Browser and Desktop. · official, remote, Cursor, Claude, VS Code
   `remote https://ui.vision/mcp`
-- [OpenMetadata](https://plugmcp.ai/mcp/io.github.open-metadata-openmetadata-mcp) · [repo](https://github.com/open-metadata/OpenMetadata) — What does this metric mean and how is it calculated?. Which datasets power this dashboard?. Who owns this data product? · official, remote, Cursor, Claude, VS Code
-  `remote https://{openmetadata_host}/mcp`

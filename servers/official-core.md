@@ -64,21 +64,21 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
   `npx -y @antv/mcp-server-chart@0.9.0-beta.1`
 - [FunASR](https://plugmcp.ai/mcp/io.github.modelscope-funasr-mcp) · [repo](https://github.com/modelscope/FunASR) — ( |English| | ) Industrial speech recognition toolkit for offline, streaming, and edge deployment. ASR · VAD · punctuation · speaker. · official, local, Cursor, Claude
   `docker run -i --rm ghcr.io/modelscope/funasr-mcp:0.1.2`
-- [Pg Aiguide](https://plugmcp.ai/mcp/io.github.timescale-pg-aiguide) · [repo](https://github.com/timescale/pg-aiguide) — missing constraints and indexes. unaware of modern PG features. inconsistent with real-world best practices · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.tigerdata.com/docs`
 - [Hyperresearch Answers](https://plugmcp.ai/mcp/ai.hyperresearch-answers) · [repo](https://github.com/jordan-gibbs/hyperresearch-answers) — One question, one checked answer: quote-verified answers from the web and ~45 structured sources. # Hyperresearch Answers (MCP) <img. · official, remote, Cursor, Claude, VS Code
   `remote https://answers.hyperresearch.ai/mcp`
+- [Pg Aiguide](https://plugmcp.ai/mcp/io.github.timescale-pg-aiguide) · [repo](https://github.com/timescale/pg-aiguide) — missing constraints and indexes. unaware of modern PG features. inconsistent with real-world best practices · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.tigerdata.com/docs`
 - [Llmwiki](https://plugmcp.ai/mcp/io.github.atomicstrata-llmwiki) · [repo](https://github.com/atomicstrata/llm-wiki-compiler) — Compile documents into a cited knowledge wiki. Retrieve evidence, query, and review via local MCP. # llmwiki. · official, local, Cursor, Claude
   `npx -y llm-wiki-compiler@1.5.0`
-- [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
-  `uvx openosint==2.38.2`
 - [OpenOSINT](https://plugmcp.ai/mcp/io.github.sonotommy-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
   `uvx openosint==2.15.2`
+- [OpenOSINT](https://plugmcp.ai/mcp/io.github.openosint-openosint) · [repo](https://github.com/OpenOSINT/OpenOSINT) — mcp-name: io.github.OpenOSINT/openosint OpenOSINT An OSINT (Open Source Intelligence) agent for security researchers and analysts: 21. · official, local, Cursor, Claude
+  `uvx openosint==2.38.2`
 - [Wigolo](https://plugmcp.ai/mcp/io.github.knockoutez-wigolo) · [repo](https://github.com/KnockOutEZ/wigolo) — Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with Claude Code · Cursor · Codex · Gemini CLI ·. · official, local, Cursor, Claude, VS Code
   `npx -y wigolo@0.2.1`
 - [Unreal Engine](https://plugmcp.ai/mcp/io.github.chir24-unreal-engine-mcp) · [repo](https://github.com/ChiR24/Unreal_mcp.git) — EngineWire EngineWire connects Claude, Cursor, VS Code or any other MCP client to a running Unreal Editor, and let it build levels,. · official, local, Cursor, Claude
   `npx -y unreal-engine-mcp-server@0.6.1-beta-b`
 - [Memorix](https://plugmcp.ai/mcp/io.github.avids2-memorix) · [repo](https://github.com/AVIDS2/memorix) — Memorix Local-first shared memory layer for AI coding agents. One project memory system for Claude Code, Codex, CodeBuddy Code, Cursor,. · official, local, Cursor, Claude
   `npx -y memorix@1.10.4`
-- [Comfyui](https://plugmcp.ai/mcp/io.github.artokun-comfyui-mcp) · [repo](https://github.com/artokun/comfyui-mcp) — MCP server + Claude Code plugin for ComfyUI: run workflows, generate images, manage models & VRAM. # comfyui-mcp — drive ComfyUI with ANY. · official, local, Cursor, Claude
-  `npx -y comfyui-mcp@0.52.206`
+- [Unbrowse](https://plugmcp.ai/mcp/io.github.unbrowse-ai-unbrowse) · [repo](https://github.com/unbrowse-ai/unbrowse) — Websites as APIs: read pages, run site tasks via learned APIs, cloud browser with saved logins. # Unbrowse Unbrowse is the open-source CLI. · official, remote, Cursor, Claude, VS Code
+  `remote https://unbrowse.ai/mcp`
