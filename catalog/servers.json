@@ -11703,6 +11703,19 @@
       "stars": 1072,
       "quality": 21,
       "install": "remote https://mcp.apify.com"
+    },
+    {
+      "name": "Social Fetch",
+      "slug": "social-fetch",
+      "shelf": "browser",
+      "plugmcp_url": "https://plugmcp.ai/mcp/social-fetch",
+      "github_url": "https://github.com/social-freak-ltd/socialfetch-mcp",
+      "blurb": "Public social media posts, profiles, comments, transcripts and search results as JSON for AI agents.",
+      "official": true,
+      "remote": true,
+      "stars": 1,
+      "quality": 0,
+      "install": null
     }
   ]
 }
