@@ -2,7 +2,7 @@
   "updated": "2026-11-23",
   "source": "https://github.com/plugmcp-ai/awesome-mcp-servers",
   "directory": "https://plugmcp.ai/mcp",
-  "count": 900,
+  "count": 901,
   "servers": [
     {
       "name": "Context7",
@@ -7711,6 +7711,19 @@
       "remote": false,
       "stars": 2245,
       "quality": 30,
+      "install": null
+    },
+    {
+      "name": "i2v.ai",
+      "slug": "i2v-ai-mcp-server",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp/i2v-ai-mcp-server",
+      "github_url": "https://github.com/i2v-ai/i2v-mcp",
+      "blurb": "Generate images and videos across 12 image and 16 video models from one hosted MCP server, with a USD quote before every paid task and a caller-set spending ceiling.",
+      "official": false,
+      "remote": true,
+      "stars": 0,
+      "quality": 0,
       "install": null
     },
     {
