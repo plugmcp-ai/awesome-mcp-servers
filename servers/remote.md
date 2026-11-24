@@ -34,12 +34,14 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://oyabrowser.com/mcp/pool`
 - [AI Game Developer: MCP For Unity, Unreal And Godot](https://plugmcp.ai/mcp/io.github.ivanmurzak-unity-mcp) · [repo](https://github.com/IvanMurzak/Unity-MCP) — AI Game Developer — Unity SKILLS, MCP | | Unity MCP is an AI-powered game development assistant for Editor & Runtime. Connect Claude,. · official, remote, Cursor, Claude, VS Code
   `remote https://ai-game.dev/mcp`
+- [X (Twitter) MCP Server By Xquik](https://plugmcp.ai/mcp/com.xquik-mcp) · [repo](https://github.com/Xquik-dev/x-twitter-scraper) — Structured X data with 1 API key. Server-side Tweet and profile filters. Per-result billing and pre-run estimates · official, remote, Cursor, Claude, VS Code
+  `remote https://xquik.com/mcp`
 - [Ekwo OS — Open Source Accounting: Ledger, Invoices And VAT On Your Own Supabase Or Postgres](https://plugmcp.ai/mcp/ai.ekwo-mcp) · [repo](https://github.com/Ekwo-ai/ekwo-os) — The core — schema, posting rules, taxes, reports, financial statements,. A country pack for every country listed below, each a versioned. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.ekwo.ai/mcp`
-- [PlaywrightGen](https://plugmcp.ai/mcp/com.playwrightgen-playwrightgen) · [repo](https://github.com/hmamut39/playwrightgen) — Prompt → Playwright test generation. Component → Playwright test generation. Component → unit test generation · official, remote, Cursor, Claude, VS Code
-  `remote https://playwrightgen.com/api/mcp`
 - [ElevenLabs](https://plugmcp.ai/mcp/io.elevenlabs-mcp) · [repo](https://github.com/elevenlabs/plugin) — Manage ElevenLabs voice agents and generate speech, music, sound effects, images, and video. · official, remote, Cursor, Claude, VS Code
   `remote https://api.us.elevenlabs.io/v1/mcp`
+- [PlaywrightGen](https://plugmcp.ai/mcp/com.playwrightgen-playwrightgen) · [repo](https://github.com/hmamut39/playwrightgen) — Prompt → Playwright test generation. Component → Playwright test generation. Component → unit test generation · official, remote, Cursor, Claude, VS Code
+  `remote https://playwrightgen.com/api/mcp`
 - [Openstatus](https://plugmcp.ai/mcp/dev.openstatus-mcp) · [repo](https://github.com/openstatusHQ/openstatus) — openstatus The open-source status page, incident response and uptime monitoring platform. Learn more » Documentation · Website · Discord · official, remote, Cursor, Claude, VS Code
   `remote https://api.openstatus.dev/mcp`
 - [Korean Law MCP](https://plugmcp.ai/mcp/io.github.chrisryugj-korean-law-mcp) · [repo](https://github.com/chrisryugj/korean-law-mcp) — Korean law: statutes, precedents, ordinances, treaties and citation verification (법제처 API). # Korean Law MCP **법제처 42개 API를 10개 도구로.**. · official, remote, Cursor, Claude, VS Code
@@ -60,25 +62,23 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://three.ws/api/mcp-grok`
 - [Three.ws 3D Studio (free)](https://plugmcp.ai/mcp/io.github.nirholas-threews-3d-studio-free) · [repo](https://github.com/nirholas/three.ws) — Free text/image → 3D: generate, rig, avatar-ify, and refine GLB models. No auth, no payment. # three.ws [**Website**](https://three.ws) ·. · official, remote, Cursor, Claude, VS Code
   `remote https://three.ws/api/mcp-studio`
+- [Three.ws Pump.fun MCP](https://plugmcp.ai/mcp/io.github.nirholas-threews-pumpfun) · [repo](https://github.com/nirholas/three.ws) — Free pump.fun and Solana token discovery and on-chain analysis tools, by three.ws. # three.ws <!-- mcp-name: io.github.nirholas/three.ws. · official, remote, Cursor, Claude, VS Code
+  `remote https://three.ws/api/pump-fun-mcp`
 - [Neon](https://plugmcp.ai/mcp/com.neon-mcp) · [repo](https://github.com/neondatabase/mcp-server-neon) — Official Neon MCP server for managing Neon projects and Lakebase Postgres databases. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.neon.tech/mcp`
+- [SandBase](https://plugmcp.ai/mcp/io.github.sandbaseai-cli) · [repo](https://github.com/sandbaseai/cli) — @sandbaseai/cli Give your AI agent superpowers. One line. 2,000+ AI models and APIs. 100 free data API calls a day, then pay per call from. · official, remote, Cursor, Claude, VS Code
+  `remote https://api.sandbase.ai/v1/mcp`
 - [Hyperresearch Answers](https://plugmcp.ai/mcp/ai.hyperresearch-answers) · [repo](https://github.com/jordan-gibbs/hyperresearch-answers) — One question, one checked answer: quote-verified answers from the web and ~45 structured sources. # Hyperresearch Answers (MCP) <img. · official, remote, Cursor, Claude, VS Code
   `remote https://answers.hyperresearch.ai/mcp`
 - [Pg Aiguide](https://plugmcp.ai/mcp/io.github.timescale-pg-aiguide) · [repo](https://github.com/timescale/pg-aiguide) — missing constraints and indexes. unaware of modern PG features. inconsistent with real-world best practices · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.tigerdata.com/docs`
+- [Pubmed](https://plugmcp.ai/mcp/io.github.cyanheads-pubmed-mcp-server) · [repo](https://github.com/cyanheads/pubmed-mcp-server) — @cyanheads/pubmed-mcp-server Search PubMed/Europe PMC, fetch articles and full text (PMC/EPMC/Unpaywall), citations, MeSH terms via MCP.. · official, remote, Cursor, Claude, VS Code
+  `remote https://pubmed.caseyjhand.com/mcp`
 - [Unbrowse](https://plugmcp.ai/mcp/io.github.unbrowse-ai-unbrowse) · [repo](https://github.com/unbrowse-ai/unbrowse) — Websites as APIs: read pages, run site tasks via learned APIs, cloud browser with saved logins. # Unbrowse Unbrowse is the open-source CLI. · official, remote, Cursor, Claude, VS Code
   `remote https://unbrowse.ai/mcp`
 - [Excalidraw](https://plugmcp.ai/mcp/excalidraw-excalidraw-mcp) · [repo](https://github.com/excalidraw/excalidraw-mcp) — Official Excalidraw MCP App. Your agent draws hand-drawn diagrams live in the chat, and you can edit them full screen. No account needed.. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.excalidraw.com/mcp`
+- [Customermates](https://plugmcp.ai/mcp/io.github.benjiwagner-customermates) · [repo](https://github.com/customermates/customermates) — Follow up on every client conversation. The source-available CRM with LinkedIn and email beside every client, replies drafted by Mate or. · official, remote, Cursor, Claude, VS Code
+  `remote https://customermates.com/api/v1/mcp`
 - [Headroom](https://plugmcp.ai/mcp/headroomlabs-ai-headroom) · [repo](https://github.com/headroomlabs-ai/headroom) — Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the. · official, remote, Cursor, Claude, VS Code
   `remote https://docs.headroomlabs.ai/docs/mcp`
-- [Grandet](https://plugmcp.ai/mcp/io.github.hanzohanzhe-grandet) · [repo](https://github.com/hanzohanzhe/Grandet) — Cheapest API for any model across official, inference and relay providers; find free credits # Grandet: find the cheapest API for any. · official, remote, Cursor, Claude, VS Code
-  `remote https://grandet.ai/mcp`
-- [Finlab Ai](https://plugmcp.ai/mcp/io.github.koreal6803-finlab-ai) · [repo](https://github.com/koreal6803/finlab-ai) — Quantitative trading toolkit with 900+ data columns, backtesting, and 60+ strategy examples. <div align="center"> # FinLab AI **Let AI. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.finlab.finance/mcp`
-- [Monday.com](https://plugmcp.ai/mcp/com.monday-monday.com) · [repo](https://github.com/mondaycom/mcp) — No local installation - Works immediately without setup. Automatic updates - Always get the latest features. Better performance -. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.monday.com/mcp`
-- [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl-mcp-server-mcpso) · [repo](https://github.com/firecrawl/firecrawl-mcp-server) — Search the web, optionally with full page content for each result. Search indexes for developer sources (GitHub issues, merged pull. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.firecrawl.dev/v2/mcp`
-- [Folklore Clinical Variant Interpretation MCP](https://plugmcp.ai/mcp/io.github.helena-bioinformatics-folklore) · [repo](https://github.com/helena-bioinformatics/folklore-mcp) — Germline ACMG/AMP classification, genes, disease associations, literature, and API-key case analysis. · official, remote, Cursor, Claude, VS Code
-  `remote https://api.helena.bio/folklore/v1/mcp`

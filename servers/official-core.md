@@ -50,12 +50,14 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
 - [Reactive Resume](https://plugmcp.ai/mcp/reactive-resume-reactive-resume) · [repo](https://github.com/reactive-resume/reactive-resume) — > [!IMPORTANT] > Repository moved: Reactive Resume now lives at on GitHub. > Docker Hub stays at amruthpillai/reactive-resume. GHCR images. · official, Cursor, Claude
 - [AI Game Developer: MCP For Unity, Unreal And Godot](https://plugmcp.ai/mcp/io.github.ivanmurzak-unity-mcp) · [repo](https://github.com/IvanMurzak/Unity-MCP) — AI Game Developer — Unity SKILLS, MCP | | Unity MCP is an AI-powered game development assistant for Editor & Runtime. Connect Claude,. · official, remote, Cursor, Claude, VS Code
   `remote https://ai-game.dev/mcp`
+- [X (Twitter) MCP Server By Xquik](https://plugmcp.ai/mcp/com.xquik-mcp) · [repo](https://github.com/Xquik-dev/x-twitter-scraper) — Structured X data with 1 API key. Server-side Tweet and profile filters. Per-result billing and pre-run estimates · official, remote, Cursor, Claude, VS Code
+  `remote https://xquik.com/mcp`
 - [Ekwo OS — Open Source Accounting: Ledger, Invoices And VAT On Your Own Supabase Or Postgres](https://plugmcp.ai/mcp/ai.ekwo-mcp) · [repo](https://github.com/Ekwo-ai/ekwo-os) — The core — schema, posting rules, taxes, reports, financial statements,. A country pack for every country listed below, each a versioned. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.ekwo.ai/mcp`
-- [PlaywrightGen](https://plugmcp.ai/mcp/com.playwrightgen-playwrightgen) · [repo](https://github.com/hmamut39/playwrightgen) — Prompt → Playwright test generation. Component → Playwright test generation. Component → unit test generation · official, remote, Cursor, Claude, VS Code
-  `remote https://playwrightgen.com/api/mcp`
 - [ElevenLabs](https://plugmcp.ai/mcp/io.elevenlabs-mcp) · [repo](https://github.com/elevenlabs/plugin) — Manage ElevenLabs voice agents and generate speech, music, sound effects, images, and video. · official, remote, Cursor, Claude, VS Code
   `remote https://api.us.elevenlabs.io/v1/mcp`
+- [PlaywrightGen](https://plugmcp.ai/mcp/com.playwrightgen-playwrightgen) · [repo](https://github.com/hmamut39/playwrightgen) — Prompt → Playwright test generation. Component → Playwright test generation. Component → unit test generation · official, remote, Cursor, Claude, VS Code
+  `remote https://playwrightgen.com/api/mcp`
 - [MCP Server For OSCAL](https://plugmcp.ai/mcp/io.github.awslabs-mcp-server-for-oscal) · [repo](https://github.com/awslabs/mcp-server-for-oscal) — [pypi-badge]: https://img.shields.io/pypi/v/mcp-server-for-oscal.svg [pypi-url]: https://pypi.org/project/mcp-server-for-oscal/. · official, local, Cursor, Claude, VS Code
   `uvx mcp-server-for-oscal==0.4.0`
 - [Openstatus](https://plugmcp.ai/mcp/dev.openstatus-mcp) · [repo](https://github.com/openstatusHQ/openstatus) — openstatus The open-source status page, incident response and uptime monitoring platform. Learn more » Documentation · Website · Discord · official, remote, Cursor, Claude, VS Code
@@ -78,5 +80,3 @@ Vendor-backed and high-signal MCP servers. Full list index: [README](../README.m
   `remote https://strata.klavis.ai/mcp/`
 - [Finance Toolkit](https://plugmcp.ai/mcp/io.github.jerbouma-financetoolkit) · [repo](https://github.com/JerBouma/FinanceToolkit) — While browsing a variety of websites, I repeatedly observed significant fluctuations in the same financial metric among different sources.. · official, remote, Cursor, Claude, VS Code
   `remote https://financetoolkit.jeroenbouma.com/mcp`
-- [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.tradingmcp.ai/mcp`
