@@ -9,6 +9,7 @@ Repos, git, docs, and coding workflows. Full list index: [README](../README.md).
   `uvx mcp-server-git`
 - [Memory](https://plugmcp.ai/mcp/modelcontextprotocol-server-memory) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) — The reference memory server from the Model Context Protocol project. It keeps a knowledge graph in a local file: entities with. · local, Cursor, Claude
   `npx -y @modelcontextprotocol/server-memory`
+- [Github](https://plugmcp.ai/mcp/github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · Cursor, Claude, VS Code
 - [Everything](https://plugmcp.ai/mcp/modelcontextprotocol-server-everything) · [repo](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) — The reference test server from the Model Context Protocol project. It implements every part of the protocol, including tools, resources,. · local, Cursor, Claude
   `npx -y @modelcontextprotocol/server-everything`
 - [Cc Switch](https://plugmcp.ai/mcp/farion1231-cc-switch) · [repo](https://github.com/farion1231/cc-switch) — One App, Twelve Tools — Claude Code, Claude Desktop, Codex, Gemini CLI, Grok Build, OpenCode, OpenClaw, Hermes, Pi, MiniMax Code, Kimi. · Cursor, Claude
@@ -45,4 +46,3 @@ Repos, git, docs, and coding workflows. Full list index: [README](../README.md).
 - [Codegraph](https://plugmcp.ai/mcp/colbymchenry-codegraph) · [repo](https://github.com/colbymchenry/codegraph) — Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro,. · Cursor, Claude
 - [Mole](https://plugmcp.ai/mcp/tw93-mole) · [repo](https://github.com/tw93/Mole) — macOS · Windows · Linux Mole Deep clean, uninstall, optimize, analyze disk and monitor your Mac. Free open-source CLI, plus a Mac app.. · Cursor, Claude
 - [OpenSpec](https://plugmcp.ai/mcp/fission-ai-openspec) · [repo](https://github.com/Fission-AI/OpenSpec) — The most loved spec framework. Our philosophy: text → fluid not rigid → iterative not waterfall → easy not complex → built for brownfield. · Cursor, Claude
-- [Awesome Vue](https://plugmcp.ai/mcp/vuejs-awesome-vue) · [repo](https://github.com/vuejs/awesome-vue) — Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0a3d78fca341a9739a42bf6cd95d/contents/README.md] · Cursor, Claude

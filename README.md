@@ -13,7 +13,7 @@
   <a href="https://github.com/plugmcp-ai/awesome-mcp-servers/stargazers"><img src="https://img.shields.io/github/stars/plugmcp-ai/awesome-mcp-servers?style=flat" alt="GitHub stars" /></a>
   <a href="https://plugmcp.ai/mcp"><img src="https://img.shields.io/badge/directory-plugmcp.ai-111111" alt="PlugMCP directory" /></a>
   <a href="https://plugmcp.ai/mcp/submit"><img src="https://img.shields.io/badge/submit-server-0a7" alt="Submit a server" /></a>
-  <img src="https://img.shields.io/badge/updated-2026-11-24-informational" alt="Updated 2026-11-24" />
+  <img src="https://img.shields.io/badge/updated-2026-11-25-informational" alt="Updated 2026-11-25" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 Ranked MCP servers you can install in Cursor, Claude, and VS Code, checked against the PlugMCP directory. This repo keeps the usable shelf (~280 servers in markdown, 900 in the machine catalog, 400 skills). Search the full index at [plugmcp.ai/mcp](https://plugmcp.ai/mcp).
 
-Updated 2026-11-24. Submit on PlugMCP first, then open a catalog PR — see [CONTRIBUTING.md](CONTRIBUTING.md).
+Updated 2026-11-25. Submit on PlugMCP first, then open a catalog PR — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Start here
 
@@ -67,7 +67,7 @@ Servers people actually search for. Each row links to its PlugMCP page (install,
   `npx -y @modelcontextprotocol/server-sequential-thinking`
 - [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.secforge-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude
   `npx -y @secforge/chrome-devtools-mcp@1.10.1004`
-- [Github](https://plugmcp.ai/mcp/github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · official, Cursor, Claude, VS Code
+- [Github](https://plugmcp.ai/mcp/github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · Cursor, Claude, VS Code
 - [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents. · official, local, Cursor, Claude, VS Code
   `npx -y notion-mcp-server@3.5.0`
 - [Apify](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
@@ -122,7 +122,7 @@ Machine catalog: [catalog/servers.json](catalog/servers.json) · [catalog/skills
 - [Firecrawl](https://plugmcp.ai/mcp/firecrawl-firecrawl) · [repo](https://github.com/firecrawl/firecrawl) — Search: Find information across the web. Scrape: Clean data from any page. Interact: Click, navigate, and operate pages · Cursor, Claude
 - [Paseo](https://plugmcp.ai/mcp/getpaseo-paseo) · [repo](https://github.com/getpaseo/paseo) — Paseo English · 简体中文 · 日本語 · 한국어 One interface for Claude Code, Codex, Copilot, OpenCode, Pi, Antigravity, and Muse Code agents. Paseo is. · Cursor, Claude
 - [SurfSense](https://plugmcp.ai/mcp/modsetter-surfsense) · [repo](https://github.com/MODSetter/SurfSense) — Rationale and how to change it: plans/community-local/seo/06-repo-readme.md. Anything added replaces something (AGENTS.md). The agent copy. · Cursor, Claude
-- [Scumble](https://plugmcp.ai/mcp/scumble-app-scumble) · [repo](https://github.com/scumble-app/scumble) — Scumble An AI-native image editor for ComfyUI and the models you already use. Inpaint, edit, upscale and generate, and every edit comes. · official, Cursor, Claude
+- [Scumble](https://plugmcp.ai/mcp/scumble-app-scumble) · [repo](https://github.com/scumble-app/scumble) — Scumble An AI-native image editor for ComfyUI and the models you already use. Inpaint, edit, upscale and generate, and every edit comes. · Cursor, Claude
 - [ARTEX](https://plugmcp.ai/mcp/baarai-artex) · [repo](https://github.com/BaaRai/ARTEX) — ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0) <div align="center"> <img. · Cursor, Claude
 - [Playwright Cli](https://plugmcp.ai/mcp/microsoft-playwright-cli) · [repo](https://github.com/microsoft/playwright-cli) — Token-efficient. Does not force page data into LLM. · Cursor, Claude
 - [MR Office](https://plugmcp.ai/mcp/ai.mroffice-office) · [repo](https://github.com/XinaTian/MROffice) — Create, open and edit documents, spreadsheets and PDFs in MR Office's editor, inline in chat. # MR Office <p align="center"><sub>🌐 <a. · official, remote, Cursor, Claude, VS Code
@@ -130,10 +130,10 @@ Machine catalog: [catalog/servers.json](catalog/servers.json) · [catalog/skills
 - [Jantt](https://plugmcp.ai/mcp/ahmadhassan-bted-jantt) · [repo](https://github.com/AhmadHassan-BTed/Jantt) — Create interactive Gantt charts with AI — no code required, free forever. Built-in BYOK AI Copilot (10 providers + Ollama), free cloud. · Cursor, Claude
 - [Fast Anything](https://plugmcp.ai/mcp/el4cteo-fast-anything) · [repo](https://github.com/EL4CTEO/fast-anything) — Don't rewrite it in Rust. Rewrite the 5% that's slow. Rewriting a whole app in Rust costs months, minute-long compiles and gigabytes of. · Cursor, Claude
 - [Blender Ai MCP Addon](https://plugmcp.ai/mcp/bookwjitchieni1986-blender-ai-mcp-addon) · [repo](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama,. · Cursor, Claude
+- [Agy Fast](https://plugmcp.ai/mcp/ink-q-agy-fast) · [repo](https://github.com/INK-Q/agy-fast) — Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload. · Cursor, Claude
 - [AudioSmith](https://plugmcp.ai/mcp/hehehai-audiosmith) · [repo](https://github.com/hehehai/AudioSmith) — AudioSmith A voice studio that runs on your Mac. Speech, voices, stories, audiobooks, dubbing, transcription, voice isolation and. · Cursor, Claude
 - [IncarnaMind](https://plugmcp.ai/mcp/incarnamind-incarnamind) · [repo](https://github.com/IncarnaMind/IncarnaMind) — English · 简体中文 IncarnaMind The artifact layer for any agent: what your AI writes, checked against your files. A free, open-source desktop. · Cursor, Claude
-- [Agy Fast](https://plugmcp.ai/mcp/ink-q-agy-fast) · [repo](https://github.com/INK-Q/agy-fast) — Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload. · Cursor, Claude
-- [ProtoForge](https://plugmcp.ai/mcp/suoten-protoforge) · [repo](https://github.com/suoten/ProtoForge) — ProtoForge 一台电脑 = 32 种工业设备 ProtoForge — an open-source (MIT) industrial protocol simulator: 32 protocols (Modbus/S7/OPC-UA/IEC. · Cursor, Claude
+- [Mareader](https://plugmcp.ai/mcp/codewiththiha-mareader) · [repo](https://github.com/codewiththiha/mareader) — Mareader A reader for PDFs and EPUBs, shaped around the way you read. Open a quiet page or build a four-pane reading desk. Keep notes,. · Cursor, Claude
 
 ## Browse on PlugMCP
 

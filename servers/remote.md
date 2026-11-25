@@ -58,10 +58,10 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://financetoolkit.jeroenbouma.com/mcp`
 - [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.tradingmcp.ai/mcp`
-- [Three.ws For Grok](https://plugmcp.ai/mcp/io.github.nirholas-threews-grok) · [repo](https://github.com/nirholas/three.ws) — Free text/image to 3D for Grok Bot, plus your three.ws agents once signed in. Never spends. # three.ws <!-- mcp-name:. · official, remote, Cursor, Claude, VS Code
-  `remote https://three.ws/api/mcp-grok`
 - [Three.ws 3D Studio (free)](https://plugmcp.ai/mcp/io.github.nirholas-threews-3d-studio-free) · [repo](https://github.com/nirholas/three.ws) — Free text/image → 3D: generate, rig, avatar-ify, and refine GLB models. No auth, no payment. # three.ws [**Website**](https://three.ws) ·. · official, remote, Cursor, Claude, VS Code
   `remote https://three.ws/api/mcp-studio`
+- [Three.ws For Grok](https://plugmcp.ai/mcp/io.github.nirholas-threews-grok) · [repo](https://github.com/nirholas/three.ws) — Free text/image to 3D for Grok Bot, plus your three.ws agents once signed in. Never spends. # three.ws <!-- mcp-name:. · official, remote, Cursor, Claude, VS Code
+  `remote https://three.ws/api/mcp-grok`
 - [Three.ws Pump.fun MCP](https://plugmcp.ai/mcp/io.github.nirholas-threews-pumpfun) · [repo](https://github.com/nirholas/three.ws) — Free pump.fun and Solana token discovery and on-chain analysis tools, by three.ws. # three.ws <!-- mcp-name: io.github.nirholas/three.ws. · official, remote, Cursor, Claude, VS Code
   `remote https://three.ws/api/pump-fun-mcp`
 - [Neon](https://plugmcp.ai/mcp/com.neon-mcp) · [repo](https://github.com/neondatabase/mcp-server-neon) — Official Neon MCP server for managing Neon projects and Lakebase Postgres databases. · official, remote, Cursor, Claude, VS Code
@@ -74,11 +74,11 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://mcp.tigerdata.com/docs`
 - [Pubmed](https://plugmcp.ai/mcp/io.github.cyanheads-pubmed-mcp-server) · [repo](https://github.com/cyanheads/pubmed-mcp-server) — @cyanheads/pubmed-mcp-server Search PubMed/Europe PMC, fetch articles and full text (PMC/EPMC/Unpaywall), citations, MeSH terms via MCP.. · official, remote, Cursor, Claude, VS Code
   `remote https://pubmed.caseyjhand.com/mcp`
+- [Livetennisapi](https://plugmcp.ai/mcp/io.github.livetennisapi-livetennisapi-mcp) · [repo](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis scores, players, rankings, odds and win-probability. ATP, WTA, Challenger, ITF, juniors. <div align="center"> <img. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.livetennisapi.com/mcp`
 - [Unbrowse](https://plugmcp.ai/mcp/io.github.unbrowse-ai-unbrowse) · [repo](https://github.com/unbrowse-ai/unbrowse) — Websites as APIs: read pages, run site tasks via learned APIs, cloud browser with saved logins. # Unbrowse Unbrowse is the open-source CLI. · official, remote, Cursor, Claude, VS Code
   `remote https://unbrowse.ai/mcp`
 - [Excalidraw](https://plugmcp.ai/mcp/excalidraw-excalidraw-mcp) · [repo](https://github.com/excalidraw/excalidraw-mcp) — Official Excalidraw MCP App. Your agent draws hand-drawn diagrams live in the chat, and you can edit them full screen. No account needed.. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.excalidraw.com/mcp`
 - [Customermates](https://plugmcp.ai/mcp/io.github.benjiwagner-customermates) · [repo](https://github.com/customermates/customermates) — Follow up on every client conversation. The source-available CRM with LinkedIn and email beside every client, replies drafted by Mate or. · official, remote, Cursor, Claude, VS Code
   `remote https://customermates.com/api/v1/mcp`
-- [Headroom](https://plugmcp.ai/mcp/headroomlabs-ai-headroom) · [repo](https://github.com/headroomlabs-ai/headroom) — Quickstart · Headroom for Teams · Install · Proof · Agents · Docs · Discord · llms.txt AI agents / LLMs: read /llms.txt here, or fetch the. · official, remote, Cursor, Claude, VS Code
-  `remote https://docs.headroomlabs.ai/docs/mcp`

@@ -22,7 +22,6 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://mcp.exa.ai/mcp`
 - [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.secforge-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude
   `npx -y @secforge/chrome-devtools-mcp@1.10.1004`
-- [Github](https://plugmcp.ai/mcp/github-github-mcp-server) · [repo](https://github.com/github/github-mcp-server) — GitHub's official MCP Server [![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server/v2)](https://goreportcar. · official, Cursor, Claude, VS Code
 - [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents. · official, local, Cursor, Claude, VS Code
   `npx -y notion-mcp-server@3.5.0`
 - [Apify](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
@@ -75,8 +74,10 @@ Published by the product they connect to. Full list index: [README](../README.md
 - [OpenAccountants](https://plugmcp.ai/mcp/io.github.openaccountants-openaccountants) · [repo](https://github.com/openaccountants/openaccountants) — Tax skills in 190+ jurisdictions. Sources and accountant approval status shown per skill. # OpenAccountants **Open tax skills for AI.**. · official, remote, Cursor, Claude, VS Code
   `remote https://www.openaccountants.com/api/mcp`
 - [Zotero MCP](https://plugmcp.ai/mcp/io.github.54yyyu-zotero-mcp) · [repo](https://github.com/54yyyu/zotero-mcp) — Zotero MCP: Chat with your Research Library in Claude, ChatGPT, and more Your Zotero library, in every AI agent. Search, read, cite and. · official, local, Cursor, Claude, VS Code
-  `uvx zotero-mcp-server==0.17.3`
+  `uvx zotero-mcp-server==0.17.4`
 - [Strata](https://plugmcp.ai/mcp/ai.klavis-strata) · [repo](https://github.com/Klavis-AI/klavis) — MCP server for progressive tool usage at any scale (see https://klavis.ai) · official, remote, Cursor, Claude, VS Code
   `remote https://strata.klavis.ai/mcp/`
 - [Finance Toolkit](https://plugmcp.ai/mcp/io.github.jerbouma-financetoolkit) · [repo](https://github.com/JerBouma/FinanceToolkit) — While browsing a variety of websites, I repeatedly observed significant fluctuations in the same financial metric among different sources.. · official, remote, Cursor, Claude, VS Code
   `remote https://financetoolkit.jeroenbouma.com/mcp`
+- [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.tradingmcp.ai/mcp`
