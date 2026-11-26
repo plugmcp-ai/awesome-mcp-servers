@@ -32,6 +32,8 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://mcp.firecrawl.dev/v2/mcp`
 - [Oya Browser](https://plugmcp.ai/mcp/io.github.oyadotai-oya-browser) · [repo](https://github.com/OyadotAI/oya-browser) — The browser for regulated industries (community version). People and AI agents work together in one browser, with control over where it. · official, remote, Cursor, Claude, VS Code
   `remote https://oyabrowser.com/mcp/pool`
+- [Runx](https://plugmcp.ai/mcp/ai.runx-runx) · [repo](https://github.com/runxhq/runx) — runx The governed runtime for agent skills Quickstart · Workflows · Write a skill · Receipts · Build on Runx --- text A skill is a URL. A. · official, remote, Cursor, Claude, VS Code
+  `remote https://api.runx.ai/mcp`
 - [AI Game Developer: MCP For Unity, Unreal And Godot](https://plugmcp.ai/mcp/io.github.ivanmurzak-unity-mcp) · [repo](https://github.com/IvanMurzak/Unity-MCP) — AI Game Developer — Unity SKILLS, MCP | | Unity MCP is an AI-powered game development assistant for Editor & Runtime. Connect Claude,. · official, remote, Cursor, Claude, VS Code
   `remote https://ai-game.dev/mcp`
 - [X (Twitter) MCP Server By Xquik](https://plugmcp.ai/mcp/com.xquik-mcp) · [repo](https://github.com/Xquik-dev/x-twitter-scraper) — Structured X data with 1 API key. Server-side Tweet and profile filters. Per-result billing and pre-run estimates · official, remote, Cursor, Claude, VS Code
@@ -58,10 +60,10 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://financetoolkit.jeroenbouma.com/mcp`
 - [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.tradingmcp.ai/mcp`
-- [Three.ws 3D Studio (free)](https://plugmcp.ai/mcp/io.github.nirholas-threews-3d-studio-free) · [repo](https://github.com/nirholas/three.ws) — Free text/image → 3D: generate, rig, avatar-ify, and refine GLB models. No auth, no payment. # three.ws [**Website**](https://three.ws) ·. · official, remote, Cursor, Claude, VS Code
-  `remote https://three.ws/api/mcp-studio`
 - [Three.ws For Grok](https://plugmcp.ai/mcp/io.github.nirholas-threews-grok) · [repo](https://github.com/nirholas/three.ws) — Free text/image to 3D for Grok Bot, plus your three.ws agents once signed in. Never spends. # three.ws <!-- mcp-name:. · official, remote, Cursor, Claude, VS Code
   `remote https://three.ws/api/mcp-grok`
+- [Three.ws 3D Studio (free)](https://plugmcp.ai/mcp/io.github.nirholas-threews-3d-studio-free) · [repo](https://github.com/nirholas/three.ws) — Free text/image → 3D: generate, rig, avatar-ify, and refine GLB models. No auth, no payment. # three.ws [**Website**](https://three.ws) ·. · official, remote, Cursor, Claude, VS Code
+  `remote https://three.ws/api/mcp-studio`
 - [Three.ws Pump.fun MCP](https://plugmcp.ai/mcp/io.github.nirholas-threews-pumpfun) · [repo](https://github.com/nirholas/three.ws) — Free pump.fun and Solana token discovery and on-chain analysis tools, by three.ws. # three.ws <!-- mcp-name: io.github.nirholas/three.ws. · official, remote, Cursor, Claude, VS Code
   `remote https://three.ws/api/pump-fun-mcp`
 - [Neon](https://plugmcp.ai/mcp/com.neon-mcp) · [repo](https://github.com/neondatabase/mcp-server-neon) — Official Neon MCP server for managing Neon projects and Lakebase Postgres databases. · official, remote, Cursor, Claude, VS Code
@@ -76,9 +78,7 @@ Hosted endpoints you can connect without a local install. Full list index: [READ
   `remote https://pubmed.caseyjhand.com/mcp`
 - [Livetennisapi](https://plugmcp.ai/mcp/io.github.livetennisapi-livetennisapi-mcp) · [repo](https://github.com/livetennisapi/livetennisapi-mcp) — Live tennis scores, players, rankings, odds and win-probability. ATP, WTA, Challenger, ITF, juniors. <div align="center"> <img. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.livetennisapi.com/mcp`
-- [Unbrowse](https://plugmcp.ai/mcp/io.github.unbrowse-ai-unbrowse) · [repo](https://github.com/unbrowse-ai/unbrowse) — Websites as APIs: read pages, run site tasks via learned APIs, cloud browser with saved logins. # Unbrowse Unbrowse is the open-source CLI. · official, remote, Cursor, Claude, VS Code
-  `remote https://unbrowse.ai/mcp`
-- [Excalidraw](https://plugmcp.ai/mcp/excalidraw-excalidraw-mcp) · [repo](https://github.com/excalidraw/excalidraw-mcp) — Official Excalidraw MCP App. Your agent draws hand-drawn diagrams live in the chat, and you can edit them full screen. No account needed.. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.excalidraw.com/mcp`
-- [Customermates](https://plugmcp.ai/mcp/io.github.benjiwagner-customermates) · [repo](https://github.com/customermates/customermates) — Follow up on every client conversation. The source-available CRM with LinkedIn and email beside every client, replies drafted by Mate or. · official, remote, Cursor, Claude, VS Code
-  `remote https://customermates.com/api/v1/mcp`
+- [LuxAlgo MCP](https://plugmcp.ai/mcp/io.github.luxalgo-luxalgo-mcp-server) · [repo](https://github.com/LuxAlgo/luxalgo-mcp-server) — LuxAlgo for AI agents: the Library, prop firms, Market Trackers, Edge Stats, and your Trade Journal <img alt="LuxAlgo MCP". · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.luxalgo.com/mcp`
+- [Oxylabs](https://plugmcp.ai/mcp/io.oxylabs-oxylabs-mcp) · [repo](https://github.com/oxylabs/oxylabs-mcp) — Oxylabs MCP Server The missing link between AI models and the real‑world web: one API that delivers clean, structured data from any site.. · official, remote, Cursor, Claude, VS Code
+  `remote https://mcp.oxylabs.io/mcp`

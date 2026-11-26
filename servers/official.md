@@ -23,7 +23,7 @@ Published by the product they connect to. Full list index: [README](../README.md
 - [Chrome DevTools MCP](https://plugmcp.ai/mcp/io.github.secforge-chrome-devtools-mcp) · [repo](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Get performance insights: Uses [Chrome. Advanced browser debugging: Analyze network requests, take screenshots and. Reliable automation.. · official, local, Cursor, Claude
   `npx -y @secforge/chrome-devtools-mcp@1.10.1004`
 - [Notion](https://plugmcp.ai/mcp/io.github.awkoy-notion-mcp-server) · [repo](https://github.com/awkoy/notion-mcp-server) — Token-auth Notion MCP: pages, databases, blocks, comments, files. Runs headless in CI and agents. · official, local, Cursor, Claude, VS Code
-  `npx -y notion-mcp-server@3.5.0`
+  `npx -y notion-mcp-server@3.6.0`
 - [Apify](https://plugmcp.ai/mcp/com.apify-apify-mcp-server) · [repo](https://github.com/apify/apify-mcp-server) — mcp.apify.com The Apify Model Context Protocol (MCP) server at enables your AI agents to extract data from social media, search engines,. · official, remote, Cursor, Claude, VS Code
   `remote https://mcp.apify.com/`
 - [Misakanet](https://plugmcp.ai/mcp/io.github.ikalus1988-misakanet) · [repo](https://github.com/Ikalus1988/MisakaNet) — Failure-memory layer for coding agents: search evidence-rated failure lessons by error text. <div align="right"> [English](README.md) |. · official, remote, Cursor, Claude, VS Code
@@ -46,6 +46,8 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://mcp.firecrawl.dev/v2/mcp`
 - [Oya Browser](https://plugmcp.ai/mcp/io.github.oyadotai-oya-browser) · [repo](https://github.com/OyadotAI/oya-browser) — The browser for regulated industries (community version). People and AI agents work together in one browser, with control over where it. · official, remote, Cursor, Claude, VS Code
   `remote https://oyabrowser.com/mcp/pool`
+- [Runx](https://plugmcp.ai/mcp/ai.runx-runx) · [repo](https://github.com/runxhq/runx) — runx The governed runtime for agent skills Quickstart · Workflows · Write a skill · Receipts · Build on Runx --- text A skill is a URL. A. · official, remote, Cursor, Claude, VS Code
+  `remote https://api.runx.ai/mcp`
 - [Reactive Resume](https://plugmcp.ai/mcp/reactive-resume-reactive-resume) · [repo](https://github.com/reactive-resume/reactive-resume) — > [!IMPORTANT] > Repository moved: Reactive Resume now lives at on GitHub. > Docker Hub stays at amruthpillai/reactive-resume. GHCR images. · official, Cursor, Claude
 - [AI Game Developer: MCP For Unity, Unreal And Godot](https://plugmcp.ai/mcp/io.github.ivanmurzak-unity-mcp) · [repo](https://github.com/IvanMurzak/Unity-MCP) — AI Game Developer — Unity SKILLS, MCP | | Unity MCP is an AI-powered game development assistant for Editor & Runtime. Connect Claude,. · official, remote, Cursor, Claude, VS Code
   `remote https://ai-game.dev/mcp`
@@ -79,5 +81,3 @@ Published by the product they connect to. Full list index: [README](../README.md
   `remote https://strata.klavis.ai/mcp/`
 - [Finance Toolkit](https://plugmcp.ai/mcp/io.github.jerbouma-financetoolkit) · [repo](https://github.com/JerBouma/FinanceToolkit) — While browsing a variety of websites, I repeatedly observed significant fluctuations in the same financial metric among different sources.. · official, remote, Cursor, Claude, VS Code
   `remote https://financetoolkit.jeroenbouma.com/mcp`
-- [TradingMCP](https://plugmcp.ai/mcp/io.github.atilaahmettaner-tradingview-mcp) · [repo](https://github.com/atilaahmettaner/tradingview-mcp) — Real-time market data, screeners, technical analysis & backtesting for stocks, crypto and forex. · official, remote, Cursor, Claude, VS Code
-  `remote https://mcp.tradingmcp.ai/mcp`
