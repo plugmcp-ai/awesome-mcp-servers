@@ -96,6 +96,20 @@
       "install": "remote https://rxresu.me/mcp"
     },
     {
+
+      "name": "NeverApply",
+      "slug": "co.neverapply-neverapply",
+      "shelf": "developer-tools",
+      "plugmcp_url": "https://plugmcp.ai/mcp/neverapply",
+      "github_url": "https://github.com/kasovy/neverapply-mcp",
+      "blurb": "Hosted MCP job-search agent: match jobs, tailor resumes, and apply with approval.",
+      "official": false,
+      "remote": true,
+      "stars": 0,
+      "quality": 0,
+      "install": "remote https://neverapply.co/mcp"
+    },
+{
       "name": "GitHub",
       "slug": "io.github.github-github-mcp-server",
       "shelf": "official-core",
