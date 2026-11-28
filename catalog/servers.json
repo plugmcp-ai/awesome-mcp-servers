@@ -11703,6 +11703,19 @@
       "stars": 11427,
       "quality": 26,
       "install": null
+    },
+    {
+      "name": "Frank AI Researcher",
+      "slug": "ai.hifrank-frank",
+      "shelf": "official-core",
+      "plugmcp_url": "https://plugmcp.ai/mcp/ai.hifrank-frank",
+      "github_url": "https://github.com/nar-vardanyan/frank-mcp",
+      "blurb": "Hosted MCP server for short AI-moderated voice interviews with your own customers.",
+      "official": true,
+      "remote": true,
+      "stars": 0,
+      "quality": 0,
+      "install": "remote https://api.hifrank.ai/mcp"
     }
   ]
 }
